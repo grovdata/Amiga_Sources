@@ -5,7 +5,7 @@ This is a compiled list of sources related to classic Commodore Amiga computers.
 Hardware
 ========
 
-[plipbox parallell port Ethernet interface]()
+[plipbox parallell port Ethernet interface](https://github.com/cnvogelg/plipbox)
 
 [MNT VA 2000 graphics card](https://github.com/mntmn/amiga2000-gfxcard)
 
