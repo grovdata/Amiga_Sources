@@ -38,6 +38,7 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[Planet Rocklobster](https://github.com/AxisOxy/Planet-Rocklobster) | OCS demo written in Assembler | Oxy |
 [projet-secret](https://github.com/voitureblanche/projet-secret) | Demo by Fra/Mandarine written in mostly system-friendly C. | Fra |
 
 ## Games
