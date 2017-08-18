@@ -17,9 +17,9 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
-| [TF520](https://github.com/terriblefire/tf328) | 8MB Fast RAM + IDE board for CD32 | Steven Leary |
+| [TF328](https://github.com/terriblefire/tf328) | 8MB Fast RAM + IDE board for CD32 | Steven Leary |
 | [TF520](https://github.com/terriblefire/tf520) | 68020 accelerator | Steven Leary |
-| [TF520](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
+| [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
 
 
 ## AmigaOS
