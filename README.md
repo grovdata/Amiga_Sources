@@ -40,6 +40,8 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 |---------|-------------|--------|
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
+[ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
+[SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann
 
 ## Demos
 
