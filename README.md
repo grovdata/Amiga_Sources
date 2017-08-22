@@ -13,14 +13,13 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
-| [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan |
+| [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [TF328](https://github.com/terriblefire/tf328) | 8MB Fast RAM + IDE board for CD32 | Steven Leary |
 | [TF520](https://github.com/terriblefire/tf520) | 68020 accelerator | Steven Leary |
 | [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
-
 
 ## AmigaOS
 
@@ -34,6 +33,12 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 |---------|-------------|--------|
 [amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
 
+## Programming tools / toolchains
+
+| Project | Description | Author |
+|---------|-------------|--------|
+[amigaos-cross-toolchain](https://github.com/cahirwpz/amigaos-cross-toolchain) | Cross-compiler based on gcc 2.95 | Krystian Bacławski |
+
 ## Software
 
 | Project | Description | Author |
@@ -42,6 +47,7 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
+[yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
 
 ## Demos
 
@@ -54,8 +60,10 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[AkikoWolf](https://github.com/earok/AkikoWolf) | Wolfenstein 3D port for the CD32 | earok |
 [Beschei](https://github.com/samskivert/beschei-en) | Card game | Michael Bayne |
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
+[Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 
 ## License
 
