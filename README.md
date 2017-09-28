@@ -34,6 +34,11 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 |---------|-------------|--------|
 [amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
 
+## Compilers
+| Project | Description | Author |
+|---------|-------------|--------|
+[GCC 6](https://github.com/bebbo/gcc/) | gcc-6-branch for m68k-amigaos | [bebbo](https://github.com/bebbo/) |
+
 ## Software
 
 | Project | Description | Author |
