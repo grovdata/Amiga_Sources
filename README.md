@@ -1,8 +1,8 @@
-# Commodore Amiga sources
-
 This is a compiled list of free/open sources related to classic Commodore Amiga computers.
 
-## Hardware
+# Hardware
+
+Open Amiga-related hardware projects.
 
 | Project | Description | Author |
 |---------|-------------|--------|
@@ -21,11 +21,22 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 | [TF520](https://github.com/terriblefire/tf520) | 68020 accelerator | Steven Leary |
 | [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
 
+# Development
+
+Everything that has to do with developing for Amiga.
+
 ## AmigaOS
 
 | Project | Description | Author |
 |---------|-------------|--------|
 [AmigaOS 3.x MUI examples](https://github.com/emartisoft/AmigaOS3.X-MUI-Examples)|MUI based C Project Examples for Amiga OS 3.X| emarti |
+
+## Compilers / toolchains
+
+| Project | Description | Author |
+|---------|-------------|--------|
+[amigaos-cross-toolchain](https://github.com/cahirwpz/amigaos-cross-toolchain) | Cross-compiler based on gcc 2.95 | Krystian Bacławski |
+[GCC 6](https://github.com/bebbo/gcc/) | gcc-6-branch for m68k-amigaos | [bebbo](https://github.com/bebbo/) |
 
 ## Low-level programming
 
@@ -33,13 +44,11 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 |---------|-------------|--------|
 [amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
 
-## Programming tools / toolchains
+# Software
 
-| Project | Description | Author |
-|---------|-------------|--------|
-[amigaos-cross-toolchain](https://github.com/cahirwpz/amigaos-cross-toolchain) | Cross-compiler based on gcc 2.95 | Krystian Bacławski |
+Different Amiga applications, demos and games.
 
-## Software
+## Applications
 
 | Project | Description | Author |
 |---------|-------------|--------|
@@ -64,6 +73,8 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 [Beschei](https://github.com/samskivert/beschei-en) | Card game | Michael Bayne |
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
+
+# About
 
 ## License
 
