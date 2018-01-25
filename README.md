@@ -43,6 +43,7 @@ Everything that has to do with developing for Amiga.
 | Project | Description | Author |
 |---------|-------------|--------|
 [libSDL 1.2](https://github.com/AmigaPorts/libSDL12) by various | SDL 1.2 port for AmigaOS/m68k | [AmigaPorts](https://github.com/AmigaPorts) |
+[ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiM](https://github.com/tehKaiN)
 
 ## Low-level programming
 
