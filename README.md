@@ -49,6 +49,7 @@ Everything that has to do with developing for Amiga.
 | Project | Description | Author |
 |---------|-------------|--------|
 [amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
+[Adebug](https://github.com/dverite/adebug-amiga) | Assembly-level debugger | [Daniel Verité](https://github.com/dverite) |
 
 # Software
 
