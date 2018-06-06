@@ -30,6 +30,7 @@ Everything that has to do with developing for Amiga.
 | Project | Description | Author |
 |---------|-------------|--------|
 [AmigaOS 3.x MUI examples](https://github.com/emartisoft/AmigaOS3.X-MUI-Examples)|MUI based C Project Examples for Amiga OS 3.X| emarti |
+[Sample library](https://github.com/alexalkis/library)|Template for a shared .library in assembly and C| alexalkis |
 
 ## Compilers / toolchains
 
