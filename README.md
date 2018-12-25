@@ -65,9 +65,9 @@ Different Amiga applications, demos and games.
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
+[AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
-
 ## Demos
 
 | Project | Description | Author |
