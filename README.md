@@ -68,6 +68,8 @@ Different Amiga applications, demos and games.
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
+[Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
+
 ## Demos
 
 | Project | Description | Author |
