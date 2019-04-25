@@ -6,6 +6,7 @@ Open Amiga-related hardware projects.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+| [A314](https://github.com/niklasekstrom/a314) | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | Matze |
 | [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
