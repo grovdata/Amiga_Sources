@@ -22,7 +22,7 @@ Open Amiga-related hardware projects.
 | [TF328](https://github.com/terriblefire/tf328) | 8MB Fast RAM + IDE board for CD32 | Steven Leary |
 | [TF520](https://github.com/terriblefire/tf520) | 68020 accelerator | Steven Leary |
 | [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
-
+| [TF534](https://github.com/terriblefire/tf534) | 68030 accelerator, improved | Steven Leary |
 # Development
 
 Everything that has to do with developing for Amiga.
