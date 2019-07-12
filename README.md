@@ -71,6 +71,7 @@ Different Amiga applications, demos and games.
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
+[DeluxePaint](https://github.com/DutchmanDavid/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
 
 ## Demos
 
