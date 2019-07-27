@@ -7,6 +7,7 @@ Open Amiga-related hardware projects.
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200/src/default/) | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
+| [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
 | [A314](https://github.com/niklasekstrom/a314) | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | Matze |
