@@ -22,6 +22,7 @@ Open Amiga-related hardware projects.
 | [MNT ZZ9000](https://github.com/mntmn/zz9000-fw) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
+| [SMD-500](https://github.com/gazzmaniac/Amiga-SMD-500) | Surface mount (SMD) remake of Amiga 500 motherboard | gazzmaniac |
 | [TF328](https://github.com/terriblefire/tf328) | 8MB Fast RAM + IDE board for CD32 | Steven Leary |
 | [TF520](https://github.com/terriblefire/tf520) | 68020 accelerator | Steven Leary |
 | [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
