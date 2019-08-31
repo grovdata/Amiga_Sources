@@ -54,6 +54,7 @@ Everything that has to do with developing for Amiga.
 [libSDL 1.2](https://github.com/AmigaPorts/libSDL12) by various | SDL 1.2 port for AmigaOS/m68k | [AmigaPorts](https://github.com/AmigaPorts) |
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
 [Scorpion](https://github.com/earok/scorpion-engine-demos) | Game engine | earok |
+[Tornado](https://github.com/flynn-nrg/tornado-amiga) | Crossdev framework for demos | Capsule |
 
 ## Low-level programming
 
