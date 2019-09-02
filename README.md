@@ -78,6 +78,7 @@ Different Amiga applications, demos and games.
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
 [DeluxePaint](https://github.com/DutchmanDavid/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
+[NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 
 ## Demos
 
