@@ -47,6 +47,7 @@ Everything that has to do with developing for Amiga.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+| [amigeconv](https://github.com/tditlu/amigeconv) | A graphics converter for different Amiga bitplanes, chunky & palette formats | Todi / Tulou |
 [amigaos-cross-toolchain](https://github.com/cahirwpz/amigaos-cross-toolchain) | Cross-compiler based on gcc 2.95 | Krystian Bacławski |
 [GCC 6](https://github.com/bebbo/gcc/) | gcc-6-branch for m68k-amigaos | [bebbo](https://github.com/bebbo/) |
 [Blitz 2](https://github.com/nitrologic/blitz2) | Blitz Basic 2 source code (incomplete) | [Simon Armstrong](https://github.com/nitrologic/) |
