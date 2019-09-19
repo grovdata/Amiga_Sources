@@ -95,6 +95,7 @@ Different Amiga applications, demos and games.
 [Planet Rocklobster](https://github.com/AxisOxy/Planet-Rocklobster) | OCS demo written in Assembler | Oxy |
 [projet-secret](https://github.com/voitureblanche/projet-secret) | Demo by Fra/Mandarine written in mostly system-friendly C. | Fra |
 [Demos in 68000 asm](https://github.com/smart-fun/Amiga) | Oldschool intros written in Assembler | Arnaud Guyon |
+[Serendipity](https://github.com/tgreaves/serendipity) | An OS-friendly music disk | Tristan Greaves |
 
 ## Games
 
