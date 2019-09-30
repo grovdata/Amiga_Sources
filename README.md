@@ -89,6 +89,7 @@ Different Amiga applications, demos and games.
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
 [DeluxePaint](https://github.com/DutchmanDavid/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
+[gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 
 ## Demos
 
