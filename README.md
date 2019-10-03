@@ -96,6 +96,7 @@ Different Amiga applications, demos and games.
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 [gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 [FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al
+[MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
 
 ## Demos
 
