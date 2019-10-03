@@ -63,6 +63,7 @@ Everything that has to do with developing for Amiga.
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
 [Scorpion](https://github.com/earok/scorpion-engine-demos) | Game engine | earok |
 [Tornado](https://github.com/flynn-nrg/tornado-amiga) | Crossdev framework for demos | Capsule |
+[Haujobb Amiga Framework](https://github.com/leifo/haujobb-amiga) | Crossdev framework for demos | Haujobb |
 [AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
 [R-PAGE](https://github.com/ResistanceVault/rpage) | Resistance's Portable-Adventure-Game-Engine | Resistance |
 
