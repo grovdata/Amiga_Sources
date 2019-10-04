@@ -98,6 +98,7 @@ Different Amiga applications, demos and games.
 [FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
+[Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng
 
 ## Demos
 
