@@ -44,6 +44,7 @@ Everything that has to do with developing for Amiga.
 [AmigaOS 3.x MUI examples](https://github.com/emartisoft/AmigaOS3.X-MUI-Examples)|MUI based C Project Examples for Amiga OS 3.X| emarti |
 [Sample library](https://github.com/alexalkis/library)|Template for a shared .library in assembly and C| alexalkis |
 [SmartReadArgs](https://github.com/roskakori/SmartReadArgs)|Workbench/CLI interface to ReadArgs with NewIcons support| Thomas Aglassinger |
+[PatchWork](https://github.com/shred/patchwork) | Verify against illegal library calls | Richard Körber
 
 ## Compilers / toolchains
 
