@@ -4,9 +4,10 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 
 Open Amiga-related hardware projects.
 
+# Development
+
 | Project | Description | Author |
 |---------|-------------|--------|
-# Development
 | [A1200 Kickstart Relocator](https://github.com/tkurbad/A1200_Kickstart_Relocator) | A1200 ROM relocator | Torsten Kurbad |
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200) | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
@@ -17,15 +18,19 @@ Open Amiga-related hardware projects.
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
+| [AmigaPSU_Enclosure_RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
+| [AmigaPSU_Enclosure_ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
+| [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [MNT ZZ9000](https://github.com/mntmn/zz9000-fw) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
+| [RA5-512K](https://github.com/jbilander/RA5-512K) |  A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | Reverse engineered A500 trapdoor expansion | Jörgen Bilander |
 | [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
