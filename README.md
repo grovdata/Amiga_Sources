@@ -18,11 +18,11 @@ Open Amiga-related hardware projects.
 | [A500 8MB FastRAM](https://github.com/kr239/A500-8MB-FastRAM) | 8MB FastRAM Board for the Amiga 500 & Amiga 500+ | [Kai Robinson](https://github.com/kr239) |
 | [A500 DRAM Board](https://github.com/kr239/A500-DRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer EDO memory  | [Kai Robinson](https://github.com/kr239)
 | [A500 SRAM Board](https://github.com/kr239/A500-SRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer SRAM memory | [Kai Robinson](https://github.com/kr239) |
-| [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | Matze |
+| [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | [matze](https://gitlab.com/MHeinrichs) |
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
-| [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | matze |
+| [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | [matze](https://gitlab.com/MHeinrichs) |
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
@@ -35,8 +35,7 @@ Open Amiga-related hardware projects.
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [MNT ZZ9000](https://github.com/mntmn/zz9000-fw) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
-| [RA5-512K](https://github.com/jbilander/RA5-512K) |  A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
-| [RA5-512K](https://github.com/jbilander/RA5-512K) | Reverse engineered A500 trapdoor expansion | Jörgen Bilander |
+| [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [SMD-500](https://github.com/gazzmaniac/Amiga-SMD-500) | Surface mount (SMD) remake of Amiga 500 motherboard | gazzmaniac |
@@ -44,7 +43,7 @@ Open Amiga-related hardware projects.
 | [TF520](https://github.com/terriblefire/tf520) | 68020 accelerator | Steven Leary |
 | [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
 | [TF534](https://github.com/terriblefire/tf534) | 68030 accelerator, improved | Steven Leary |
-| [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | matze |
+| [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
 Everything that has to do with developing for Amiga.
 
