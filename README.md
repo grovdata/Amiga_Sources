@@ -6,19 +6,20 @@ Open Amiga-related hardware projects.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+# Development
+| [A1200 Kickstart Relocator](https://github.com/tkurbad/A1200_Kickstart_Relocator) | A1200 ROM relocator | Torsten Kurbad |
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200) | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
-| [A1200 Kickstart Relocator](https://github.com/tkurbad/A1200_Kickstart_Relocator) | A1200 ROM relocator | Torsten Kurbad | 
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
 | [A314](https://github.com/niklasekstrom/a314) | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
+| [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | Matze |
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
-| [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
-| [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
+| [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
@@ -34,7 +35,6 @@ Open Amiga-related hardware projects.
 | [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
 | [TF534](https://github.com/terriblefire/tf534) | 68030 accelerator, improved | Steven Leary |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | matze |
-# Development
 
 Everything that has to do with developing for Amiga.
 
@@ -62,20 +62,20 @@ Everything that has to do with developing for Amiga.
 
 | Project | Description | Author |
 |---------|-------------|--------|
-[libSDL 1.2](https://github.com/AmigaPorts/libSDL12) by various | SDL 1.2 port for AmigaOS/m68k | [AmigaPorts](https://github.com/AmigaPorts) |
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
+[AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
+[Haujobb Amiga Framework](https://github.com/leifo/haujobb-amiga) | Crossdev framework for demos | Haujobb |
+[libSDL 1.2](https://github.com/AmigaPorts/libSDL12) by various | SDL 1.2 port for AmigaOS/m68k | [AmigaPorts](https://github.com/AmigaPorts) |
+[R-PAGE](https://github.com/ResistanceVault/rpage) | Resistance's Portable-Adventure-Game-Engine | Resistance |
 [Scorpion](https://github.com/earok/scorpion-engine-demos) | Game engine | earok |
 [Tornado](https://github.com/flynn-nrg/tornado-amiga) | Crossdev framework for demos | Capsule |
-[Haujobb Amiga Framework](https://github.com/leifo/haujobb-amiga) | Crossdev framework for demos | Haujobb |
-[AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
-[R-PAGE](https://github.com/ResistanceVault/rpage) | Resistance's Portable-Adventure-Game-Engine | Resistance |
 
 ## Low-level programming
 
 | Project | Description | Author |
 |---------|-------------|--------|
-[amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
 [Adebug](https://github.com/dverite/adebug-amiga) | Assembly-level debugger | [Daniel Verité](https://github.com/dverite) |
+[amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
 [AProf](https://github.com/michab66/AProf) | A profiler for C, E, asm, etc | [Michael G. Binz](https://github.com/michab66) |
 [trackloader](https://github.com/Slamy/trackloader) | Simple floppy bootloader that fits in the boot block | [Slamy](https://github.com/Slamy) |
 
@@ -87,30 +87,30 @@ Different Amiga applications, demos and games.
 
 | Project | Description | Author |
 |---------|-------------|--------|
-[ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
-[HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
-[NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
-[SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
-[yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
-[SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
+[ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
+[DeluxePaint](https://github.com/DutchmanDavid/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
 [DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel
-[DeluxePaint](https://github.com/DutchmanDavid/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
-[NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
-[gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 [FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al
+[gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
+[HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
+[NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
+[NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
+[SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
+[SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
 [Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng
+[yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
 
 ## Demos
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[Demos in 68000 asm](https://github.com/smart-fun/Amiga) | Oldschool intros written in Assembler | Arnaud Guyon |
 [Planet Rocklobster](https://github.com/AxisOxy/Planet-Rocklobster) | OCS demo written in Assembler | Oxy |
 [projet-secret](https://github.com/voitureblanche/projet-secret) | Demo by Fra/Mandarine written in mostly system-friendly C. | Fra |
-[Demos in 68000 asm](https://github.com/smart-fun/Amiga) | Oldschool intros written in Assembler | Arnaud Guyon |
 [Serendipity](https://github.com/tgreaves/serendipity) | An OS-friendly music disk | Tristan Greaves |
 
 ## Games
