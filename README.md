@@ -14,12 +14,17 @@ Open Amiga-related hardware projects.
 | [A314](https://github.com/niklasekstrom/a314) | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
+| [A500 14Mhz Accelerator](https://github.com/kr239/A500-14Mhz-Accelerator) |  Updated version of the infamous 14Mhz Accelerator by Livio Plos board | [Kai Robinson](https://github.com/kr239) |
+| [A500 8MB FastRAM](https://github.com/kr239/A500-8MB-FastRAM) | 8MB FastRAM Board for the Amiga 500 & Amiga 500+ | [Kai Robinson](https://github.com/kr239) |
+| [A500 DRAM Board](https://github.com/kr239/A500-DRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer EDO memory  | [Kai Robinson](https://github.com/kr239)
+| [A500 SRAM Board](https://github.com/kr239/A500-SRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer SRAM memory | [Kai Robinson](https://github.com/kr239) |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | Matze |
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
-| [AmigaPSU_Enclosure_RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
-| [AmigaPSU_Enclosure_ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
+| [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | matze |
+| [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
+| [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
