@@ -133,6 +133,10 @@ Different Amiga applications, demos and games.
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 
+# Links
+
+[Amiga Source Preservation](https://amigasourcepres.gitlab.io/) is another great resource. They have both [books](https://amigasourcepres.gitlab.io/page/books/books/) and [source code](https://amigasourcepres.gitlab.io/page/sourcecode/) for lots of applications.
+
 # About
 
 ## License
