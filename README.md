@@ -68,6 +68,7 @@ Everything that has to do with developing for Amiga.
 [GCC 6](https://github.com/bebbo/gcc/) | gcc-6-branch for m68k-amigaos | [bebbo](https://github.com/bebbo/) |
 [Blitz 2](https://github.com/nitrologic/blitz2) | Blitz Basic 2 source code (incomplete) | [Simon Armstrong](https://github.com/nitrologic/) |
 [AMOS Pro](https://github.com/marc365/AMOSProfessional) | AMOS Pro Basic environment + compiler | marc365 |
+[AMOS ProfessionalX](https://github.com/AmiDARK/AmosProfessionalX-Releases) | Improved AMOS Pro with AGA support | AmiDARK |
 
 ## Frameworks
 
