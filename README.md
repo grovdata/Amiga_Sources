@@ -70,6 +70,7 @@ Everything that has to do with developing for Amiga.
 [AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) | AmiBlitz3 source code | [honitos](https://github.com/honitos) et al |
 [AMOS Pro](https://github.com/marc365/AMOSProfessional) | AMOS Pro Basic environment + compiler | marc365 |
 [AMOS ProfessionalX](https://github.com/AmiDARK/AmosProfessionalX-Releases) | Improved AMOS Pro with AGA support | AmiDARK |
+[EEC](https://github.com/EEC-Developers/eec) | Enhanced Amiga E Compiler | Lars Salomonsson et al |
 
 ## Frameworks
 
