@@ -39,6 +39,7 @@ Open Amiga-related hardware projects.
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
+| [Rämixx500](https://github.com/SukkoPera/Raemixx500) | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [SMD-500](https://github.com/gazzmaniac/Amiga-SMD-500) | Surface mount (SMD) remake of Amiga 500 motherboard | gazzmaniac |
 | [TF328](https://github.com/terriblefire/tf328) | 8MB Fast RAM + IDE board for CD32 | Steven Leary |
