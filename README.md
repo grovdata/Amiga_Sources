@@ -4,8 +4,6 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 
 Open Amiga-related hardware projects.
 
-# Development
-
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A1200 Kickstart Relocator](https://github.com/tkurbad/A1200_Kickstart_Relocator) | A1200 ROM relocator | Torsten Kurbad |
@@ -47,6 +45,8 @@ Open Amiga-related hardware projects.
 | [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
 | [TF534](https://github.com/terriblefire/tf534) | 68030 accelerator, improved | Steven Leary |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
+
+# Development
 
 Everything that has to do with developing for Amiga.
 
