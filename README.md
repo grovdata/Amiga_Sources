@@ -24,6 +24,7 @@ Open Amiga-related hardware projects.
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
+| [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
@@ -32,6 +33,7 @@ Open Amiga-related hardware projects.
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
+| [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [MNT ZZ9000](https://github.com/mntmn/zz9000-fw) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
@@ -44,6 +46,7 @@ Open Amiga-related hardware projects.
 | [TF520](https://github.com/terriblefire/tf520) | 68020 accelerator | Steven Leary |
 | [TF530](https://github.com/terriblefire/tf530) | 68030 accelerator with IDE | Steven Leary |
 | [TF534](https://github.com/terriblefire/tf534) | 68030 accelerator, improved | Steven Leary |
+| [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
 # Development
