@@ -93,6 +93,7 @@ Everything that has to do with developing for Amiga.
 | Project | Description | Author |
 |---------|-------------|--------|
 [Adebug](https://github.com/dverite/adebug-amiga) | Assembly-level debugger | [Daniel Verité](https://github.com/dverite) |
+[amiga-playground](https://github.com/fstarred/amiga-playground) | Amiga demo written in assembly | [fstarred](https://github.com/fstarred)
 [amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
 [AProf](https://github.com/michab66/AProf) | A profiler for C, E, asm, etc | [Michael G. Binz](https://github.com/michab66) |
 [Amiga-Scoopex-C](https://github.com/spec-chum/Amiga-Scoopex-C) |  An on-going conversion of Scoopex's incredible Amiga Hardware Programming Series on YouTube into C | spec-chum |
