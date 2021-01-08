@@ -13,6 +13,7 @@ Open Amiga-related hardware projects.
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
 | [A500 14Mhz Accelerator](https://github.com/kr239/A500-14Mhz-Accelerator) |  Updated version of the infamous 14Mhz Accelerator by Livio Plos board | [Kai Robinson](https://github.com/kr239) |
+| [A500 2Meg Chip ram](https://github.com/LIV2/A500-2Meg-Chip-ram) | An Adapter to retrofit a 2MB agnus into a 1MB Amiga 500/2000 | [LIV2](https://github.com/LIV2) |
 | [A500 8MB FastRAM](https://github.com/kr239/A500-8MB-FastRAM) | 8MB FastRAM Board for the Amiga 500 & Amiga 500+ | [Kai Robinson](https://github.com/kr239) |
 | [A500 DRAM Board](https://github.com/kr239/A500-DRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer EDO memory  | [Kai Robinson](https://github.com/kr239)
 | [A500 SRAM Board](https://github.com/kr239/A500-SRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer SRAM memory | [Kai Robinson](https://github.com/kr239) |
@@ -20,6 +21,7 @@ Open Amiga-related hardware projects.
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
+| [Amegapad](https://github.com/LIV2/Amegapad) | 6-button Megadrive pad adapter for Amiga with autofire | [LIV2](https://github.com/LIV2) |
 | [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
 | [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | [matze](https://gitlab.com/MHeinrichs) |
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
@@ -28,11 +30,13 @@ Open Amiga-related hardware projects.
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
+| [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html) | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
+| [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
