@@ -84,6 +84,7 @@ Everything that has to do with developing for Amiga.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[amiga-utils](https://github.com/skeetor/amiga-utils) | Self contained Amiga utility library targeted for Assembler but also C/C++ programming without OS | [skeetor](https://github.com/skeetor) | 
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
 [AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
 [Haujobb Amiga Framework](https://github.com/leifo/haujobb-amiga) | Crossdev framework for demos | Haujobb |
