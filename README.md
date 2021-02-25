@@ -6,6 +6,7 @@ Open Amiga-related hardware projects.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+| [A1k SimpleClock](https://gitlab.com/marceljaehne/a1k-simpleclock) | A neat RTC for the Amiga 500 and Amiga 1000 Computer | [Marcel Jähne](https://gitlab.com/marceljaehne) |
 | [A1200 Kickstart Relocator](https://github.com/tkurbad/A1200_Kickstart_Relocator) | A1200 ROM relocator | Torsten Kurbad |
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200) | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
