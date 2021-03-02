@@ -30,6 +30,7 @@ Open Amiga-related hardware projects.
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) |  SPI adapter that connects to the parallel port of an Amiga | [niklasekstrom](https://github.com/niklasekstrom) |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
+| [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | [Bloodmosher](https://github.com/Bloodmosher) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
