@@ -32,6 +32,7 @@ Open Amiga-related hardware projects.
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | [Bloodmosher](https://github.com/Bloodmosher) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
+| [Bluster](https://github.com/LIV2/Bluster) | A2000 Buster replacement | [LIV2](https://github.com/LIV2) |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
@@ -39,6 +40,7 @@ Open Amiga-related hardware projects.
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
+| [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | 8MB Autoconfig FastRAM for A2000 | [LIV2](https://github.com/LIV2) |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
