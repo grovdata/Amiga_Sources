@@ -23,6 +23,7 @@ Open Amiga-related hardware projects.
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
 | [Amegapad](https://github.com/LIV2/Amegapad) | 6-button Megadrive pad adapter for Amiga with autofire | [LIV2](https://github.com/LIV2) |
+| [Amiga-2000-ATX](https://github.com/jasonsbeer/Amiga-2000-ATX) | Amiga 2000 PCB in the EATX form factor | [Jason Neus](https://github.com/jasonsbeer) | 
 | [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
 | [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | [matze](https://gitlab.com/MHeinrichs) |
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
