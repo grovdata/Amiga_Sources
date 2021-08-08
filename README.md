@@ -51,7 +51,7 @@ Open Amiga-related hardware projects.
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [MNT ZZ9000](https://github.com/mntmn/zz9000-fw) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
 | [Open Amiga Sampler](https://github.com/echolevel/open-amiga-sampler) | Open source mono sampler for Amiga. | [echolevel](https://github.com/echolevel) | 
-| [OpenA1200RTC](https://github.com/screwbreaker/OpenA1200RTC) | RTC for Amiga 1200 | [screwbreaker](https://github.com/screwbreaker |
+| [OpenA1200RTC](https://github.com/screwbreaker/OpenA1200RTC) | RTC for Amiga 1200 | [screwbreaker](https://github.com/screwbreaker) |
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
