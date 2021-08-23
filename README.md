@@ -61,6 +61,7 @@ Open Amiga-related hardware projects.
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [SD-box](https://github.com/jbilander/sdbox) |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
 | [SMD-500](https://github.com/gazzmaniac/Amiga-SMD-500) | Surface mount (SMD) remake of Amiga 500 motherboard | gazzmaniac |
+| [stalkb](https://github.com/gianlucarenzi/stalkb)  | STM32 USB Based firmware microcontroller for any Amiga internal keyboard adapter |  [gianlucarenzi](https://github.com/gianlucarenzi) |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
