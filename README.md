@@ -165,6 +165,7 @@ Different Amiga applications, demos and games.
 [Beschei](https://github.com/samskivert/beschei-en) | Card game | Michael Bayne |
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
+[Knightmare](https://github.com/djh0ffman/KnightmareAmiga) | Port of the Konami classic for MSX | [H0ffman](https://github.com/djh0ffman) |
 
 # Links
 
