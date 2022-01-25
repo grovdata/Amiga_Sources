@@ -32,7 +32,7 @@ Open Amiga-related hardware projects.
 | [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | [matze](https://gitlab.com/MHeinrichs) |
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
-| [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) |  SPI adapter that connects to the parallel port of an Amiga | [niklasekstrom](https://github.com/niklasekstrom) |
+| [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) |  SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [Amiga ROMY](https://github.com/reinauer/amiga-romy) | 1/2/4MB Kickstart adapter (A3000/A4000) | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
@@ -44,7 +44,7 @@ Open Amiga-related hardware projects.
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html) | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
-| [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | An open source flicker fixer for Amiga 500/2000. | Niklas Ekström |
+| [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | An open source flicker fixer for Amiga 500/2000. | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
