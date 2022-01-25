@@ -44,6 +44,7 @@ Open Amiga-related hardware projects.
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html) | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
+| [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | An open source flicker fixer for Amiga 500/2000. | Niklas Ekström |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
