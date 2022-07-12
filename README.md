@@ -50,6 +50,7 @@ Open Amiga-related hardware projects.
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | 8MB Autoconfig FastRAM for A2000 | [LIV2](https://github.com/LIV2) |
+| [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Zorro III Fast RAM for Amiga 3000/4000 | [LIV2](https://github.com/LIV2) |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
