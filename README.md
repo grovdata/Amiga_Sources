@@ -9,7 +9,6 @@ Open Amiga-related hardware projects.
 | [68040-to-68060](https://github.com/reinauer/68040-to-68060) | 68040 to 68060 adapter| [Stefan Reinauer](https://github.com/reinauer) et al |
 | [A1k SimpleClock](https://gitlab.com/marceljaehne/a1k-simpleclock) | A neat RTC for the Amiga 500 and Amiga 1000 Computer | [Marcel Jähne](https://gitlab.com/marceljaehne) |
 | [A1200_8MB_FASTRAM](https://github.com/OlegMishin/A1200_8MB_FASTRAM) | 8MB FastRAM expansion for Amiga 1200 | [Oleg Mishin](https://github.com/OlegMishin) |
-| [A1200 Kickstart Relocator](https://github.com/tkurbad/A1200_Kickstart_Relocator) | A1200 ROM relocator | Torsten Kurbad |
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200) | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
 | [A314](https://github.com/niklasekstrom/a314) | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
