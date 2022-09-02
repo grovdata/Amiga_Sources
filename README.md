@@ -19,10 +19,10 @@ Open Amiga-related hardware projects.
 | [A500 8MB FastRAM](https://github.com/kr239/A500-8MB-FastRAM) | 8MB FastRAM Board for the Amiga 500 & Amiga 500+ | [Kai Robinson](https://github.com/kr239) |
 | [A500_8MB_ide](https://github.com/OlegMishin/A500_8MB_ide) | Amiga 500 8MB FastRAM and IDE interface | [Oleg Mishin](https://github.com/OlegMishin) |
 | [A500 DRAM Board](https://github.com/kr239/A500-DRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer EDO memory  | [Kai Robinson](https://github.com/kr239)
+| [A500KB](https://github.com/HenrykRichter/A500KB) | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
 | [A500 SRAM Board](https://github.com/kr239/A500-SRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer SRAM memory | [Kai Robinson](https://github.com/kr239) |
 | [A500spwr](https://github.com/MastaTabs/a500spwr) | Single 12V Power supply module for Amiga 500 computers | [Tobias Seiler](https://github.com/MastaTabs) |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | [matze](https://gitlab.com/MHeinrichs) |
-| [A500KB](https://github.com/HenrykRichter/A500KB) | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
