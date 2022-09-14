@@ -1,5 +1,6 @@
-This is a compiled list of free/open sources related to classic Commodore Amiga computers.
+[![Dead links?](https://github.com/grovdata/Amiga_Sources/actions/workflows/actions.yml/badge.svg)](https://github.com/grovdata/Amiga_Sources/actions/workflows/actions.yml)
 
+This is a compiled list of free/open sources related to classic Commodore Amiga computers.
 # Hardware
 
 Open Amiga-related hardware projects.
