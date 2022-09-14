@@ -20,6 +20,7 @@ Open Amiga-related hardware projects.
 | [A500KB](https://github.com/HenrykRichter/A500KB) | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
 | [A500spwr](https://github.com/MastaTabs/a500spwr) | Single 12V Power supply module for Amiga 500 computers | [Tobias Seiler](https://github.com/MastaTabs) |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | [matze](https://gitlab.com/MHeinrichs) |
+| [A500-Tower-Power](https://github.com/wiretap-retro/A500-Tower-Power) | ATX adapter for A500 tower builds | [wiretap-retro](https://github.com/wiretap-retro)
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
@@ -166,6 +167,7 @@ Different Amiga applications, demos and games.
 [AkikoWolf](https://github.com/earok/AkikoWolf) | Wolfenstein 3D port for the CD32 | earok |
 [Beschei](https://github.com/samskivert/beschei-en) | Card game | Michael Bayne |
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
+[goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 [Knightmare](https://github.com/djh0ffman/KnightmareAmiga) | Port of the Konami classic for MSX | [H0ffman](https://github.com/djh0ffman) |
 
