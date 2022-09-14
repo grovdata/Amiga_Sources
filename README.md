@@ -14,13 +14,9 @@ Open Amiga-related hardware projects.
 | [A314](https://github.com/niklasekstrom/a314) | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
-| [A500 14Mhz Accelerator](https://github.com/kr239/A500-14Mhz-Accelerator) |  Updated version of the infamous 14Mhz Accelerator by Livio Plos board | [Kai Robinson](https://github.com/kr239) |
 | [A500 2Meg Chip ram](https://github.com/LIV2/A500-2Meg-Chip-ram) | An Adapter to retrofit a 2MB agnus into a 1MB Amiga 500/2000 | [LIV2](https://github.com/LIV2) |
-| [A500 8MB FastRAM](https://github.com/kr239/A500-8MB-FastRAM) | 8MB FastRAM Board for the Amiga 500 & Amiga 500+ | [Kai Robinson](https://github.com/kr239) |
 | [A500_8MB_ide](https://github.com/OlegMishin/A500_8MB_ide) | Amiga 500 8MB FastRAM and IDE interface | [Oleg Mishin](https://github.com/OlegMishin) |
-| [A500 DRAM Board](https://github.com/kr239/A500-DRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer EDO memory  | [Kai Robinson](https://github.com/kr239)
 | [A500KB](https://github.com/HenrykRichter/A500KB) | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
-| [A500 SRAM Board](https://github.com/kr239/A500-SRAM-Board) | Replace the old 44256 DRAM chips on your A500 with newer SRAM memory | [Kai Robinson](https://github.com/kr239) |
 | [A500spwr](https://github.com/MastaTabs/a500spwr) | Single 12V Power supply module for Amiga 500 computers | [Tobias Seiler](https://github.com/MastaTabs) |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | [matze](https://gitlab.com/MHeinrichs) |
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
