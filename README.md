@@ -26,6 +26,7 @@ Open Amiga-related hardware projects.
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
 | [Amegapad](https://github.com/LIV2/Amegapad) | 6-button Megadrive pad adapter for Amiga with autofire | [LIV2](https://github.com/LIV2) |
+| [Amiga2MacFloppy](https://github.com/Franks3dShop/Amiga2MacFloppy) | A reversed-engineered A-Max interface | [Franks3dShop](https://github.com/Franks3dShop) |
 | [Amiga-2000-ATX](https://github.com/jasonsbeer/Amiga-2000-ATX) | Amiga 2000 PCB in the EATX form factor | [Jason Neus](https://github.com/jasonsbeer) |
 | [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
