@@ -15,6 +15,7 @@ Open Amiga-related hardware projects.
 | [A314](https://github.com/niklasekstrom/a314) | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
+| [A4091](https://github.com/A4091) | Replica of the Amiga 4091 SCSI II Host Controller | [Stefan Reinauer](https://github.com/reinauer) |
 | [A500 2Meg Chip ram](https://github.com/LIV2/A500-2Meg-Chip-ram) | An Adapter to retrofit a 2MB agnus into a 1MB Amiga 500/2000 | [LIV2](https://github.com/LIV2) |
 | [A500_8MB_ide](https://github.com/OlegMishin/A500_8MB_ide) | Amiga 500 8MB FastRAM and IDE interface | [Oleg Mishin](https://github.com/OlegMishin) |
 | [A500KB](https://github.com/HenrykRichter/A500KB) | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
