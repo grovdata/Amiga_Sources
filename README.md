@@ -23,6 +23,7 @@ Open Amiga-related hardware projects.
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | [matze](https://gitlab.com/MHeinrichs) |
 | [A500-Tower-Power](https://github.com/wiretap-retro/A500-Tower-Power) | ATX adapter for A500 tower builds | [wiretap-retro](https://github.com/wiretap-retro)
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
+| [A600_ACCEL_RAM](https://github.com/PR77/A600_ACCEL_RAM) | Amiga 600 Accelerator And RAM Expansion | [PR77](https://github.com/PR77) |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
 | [Amegapad](https://github.com/LIV2/Amegapad) | 6-button Megadrive pad adapter for Amiga with autofire | [LIV2](https://github.com/LIV2) |
@@ -31,6 +32,7 @@ Open Amiga-related hardware projects.
 | [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
 | [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | [matze](https://gitlab.com/MHeinrichs) |
+| [amigahid-pico](https://github.com/borb/amigahid-pico) | Use USB input devices on Amiga computers, using Raspberry Pi Pico. | [nine](https://github.com/borb) |
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) |  SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
@@ -116,6 +118,7 @@ Everything that has to do with developing for Amiga.
 [R-PAGE](https://github.com/ResistanceVault/rpage) | Resistance's Portable-Adventure-Game-Engine | Resistance |
 [Scorpion](https://github.com/earok/scorpion-editor-demos) | Game engine | earok |
 [Tornado](https://github.com/flynn-nrg/tornado-amiga) | Crossdev framework for demos | Capsule |
+[xdms](https://gitlab.com/heikkiorsila/xdms) | Portable DMS parser library | Heikki Orsila |
 
 ## Low-level programming
 
