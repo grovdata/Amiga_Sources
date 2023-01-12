@@ -64,6 +64,7 @@ Open Amiga-related hardware projects.
 | [OpenAmigaVideoHybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | Open Hardware implementation of the Commodore Amiga Video Hybrid | [SukkoPera](https://github.com/SukkoPera) |
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
+| [Prelude](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | A replica of the Prelude ZII sound card for the Amiga. | [wiretap-retro](https://github.com/wiretap-retro)
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500) | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
