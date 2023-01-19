@@ -12,6 +12,7 @@ Open Amiga-related hardware projects.
 | [A1200_8MB_FASTRAM](https://github.com/OlegMishin/A1200_8MB_FASTRAM) | 8MB FastRAM expansion for Amiga 1200 | [Oleg Mishin](https://github.com/OlegMishin) |
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200) | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
+| [a2000Serotina](https://github.com/grahamshaw1972/a2000Serotina) | DIY mechanical keyboard for A2000/A3000 | [grahamshaw1972](https://github.com/grahamshaw1972)
 | [A314](https://github.com/niklasekstrom/a314) | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
@@ -63,6 +64,8 @@ Open Amiga-related hardware projects.
 | [OpenA1200RTC](https://github.com/screwbreaker/OpenA1200RTC) | RTC for Amiga 1200 | [screwbreaker](https://github.com/screwbreaker) |
 | [OpenAmigaVideoHybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | Open Hardware implementation of the Commodore Amiga Video Hybrid | [SukkoPera](https://github.com/SukkoPera) |
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
+| [PiStorm](https://github.com/captain-amygdala/pistorm) | 68k Hardware Emulator | PiStorm team |
+| [PiStorm-32](https://github.com/PiStorm/pistorm32-lite-hardware) | PiStorm for Amiga 1200 | PiStorm team |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 | [Prelude](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | A replica of the Prelude ZII sound card for the Amiga. | [wiretap-retro](https://github.com/wiretap-retro)
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
