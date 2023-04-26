@@ -78,6 +78,7 @@ Open Amiga-related hardware projects.
 | [SF2000](https://github.com/jbilander/SF2000) | Spitfire 2000, 42 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 2000 co-pro slot | [jbilander](https://github.com/jbilander) |
 | [SP500](https://github.com/jbilander/SF500) | Spitfire 500, A low-end 14 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 500. | [jbilander](https://github.com/jbilander) |
 | [stalkb](https://github.com/gianlucarenzi/stalkb)  | STM32 USB Based firmware microcontroller for any Amiga internal keyboard adapter |  [gianlucarenzi](https://github.com/gianlucarenzi) |
+| [trapdoor5](https://github.com/jmA500/trapdoor5) | A flexible trapdoor extension for the AMIGA 500 | [jmA500](https://github.com/jmA500) |
 | [TF1230](https://github.com/terriblefire/tf1230) | Terriblefire TF1230 | terriblefire |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
