@@ -96,6 +96,7 @@ Everything that has to do with developing for Amiga.
 [SmartReadArgs](https://github.com/roskakori/SmartReadArgs)|Workbench/CLI interface to ReadArgs with NewIcons support| Thomas Aglassinger |
 [GadToolsBox](https://github.com/thom-ek/GadToolsBox) | GUI builder for C etc | Tomasz Muszynski |
 [PatchWork](https://github.com/shred/patchwork) | Verify against illegal library calls | Richard Körber
+[RKRM DOS](https://github.com/thorfdbg/rkrm-dos/) | An RKRM-style reference of AmigaDOS/dos.library | [Thomas Richter](https://github.com/thorfdbg) |
 
 ## Compilers / toolchains
 
