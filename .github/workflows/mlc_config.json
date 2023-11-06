@@ -3,7 +3,7 @@
   "retryOn429": true,
   "retryCount": 5,
   "fallbackRetryDelay": "30s",
-  "aliveStatusCodes": [200, 206, 403, 429],
+  "aliveStatusCodes": [0, 200, 206, 403, 429],
   "httpHeaders": [
     {
       "urls": [
