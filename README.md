@@ -71,6 +71,7 @@ Open Amiga-related hardware projects.
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 | [Prelude](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | A replica of the Prelude ZII sound card for the Amiga. | [wiretap-retro](https://github.com/wiretap-retro)
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
+| [ReCD³²](https://www.reamiga.info/?page_id=148) | Reverse engineered Amiga CD³² motherboard | John 'Chucky' Hertell |
 | [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500) | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
