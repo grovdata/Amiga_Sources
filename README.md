@@ -66,6 +66,7 @@ Open Amiga-related hardware projects.
 | [OpenA1200RTC](https://github.com/screwbreaker/OpenA1200RTC) | RTC for Amiga 1200 | [screwbreaker](https://github.com/screwbreaker) |
 | [OpenAmigaVideoHybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | Open Hardware implementation of the Commodore Amiga Video Hybrid | [SukkoPera](https://github.com/SukkoPera) |
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
+| [picowyfy](https://github.com/niklasekstrom/picowyfy) | Raspberry Pi Pico-based Wifi NIC for clockport | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [PiStorm](https://github.com/captain-amygdala/pistorm) | 68k Hardware Emulator | PiStorm team |
 | [PiStorm-32](https://github.com/PiStorm/pistorm32-lite-hardware) | PiStorm for Amiga 1200 | PiStorm team |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
