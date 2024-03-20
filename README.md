@@ -33,6 +33,7 @@ Open Amiga-related hardware projects.
 | [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
 | [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | [matze](https://gitlab.com/MHeinrichs) |
+| [amiga-hddlw](https://github.com/schlae/amiga-hddlw) | Adapts a regular PC floppy drive for high density operation on an Amiga computer | [schlae](https://github.com/schlae) |
 | [amigahid-pico](https://github.com/borb/amigahid-pico) | Use USB input devices on Amiga computers, using Raspberry Pi Pico. | [nine](https://github.com/borb) |
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
