@@ -76,6 +76,7 @@ Open Amiga-related hardware projects.
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [ReCD³²](https://www.reamiga.info/?page_id=148) | Reverse engineered Amiga CD³² motherboard | John 'Chucky' Hertell |
 | [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
+| [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC) | Replacement for Commodore SDMAC found in the A3000 | [Mike Taylor](https://github.com/mbtaylor1982), [Jörgen Bilander](https://github.com/jbilander) |
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500) | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [SD-box](https://github.com/jbilander/sdbox) |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
