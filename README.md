@@ -113,7 +113,7 @@ Everything that has to do with developing for Amiga.
 [amigeconv](https://github.com/tditlu/amigeconv) | A graphics converter for different Amiga bitplanes, chunky & palette formats | Todi / Tulou |
 [amigaos-cross-toolchain](https://github.com/sba1/adtools) | Cross-compiler based on GCC | Krystian Bacławski |
 [aqb](https://github.com/gooofy/aqb) | Amiga QuickBasic Compiler | [Guenter Bartsch](https://github.com/gooofy) |
-[CodeCraft](https://web.archive.org/web/20230309211853/http://boemann.dk/codecraft/) | Codecraft is the powerful IDE for developing software natively on the Amiga | Camilla Boemann |
+[CodeCraft](http://boemann.dk/codecraft/) | Codecraft is the powerful IDE for developing software natively on the Amiga | Camilla Boemann |
 [GCC 6](https://github.com/bebbo/gcc/) | gcc-6-branch for m68k-amigaos | [bebbo](https://github.com/bebbo/) |
 [Blitz 2](https://github.com/nitrologic/blitz2) | Blitz Basic 2 source code (incomplete) | [Simon Armstrong](https://github.com/nitrologic/) |
 [AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) | AmiBlitz3 source code | [honitos](https://github.com/honitos) et al |
