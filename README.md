@@ -43,6 +43,7 @@ Open Amiga-related hardware projects.
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | [Bloodmosher](https://github.com/Bloodmosher) |
+| [ar3](https://github.com/na103/ar3) | Action Replay III replica | [Nicola Avanzi](https://github.com/na103) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
 | [ATnoX](https://github.com/hkzlab/ATnoX) | ATX to AT/XT/Amiga power supply adapter | [hkzlab](https://github.com/hkzlab) |
 | [Bluster](https://github.com/LIV2/Bluster) | A2000 Buster replacement | [LIV2](https://github.com/LIV2) |
