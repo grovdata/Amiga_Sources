@@ -40,6 +40,7 @@ Open Amiga-related hardware projects.
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) |  SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [Amiga RGB SCART Adapter](https://codeberg.org/CBMretro/Amiga_RGB_SCART_Adapter) | Converts Amiga video connector to RGB SCART | [CBMretro](https://cbmretro.fi/) |
 | [Amiga ROMY](https://github.com/reinauer/amiga-romy) | 1/2/4MB Kickstart adapter (A3000/A4000) | [Stefan Reinauer](https://github.com/reinauer) et al |
+| [Amiga_DB23_to_USBC](https://github.com/jbilander/Amiga_DB23_to_USB_C_power_only_adapter) | +5V from external D-sub DB23 floppy drive port to USB-C | [jbilander](https://github.com/jbilander) |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | [Bloodmosher](https://github.com/Bloodmosher) |
