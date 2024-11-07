@@ -6,6 +6,7 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 Open Amiga-related hardware projects:
 
 ## Hardware - Accelerators
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [A3640](http://wordpress.hertell.nu/?page_id=514) |  `A3000`,`A4000` | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
@@ -15,13 +16,14 @@ Open Amiga-related hardware projects:
 | [SP500](https://github.com/jbilander/SF500) | `A500` | Spitfire 500, A low-end 14 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 500. | [jbilander](https://github.com/jbilander) |
 
 ## Hardware - Accelerators (PiStorm)
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [PiStorm](https://github.com/captain-amygdala/pistorm) | n/a | 68k Hardware Emulator | PiStorm team |
 | [PiStorm-32](https://github.com/PiStorm/pistorm32-lite-hardware) | `A1200` | PiStorm for Amiga 1200 | PiStorm team |
 
-
 ## Hardware - Memory
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | `A600` | A600 trapdoor RAM | SukkoPera |
@@ -32,6 +34,7 @@ Open Amiga-related hardware projects:
 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | `A3000`,`A4000` | Zorro III Fast RAM for Amiga 3000/4000 | [LIV2](https://github.com/LIV2) |
 
 ## Hardware - Kickstart
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | n/a | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
@@ -46,6 +49,7 @@ Open Amiga-related hardware projects:
 | [stalkb](https://github.com/gianlucarenzi/stalkb)| n/a | STM32 USB Based firmware microcontroller for any Amiga internal keyboard adapter |  [gianlucarenzi](https://github.com/gianlucarenzi) |
 
 ## Hardware - Floppy
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | `A500` | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
@@ -57,6 +61,7 @@ Open Amiga-related hardware projects:
 | [AmigaDualFloppyInterface](https://github.com/roddersuk/AmigaDualFloppyInterface) | `A500` | Amiga 500 6A Dual Internal Floppy Drive Interface | [roddersuk](https://github.com/roddersuk) |
 
 ## Hardware - Refactoring/Clones
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [ReCD³²](https://www.reamiga.info/?page_id=148) | `CD32` | Reverse engineered Amiga CD³² motherboard | John 'Chucky' Hertell |
@@ -75,6 +80,7 @@ Open Amiga-related hardware projects:
 | [Dueottosei](https://github.com/na103/Dueottosei) | `A500` | Clone of Vortex ATonce Plus, an PC AT Emulator board | [Nicola Avanzi](https://github.com/na103) |
 
 ## Hardware - Power Supply
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | n/a | ATX power supply adaptors for Amigas | Ian Steadman |
@@ -84,17 +90,20 @@ Open Amiga-related hardware projects:
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | n/a | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
 
 ## Hardware - Graphic
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [MNT ZZ9000](https://source.mnt.re/amiga) | n/a | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | n/a | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 
 ## Hardware - Audio
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [Open Amiga Sampler](https://github.com/echolevel/open-amiga-sampler) | n/a | Open source mono sampler for Amiga. | [echolevel](https://github.com/echolevel) |
 
 ## Hardware - Mouse/Joysticks
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | `multi` | USB mouse adaptor for retro computers (Amiga and others) | n/a | Simon Inns |
@@ -102,6 +111,7 @@ Open Amiga-related hardware projects:
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | `multi` | First Class HID controller to Amiga (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 
 ## Hardware - Cables/Adapters
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | n/a | Buffered VGA adapter for 15kHz screens | dalek |
@@ -110,14 +120,15 @@ Open Amiga-related hardware projects:
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | `multi` | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 
 ## Hardware - Clockport
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [A1k SimpleClock](https://gitlab.com/marceljaehne/a1k-simpleclock) | `A500`,`A1000` | A neat RTC for the Amiga 500 and Amiga 1000 Computer | [Marcel Jähne](https://gitlab.com/marceljaehne) |
 | [OpenA1200RTC](https://github.com/screwbreaker/OpenA1200RTC) | `A1200` | RTC for Amiga 1200 | [screwbreaker](https://github.com/screwbreaker) |
 | [picowyfy](https://github.com/niklasekstrom/picowyfy) | n/a | Raspberry Pi Pico-based Wifi NIC for clockport | [Niklas Ekström](https://github.com/niklasekstrom) |
-| [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | n/a | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
 ## Hardware - Unsorted
+
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [68040-to-68060](https://github.com/reinauer/68040-to-68060) | n/a | 68040 to 68060 adapter| [Stefan Reinauer](https://github.com/reinauer) et al |
@@ -146,6 +157,7 @@ Open Amiga-related hardware projects:
 | [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC) | `A3000` | Replacement for Commodore SDMAC found in the A3000 | [Mike Taylor](https://github.com/mbtaylor1982), [Jörgen Bilander](https://github.com/jbilander) |
 | [SD-box](https://github.com/jbilander/sdbox) | n/a |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
 | [trapdoor5](https://github.com/jmA500/trapdoor5) | `A500` | A flexible trapdoor extension for the Amiga 500 | [jmA500](https://github.com/jmA500) |
+| [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | n/a | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
 # Development
 
