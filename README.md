@@ -197,7 +197,7 @@ Everything that has to do with developing for Amiga.
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
 [AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
 [Haujobb Amiga Framework](https://github.com/leifo/haujobb-amiga) | Crossdev framework for demos | Haujobb |
-[libSDL 1.2](https://github.com/AmigaPorts/libSDL12) by various | SDL 1.2 port for AmigaOS/m68k | [AmigaPorts](https://github.com/AmigaPorts) |
+[libSDL12](https://github.com/AmigaPorts/libSDL12) | SDL 1.2 port for AmigaOS/m68k | various [AmigaPorts](https://github.com/AmigaPorts) |
 [LSPlayer](https://github.com/arnaud-carre/LSPlayer) | The fastest Amiga music player ever | [Arnaud Carré](https://github.com/arnaud-carre) |
 [Parrot](https://github.com/betajaen/Parrot) | Point and Click Adventure Game Player for the Commodore Amiga | [betajaen](https://github.com/betajaen) |
 [R-PAGE](https://github.com/ResistanceVault/rpage) | Resistance's Portable-Adventure-Game-Engine | Resistance |
@@ -211,7 +211,7 @@ Everything that has to do with developing for Amiga.
 |---------|-------------|--------|
 [Adebug](https://github.com/dverite/adebug-amiga) | Assembly-level debugger | [Daniel Verité](https://github.com/dverite) |
 [amiga-playground](https://github.com/fstarred/amiga-playground) | Amiga demo written in assembly | [fstarred](https://github.com/fstarred)
-[amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
+[amiga_examples](https://github.com/alpine9000/amiga_examples) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
 [AProf](https://github.com/michab66/AProf) | A profiler for C, E, asm, etc | [Michael G. Binz](https://github.com/michab66) |
 [Amiga-Scoopex-C](https://github.com/spec-chum/Amiga-Scoopex-C) |  An on-going conversion of Scoopex's incredible Amiga Hardware Programming Series on YouTube into C | spec-chum |
 [trackloader](https://github.com/Slamy/trackloader) | Simple floppy bootloader that fits in the boot block | [Slamy](https://github.com/Slamy) |
