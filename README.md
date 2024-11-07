@@ -56,7 +56,7 @@ Open Amiga-related hardware projects:
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | `A500` | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [AmigaDualFloppyInterface](https://github.com/roddersuk/AmigaDualFloppyInterface) | `A500` | Amiga 500 6A Dual Internal Floppy Drive Interface | [roddersuk](https://github.com/roddersuk) |
 
-## Hardware - Refactoring
+## Hardware - Refactoring/Clones
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [ReCD³²](https://www.reamiga.info/?page_id=148) | `CD32` | Reverse engineered Amiga CD³² motherboard | John 'Chucky' Hertell |
@@ -72,6 +72,7 @@ Open Amiga-related hardware projects:
 | [Amiga2MacFloppy](https://github.com/Franks3dShop/Amiga2MacFloppy) | n/a | A reversed-engineered A-Max interface | [Franks3dShop](https://github.com/Franks3dShop) |
 | [A4091](https://github.com/A4091) | n/a | Replica of the Amiga 4091 SCSI II Host Controller | [Stefan Reinauer](https://github.com/reinauer) |
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | `A500` | A570 2MB RAM board clone | dalek |
+| [Dueottosei](https://github.com/na103/Dueottosei) | `A500` | Clone of Vortex ATonce Plus, an PC AT Emulator board | [Nicola Avanzi](https://github.com/na103) |
 
 ## Hardware - Power Supply
 | Project | Model | Description | Author |
@@ -98,14 +99,15 @@ Open Amiga-related hardware projects:
 | :--- | :---: | :--- | ---: |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | `multi` | USB mouse adaptor for retro computers (Amiga and others) | n/a | Simon Inns |
 | [JoyDivision](https://github.com/develin4000/joydivision) | `multi` | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
-| [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | `multi` | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
+| [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | `multi` | First Class HID controller to Amiga (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 
 ## Hardware - Cables/Adapters
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | n/a | Buffered VGA adapter for 15kHz screens | dalek |
 | [Amegapad](https://github.com/LIV2/Amegapad) | n/a | 6-button Megadrive pad adapter for Amiga with autofire | [LIV2](https://github.com/LIV2) |
-| [Amiga RGB SCART Adapter](https://codeberg.org/CBMretro/Amiga_RGB_SCART_Adapter) | n/a | Converts Amiga video connector to RGB SCART | [CBMretro](https://cbmretro.fi/) |
+| [Amiga RGB SCART Adapter](https://codeberg.org/CBMretro/Amiga_RGB_SCART_Adapter) | `multi` | Converts Amiga video connector to RGB SCART | [CBMretro](https://cbmretro.fi/) |
+| [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | `multi` | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 
 ## Hardware - Clockport
 | Project | Model | Description | Author |
@@ -130,22 +132,20 @@ Open Amiga-related hardware projects:
 | [amigahid-pico](https://github.com/borb/amigahid-pico) | n/a | Use USB input devices on Amiga computers, using Raspberry Pi Pico. | [nine](https://github.com/borb) |
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) | n/a |  SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [Amiga_DB23_to_USBC](https://github.com/jbilander/Amiga_DB23_to_USB_C_power_only_adapter) | n/a | +5V from external D-sub DB23 floppy drive port to USB-C | [jbilander](https://github.com/jbilander) |
-| [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | n/a | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | n/a | Bigbox video slot version of [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | [Bloodmosher](https://github.com/Bloodmosher) |
 | [AR3](https://github.com/na103/ar3) | n/a | Action Replay III replica | [Nicola Avanzi](https://github.com/na103) |
 | [Bluster](https://github.com/LIV2/Bluster) | n/a | A2000 Buster replacement | [LIV2](https://github.com/LIV2) |
 | [Deniser](https://github.com/endofexclusive/deniser) | n/a | Deniser is a drop-in replacement for the Amiga computer Denise chip. | [endofexclusive](https://github.com/endofexclusive) |
-| [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | n/a | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
-| [Dueottosei](https://github.com/na103/Dueottosei) | n/a | Clone of Vortex ATonce Plus, an PC AT Emulator board | [Nicola Avanzi](https://github.com/na103) |
-| [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | n/a | An open source flicker fixer for Amiga 500/2000. | [Niklas Ekström](https://github.com/niklasekstrom) |
+| [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | `A500+` | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
+| [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | `A500`,`A2000` | An open source flicker fixer for Amiga 500/2000. | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [Greta](https://github.com/endofexclusive/greta) | n/a | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [OpenAmigaVideoHybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | n/a | Open Hardware implementation of the Commodore Amiga Video Hybrid | [SukkoPera](https://github.com/SukkoPera) |
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | n/a | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
 | [plipbox](https://github.com/cnvogelg/plipbox) | n/a | Parallel port Ethernet interface for all Amiga models. | Christian Vogelgsang |
-| [RA5-512K](https://github.com/jbilander/RA5-512K) | n/a | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
-| [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC) | n/a | Replacement for Commodore SDMAC found in the A3000 | [Mike Taylor](https://github.com/mbtaylor1982), [Jörgen Bilander](https://github.com/jbilander) |
+| [RA5-512K](https://github.com/jbilander/RA5-512K) | `A500` | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
+| [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC) | `A3000` | Replacement for Commodore SDMAC found in the A3000 | [Mike Taylor](https://github.com/mbtaylor1982), [Jörgen Bilander](https://github.com/jbilander) |
 | [SD-box](https://github.com/jbilander/sdbox) | n/a |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
-| [trapdoor5](https://github.com/jmA500/trapdoor5) | n/a | A flexible trapdoor extension for the AMIGA 500 | [jmA500](https://github.com/jmA500) |
+| [trapdoor5](https://github.com/jmA500/trapdoor5) | `A500` | A flexible trapdoor extension for the Amiga 500 | [jmA500](https://github.com/jmA500) |
 
 # Development
 
