@@ -8,8 +8,12 @@ Open Amiga-related hardware projects:
 
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
-| [A3640](http://wordpress.hertell.nu/?page_id=514) | n/a | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
+| [A3640](http://wordpress.hertell.nu/?page_id=514) |  `A3000`,`A4000` | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [A600_ACCEL_RAM](https://github.com/PR77/A600_ACCEL_RAM) | `A600` | Amiga 600 Accelerator And RAM Expansion | [PR77](https://github.com/PR77) |
+| [TF1230](https://github.com/terriblefire/tf1230) | `A1200` | Terriblefire TF1230 | terriblefire |
+| [SF2000](https://github.com/jbilander/SF2000) | `A2000` | Spitfire 2000, 42 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 2000 co-pro slot | [jbilander](https://github.com/jbilander) |
+| [SP500](https://github.com/jbilander/SF500) | `A500` | Spitfire 500, A low-end 14 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 500. | [jbilander](https://github.com/jbilander) |
+
 
 # Hardware - Memory
 | Project | Model | Description | Author |
@@ -24,42 +28,52 @@ Open Amiga-related hardware projects:
 # Hardware - Keyboard
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
+| [A500KB](https://github.com/HenrykRichter/A500KB) | `A500` | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
+| [a2000Serotina](https://github.com/grahamshaw1972/a2000Serotina) | `A2000`,`A3000` | DIY mechanical keyboard for A2000/A3000 | [grahamshaw1972](https://github.com/grahamshaw1972)
 
 # Hardware - Floppy
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
+| [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | `A500` | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
+| [amiga-hddlw](https://github.com/schlae/amiga-hddlw) | n/a | Adapts a regular PC floppy drive for high density operation on an Amiga computer | [schlae](https://github.com/schlae) |
+| [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | n/a | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
+
+# Hardware - Refactoring
+| Project | Model | Description | Author |
+| :--- | :---: | :--- | ---: |
+| [ReCD³²](https://www.reamiga.info/?page_id=148) | `CD32` | Reverse engineered Amiga CD³² motherboard | John 'Chucky' Hertell |
+| [Rämixx500](https://github.com/SukkoPera/Raemixx500) | `A500` | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
+| [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | `A1200` | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
 
 # Hardware - Power Supply
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
+| [ATX adaptors](https://github.com/istedman/ATX_adaptors) | n/a | ATX power supply adaptors for Amigas | Ian Steadman |
+| [ATnoX](https://github.com/hkzlab/ATnoX) | n/a | ATX to AT/XT/Amiga power supply adapter | [hkzlab](https://github.com/hkzlab) |
+| [A500spwr](https://github.com/MastaTabs/a500spwr) | n/a | Single 12V Power supply module for Amiga 500 computers | [Tobias Seiler](https://github.com/MastaTabs) |
 
 # Hardware - Unsorted
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
-| [68040-to-68060](https://github.com/reinauer/68040-to-68060) | `A500` | 68040 to 68060 adapter| [Stefan Reinauer](https://github.com/reinauer) et al |
+| [68040-to-68060](https://github.com/reinauer/68040-to-68060) | n/a | 68040 to 68060 adapter| [Stefan Reinauer](https://github.com/reinauer) et al |
 | [A1k SimpleClock](https://gitlab.com/marceljaehne/a1k-simpleclock) | n/a | A neat RTC for the Amiga 500 and Amiga 1000 Computer | [Marcel Jähne](https://gitlab.com/marceljaehne) |
 | [A1200_8MB_FASTRAM](https://github.com/OlegMishin/A1200_8MB_FASTRAM) | n/a | 8MB FastRAM expansion for Amiga 1200 | [Oleg Mishin](https://github.com/OlegMishin) |
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200) | n/a | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | n/a | Reverse engineered Amiga 2000 motherboard | Floppie209 |
-| [a2000Serotina](https://github.com/grahamshaw1972/a2000Serotina) | n/a | DIY mechanical keyboard for A2000/A3000 | [grahamshaw1972](https://github.com/grahamshaw1972)
 | [A314](https://github.com/niklasekstrom/a314) | n/a | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A4000battkit](https://github.com/arananet/a4000battkit) | n/a |  A4000 Coin battery holder, probably works for other models too | Arananet |
 | [A4091](https://github.com/A4091) | n/a | Replica of the Amiga 4091 SCSI II Host Controller | [Stefan Reinauer](https://github.com/reinauer) |
 | [A500 2Meg Chip ram](https://github.com/LIV2/A500-2Meg-Chip-ram) | n/a | An Adapter to retrofit a 2MB agnus into a 1MB Amiga 500/2000 | [LIV2](https://github.com/LIV2) |
 | [A500_8MB_ide](https://github.com/OlegMishin/A500_8MB_ide) | n/a | Amiga 500 8MB FastRAM and IDE interface | [Oleg Mishin](https://github.com/OlegMishin) |
-| [A500KB](https://github.com/HenrykRichter/A500KB) | n/a | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
-| [A500spwr](https://github.com/MastaTabs/a500spwr) | n/a | Single 12V Power supply module for Amiga 500 computers | [Tobias Seiler](https://github.com/MastaTabs) |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | n/a | Zorro II adapter for A500 with passthrough | [matze](https://gitlab.com/MHeinrichs) |
 | [A500-Tower-Power](https://github.com/wiretap-retro/A500-Tower-Power) | n/a | ATX adapter for A500 tower builds | [wiretap-retro](https://github.com/wiretap-retro)
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | n/a | A570 2MB RAM board clone | dalek |
 | [Amegapad](https://github.com/LIV2/Amegapad) | n/a | 6-button Megadrive pad adapter for Amiga with autofire | [LIV2](https://github.com/LIV2) |
 | [Amiga2MacFloppy](https://github.com/Franks3dShop/Amiga2MacFloppy) | n/a | A reversed-engineered A-Max interface | [Franks3dShop](https://github.com/Franks3dShop) |
 | [Amiga-2000-ATX](https://github.com/jasonsbeer/Amiga-2000-ATX) | n/a | Amiga 2000 PCB in the EATX form factor | [Jason Neus](https://github.com/jasonsbeer) |
-| [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | n/a | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | n/a | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
 | [AmigaDualFloppyInterface](https://github.com/roddersuk/AmigaDualFloppyInterface) | n/a | Amiga 500 6A Dual Internal Floppy Drive Interface | [roddersuk](https://github.com/roddersuk) |
 | [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | n/a | EagleCAD-library for Commodore Amiga custom chips | [matze](https://gitlab.com/MHeinrichs) |
-| [amiga-hddlw](https://github.com/schlae/amiga-hddlw) | n/a | Adapts a regular PC floppy drive for high density operation on an Amiga computer | [schlae](https://github.com/schlae) |
 | [amigahid-pico](https://github.com/borb/amigahid-pico) | n/a | Use USB input devices on Amiga computers, using Raspberry Pi Pico. | [nine](https://github.com/borb) |
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) | n/a |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | n/a | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
@@ -71,8 +85,6 @@ Open Amiga-related hardware projects:
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | n/a | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | n/a | Bigbox video slot version of [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | n/a | [Bloodmosher](https://github.com/Bloodmosher) |
 | [ar3](https://github.com/na103/ar3) | n/a | Action Replay III replica | [Nicola Avanzi](https://github.com/na103) |
-| [ATX adaptors](https://github.com/istedman/ATX_adaptors) | n/a | ATX power supply adaptors for Amigas | Ian Steadman |
-| [ATnoX](https://github.com/hkzlab/ATnoX) | n/a | ATX to AT/XT/Amiga power supply adapter | [hkzlab](https://github.com/hkzlab) |
 | [Bluster](https://github.com/LIV2/Bluster) | n/a | A2000 Buster replacement | [LIV2](https://github.com/LIV2) |
 | [Deniser](https://github.com/endofexclusive/deniser) | n/a | Deniser is a drop-in replacement for the Amiga computer Denise chip. | [endofexclusive](https://github.com/endofexclusive) |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | n/a | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
@@ -81,7 +93,6 @@ Open Amiga-related hardware projects:
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | n/a | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html) | n/a | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
 | [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | n/a | An open source flicker fixer for Amiga 500/2000. | [Niklas Ekström](https://github.com/niklasekstrom) |
-| [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | n/a | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | n/a | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | n/a | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | n/a | 8MB Autoconfig FastRAM for A2000 | [LIV2](https://github.com/LIV2) |
@@ -102,19 +113,13 @@ Open Amiga-related hardware projects:
 | [plipbox](https://github.com/cnvogelg/plipbox) | n/a | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 | [Prelude](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | n/a | A replica of the Prelude ZII sound card for the Amiga. | [wiretap-retro](https://github.com/wiretap-retro)
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | n/a | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
-| [ReCD³²](https://www.reamiga.info/?page_id=148) | n/a | Reverse engineered Amiga CD³² motherboard | John 'Chucky' Hertell |
-| [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | n/a | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
 | [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC) | n/a | Replacement for Commodore SDMAC found in the A3000 | [Mike Taylor](https://github.com/mbtaylor1982), [Jörgen Bilander](https://github.com/jbilander) |
-| [Rämixx500](https://github.com/SukkoPera/Raemixx500) | n/a | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | n/a | USB mouse adaptor for retro computers (Amiga and others) | n/a | Simon Inns |
 | [SD-box](https://github.com/jbilander/sdbox) | n/a |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
 | [SMD2000](https://github.com/gazzmaniac/SMD2000) | n/a | A mini-DTX version of the Amiga 2000 (motherboard) | n/a | gazzmaniac |
 | [SMD-500](https://github.com/gazzmaniac/Amiga-SMD-500) | n/a | Surface mount (SMD) remake of Amiga 500 motherboard | gazzmaniac |
-| [SF2000](https://github.com/jbilander/SF2000) | n/a | Spitfire 2000, 42 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 2000 co-pro slot | [jbilander](https://github.com/jbilander) |
-| [SP500](https://github.com/jbilander/SF500) | n/a | Spitfire 500, A low-end 14 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 500. | [jbilander](https://github.com/jbilander) |
 | [stalkb](https://github.com/gianlucarenzi/stalkb)| n/a | STM32 USB Based firmware microcontroller for any Amiga internal keyboard adapter |  [gianlucarenzi](https://github.com/gianlucarenzi) |
 | [trapdoor5](https://github.com/jmA500/trapdoor5) | n/a | A flexible trapdoor extension for the AMIGA 500 | [jmA500](https://github.com/jmA500) |
-| [TF1230](https://github.com/terriblefire/tf1230) | n/a | Terriblefire TF1230 | terriblefire |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | n/a | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | n/a | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
