@@ -38,7 +38,7 @@ Open Amiga-related hardware projects:
 | Project | Model | Description | Author |
 | :--- | :---: | :--- | ---: |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | n/a | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
-| [Amiga ROMY](https://github.com/reinauer/amiga-romy) | n/a | 1/2/4MB Kickstart adapter (A3000/A4000) | n/a | [Stefan Reinauer](https://github.com/reinauer) |
+| [Amiga ROMY](https://github.com/reinauer/amiga-romy) | n/a | 1/2/4MB Kickstart adapter (A3000/A4000) | n/a | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html) | n/a | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
 
 ## Hardware - Keyboard
