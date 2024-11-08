@@ -38,7 +38,7 @@ Open Amiga-related hardware projects:
 | Project<br>-------------------------- | Model<br>---------- | Description<br>-------------------------------------------------------------------------------- | Author<br>---------------------- |
 | :--- | :---: | :--- | ---: |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | n/a | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
-| [Amiga ROMY](https://github.com/reinauer/amiga-romy) | n/a | 1/2/4MB Kickstart adapter (A3000/A4000) | n/a | [Stefan Reinauer](https://github.com/reinauer) et<br>al |
+| [Amiga ROMY](https://github.com/reinauer/amiga-romy) | n/a | 1/2/4MB Kickstart adapter (A3000/A4000) | n/a | [Stefan Reinauer](https://github.com/reinauer) et&nbsp;al |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html) | n/a | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
 
 ## Hardware - Keyboard
@@ -53,7 +53,7 @@ Open Amiga-related hardware projects:
 
 | Project<br>-------------------------- | Model<br>---------- | Description<br>-------------------------------------------------------------------------------- | Author<br>---------------------- |
 | :--- | :---: | :--- | ---: |
-| [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | `A500` | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et<br>al |
+| [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | `A500` | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et&nbsp;al |
 | [amiga-hddlw](https://github.com/schlae/amiga-hddlw) | n/a | Adapts a regular PC floppy drive for high density operation on an Amiga computer | [schlae](https://github.com/schlae) |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | n/a | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | n/a | OSD Menu for FlashFloppy | Keir Fraser |
@@ -132,7 +132,7 @@ Open Amiga-related hardware projects:
 
 | Project<br>-------------------------- | Model<br>---------- | Description<br>-------------------------------------------------------------------------------- | Author<br>---------------------- |
 | :--- | :---: | :--- | ---: |
-| [68040-to-68060](https://github.com/reinauer/68040-to-68060) | n/a | 68040 to 68060 adapter| [Stefan Reinauer](https://github.com/reinauer) et<br>al |
+| [68040-to-68060](https://github.com/reinauer/68040-to-68060) | n/a | 68040 to 68060 adapter| [Stefan Reinauer](https://github.com/reinauer) et&nbsp;al |
 | [A314](https://github.com/niklasekstrom/a314) | n/a | A500 expansion board with SBC bus | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [A4000battkit](https://github.com/arananet/a4000battkit) | n/a |  A4000 Coin battery holder, probably works for other models too | Arananet |
 | [A500 2Meg Chip ram](https://github.com/LIV2/A500-2Meg-Chip-ram) | n/a | An Adapter to retrofit a 2MB agnus into a 1MB Amiga 500/2000 | [LIV2](https://github.com/LIV2) |
@@ -185,10 +185,10 @@ Everything that has to do with developing for Amiga.
 [CodeCraft](http://boemann.dk/codecraft/) | Codecraft is the powerful IDE for developing software natively on the Amiga | Camilla Boemann |
 [GCC 6](https://github.com/bebbo/gcc/) | gcc-6-branch for m68k-amigaos | [bebbo](https://github.com/bebbo/) |
 [Blitz 2](https://github.com/nitrologic/blitz2) | Blitz Basic 2 source code (incomplete) | [Simon Armstrong](https://github.com/nitrologic/) |
-[AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) | AmiBlitz3 source code | [honitos](https://github.com/honitos) et<br>al |
+[AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) | AmiBlitz3 source code | [honitos](https://github.com/honitos) et&nbsp;al |
 [AMOS Pro](https://github.com/marc365/AMOSProfessional) | AMOS Pro Basic environment + compiler | marc365 |
 [AMOS ProfessionalX](https://github.com/AmiDARK/Amos-Professional-X-Source-Code-Official) | Improved AMOS Pro with AGA support | AmiDARK |
-[EEC](https://github.com/EEC-Developers/eec) | Enhanced Amiga E Compiler | Lars Salomonsson et<br>al |
+[EEC](https://github.com/EEC-Developers/eec) | Enhanced Amiga E Compiler | Lars Salomonsson et&nbsp;al |
 
 ## Frameworks
 
@@ -227,10 +227,10 @@ Different Amiga applications, demos and games.
 |---------|-------------|--------|
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
-[DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et<br>al
+[DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et&nbsp;al
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
 [DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel
-[FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et<br>al
+[FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et&nbsp;al
 [gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
