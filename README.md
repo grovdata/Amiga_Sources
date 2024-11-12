@@ -191,6 +191,7 @@ Different Amiga applications, demos and games.
 [AkikoWolf](https://github.com/earok/AkikoWolf) | Wolfenstein 3D port for the CD32 | earok |
 [Beschei](https://github.com/samskivert/beschei-en) | Card game | Michael Bayne |
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
+[Faery Tale Adventure](https://github.com/viridia/faery-tale-amiga) | Faery Tale Adventure | Talin |
 [goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 [Knightmare](https://github.com/djh0ffman/KnightmareAmiga) | Port of the Konami classic for MSX | [H0ffman](https://github.com/djh0ffman) |
