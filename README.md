@@ -46,6 +46,7 @@ Open Amiga-related hardware projects.
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of [Amiga-Digital-Video](https://github.com/c0pperdragon/Amiga-Digital-Video) | [Bloodmosher](https://github.com/Bloodmosher) |
 | [ar3](https://github.com/na103/ar3) | Action Replay III replica | [Nicola Avanzi](https://github.com/na103) |
+| [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter) | USB to DB9 | [jjmz](https://github.com/jjmz) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors) | ATX power supply adaptors for Amigas | Ian Steadman |
 | [ATnoX](https://github.com/hkzlab/ATnoX) | ATX to AT/XT/Amiga power supply adapter | [hkzlab](https://github.com/hkzlab) |
 | [Bluster](https://github.com/LIV2/Bluster) | A2000 Buster replacement | [LIV2](https://github.com/LIV2) |
@@ -63,6 +64,7 @@ Open Amiga-related hardware projects.
 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Zorro III Fast RAM for Amiga 3000/4000 | [LIV2](https://github.com/LIV2) |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
+| [KickSmash32](https://github.com/cdhooper/kicksmash32) | Kickstart ROM replacement module for the Amiga 3000/4000 | [cdhooper](https://github.com/cdhooper) |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [MNT ZZ9000](https://source.mnt.re/amiga) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
@@ -80,6 +82,7 @@ Open Amiga-related hardware projects.
 | [ReCD³²](https://www.reamiga.info/?page_id=148) | Reverse engineered Amiga CD³² motherboard | John 'Chucky' Hertell |
 | [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
 | [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC) | Replacement for Commodore SDMAC found in the A3000 | [Mike Taylor](https://github.com/mbtaylor1982), [Jörgen Bilander](https://github.com/jbilander) |
+| [RIPPLE-IDE](https://github.com/LIV2/RIPPLE-IDE) | Zorro 2 IDE Interface for Amiga 2000/3000/4000 | [LIV2](https://github.com/LIV2) |
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500) | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [SD-box](https://github.com/jbilander/sdbox) |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
@@ -91,6 +94,8 @@ Open Amiga-related hardware projects.
 | [trapdoor5](https://github.com/jmA500/trapdoor5) | A flexible trapdoor extension for the AMIGA 500 | [jmA500](https://github.com/jmA500) |
 | [TF1230](https://github.com/terriblefire/tf1230) | Terriblefire TF1230 | terriblefire |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
+| [Yaumataca](https://github.com/Slamy/Yaumataca) | USB mouse and joystick to Amiga, Atari ST & C64 Adapter | [Slamy](https://github.com/Slamy/) |
+| [Z3660](https://github.com/shanshe/Z3660) | Z3660 is an Amiga 4000 CPU accelerator board based on A3660 and Z-turn FPGA board | [shanse](https://github.com/shanshe)
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
 # Development
