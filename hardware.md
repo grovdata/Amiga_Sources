@@ -8,13 +8,13 @@
 - [Custom chip replicas](#custom-chip-replicas)
 - [Emulator cards](#emulator-cards)
 - [Expansions](#expansions)
-- [Graphics cards](#graphics-cards)
-- [Motherboard PCBs](#motherboard-pcbs)
-- [Network interfaces](#network-interfaces)
 - [Floppy](#floppy)
+- [Graphics cards](#graphics-cards)
 - [Keyboard adapters](#keyboard-adapters)
 - [Kickstart/ROM hardware](#kickstartrom-hardware)
+- [Motherboard PCBs](#motherboard-pcbs)
 - [Mouse / Joystick adapters](#mouse--joystick-adapters)
+- [Network interfaces](#network-interfaces)
 - [Other hardware](#other-hardware)
 - [Power supplies](#power-supplies)
 - [RTC](#rtc)
@@ -49,6 +49,7 @@ Accelerator and turbo boards.
 ## CAD parts / 3D printing
 
 3D-printable parts for Amiga hardware.
+
 | Project | Description | Author |
 |---------|-------------|--------|
 | [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library) | EagleCAD-library for Commodore Amiga custom chips | [matze](https://gitlab.com/MHeinrichs) |
@@ -99,6 +100,18 @@ Memory expansions and other accelerator boards.
 | [trapdoor5](https://github.com/jmA500/trapdoor5) | A flexible trapdoor extension for the AMIGA 500 | [jmA500](https://github.com/jmA500) |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
+## Floppy
+
+Floppy drive emulators, switches, etc.
+
+| Project | Description | Author |
+|---------|-------------|--------|
+| [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
+| [AmigaDualFloppyInterface](https://github.com/roddersuk/AmigaDualFloppyInterface) | Amiga 500 6A Dual Internal Floppy Drive Interface | [roddersuk](https://github.com/roddersuk) |
+| [amiga-hddlw](https://github.com/schlae/amiga-hddlw) | Adapts a regular PC floppy drive for high density operation on an Amiga computer | [schlae](https://github.com/schlae) |
+| [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
+| [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
+| [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
 
 ## Graphics cards
 
@@ -108,6 +121,14 @@ Graphics cards - RTG.
 |---------|-------------|--------|
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [MNT ZZ9000](https://source.mnt.re/amiga) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
+
+## Keyboard adapters
+
+| Project | Description | Author |
+|---------|-------------|--------|
+| [A500KB](https://github.com/HenrykRichter/A500KB) | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
+| [a2000Serotina](https://github.com/grahamshaw1972/a2000Serotina) | DIY mechanical keyboard for A2000/A3000 | [grahamshaw1972](https://github.com/grahamshaw1972)
+| [stalkb](https://github.com/gianlucarenzi/stalkb)  | STM32 USB Based firmware microcontroller for any Amiga internal keyboard adapter |  [gianlucarenzi](https://github.com/gianlucarenzi) |
 
 ## Motherboard PCBs
 
@@ -125,45 +146,6 @@ Clones or improved versions of motherboards.
 | [ReCD³²](https://www.reamiga.info/?page_id=148) | Reverse engineered Amiga CD³² motherboard | John 'Chucky' Hertell |
 | [ReAmiga 1200](http://wordpress.hertell.nu/?p=587) | Reverse engineered Amiga 1200 motherboard | John 'Chucky' Hertell |
 
-## Network interfaces
-
-| Project | Description | Author |
-|---------|-------------|--------|
-| [picowyfy](https://github.com/niklasekstrom/picowyfy) | Raspberry Pi Pico-based Wifi NIC for clockport | [Niklas Ekström](https://github.com/niklasekstrom) |
-| [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
-
-
-## Floppy
-
-Floppy drive emulators, switches, etc.
-
-| Project | Description | Author |
-|---------|-------------|--------|
-| [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
-| [AmigaDualFloppyInterface](https://github.com/roddersuk/AmigaDualFloppyInterface) | Amiga 500 6A Dual Internal Floppy Drive Interface | [roddersuk](https://github.com/roddersuk) |
-| [amiga-hddlw](https://github.com/schlae/amiga-hddlw) | Adapts a regular PC floppy drive for high density operation on an Amiga computer | [schlae](https://github.com/schlae) |
-| [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
-| [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
-| [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
-
-## Keyboard adapters
-
-| Project | Description | Author |
-|---------|-------------|--------|
-| [A500KB](https://github.com/HenrykRichter/A500KB) | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
-| [a2000Serotina](https://github.com/grahamshaw1972/a2000Serotina) | DIY mechanical keyboard for A2000/A3000 | [grahamshaw1972](https://github.com/grahamshaw1972)
-| [stalkb](https://github.com/gianlucarenzi/stalkb)  | STM32 USB Based firmware microcontroller for any Amiga internal keyboard adapter |  [gianlucarenzi](https://github.com/gianlucarenzi) |
-
-## Kickstart/ROM hardware
-
-| Project | Description | Author |
-|---------|-------------|--------|
-| [Amiga ROMY](https://github.com/reinauer/amiga-romy) | 1/2/4MB Kickstart adapter (A3000/A4000) | [Stefan Reinauer](https://github.com/reinauer) et al |
-| [FlashROM](https://www.onyxsoft.se/flashrom.html) | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
-| [KickSmash32](https://github.com/cdhooper/kicksmash32) | Kickstart ROM replacement module for the Amiga 3000/4000 | [cdhooper](https://github.com/cdhooper) |
-| [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
-
-
 ## Mouse / Joystick adapters
 
 | Project | Description | Author |
@@ -175,6 +157,23 @@ Floppy drive emulators, switches, etc.
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [Yaumataca](https://github.com/Slamy/Yaumataca) | USB mouse and joystick to Amiga, Atari ST & C64 Adapter | [Slamy](https://github.com/Slamy/) |
+
+## Network interfaces
+
+| Project | Description | Author |
+|---------|-------------|--------|
+| [picowyfy](https://github.com/niklasekstrom/picowyfy) | Raspberry Pi Pico-based Wifi NIC for clockport | [Niklas Ekström](https://github.com/niklasekstrom) |
+| [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
+
+
+## Kickstart/ROM hardware
+
+| Project | Description | Author |
+|---------|-------------|--------|
+| [Amiga ROMY](https://github.com/reinauer/amiga-romy) | 1/2/4MB Kickstart adapter (A3000/A4000) | [Stefan Reinauer](https://github.com/reinauer) et al |
+| [FlashROM](https://www.onyxsoft.se/flashrom.html) | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
+| [KickSmash32](https://github.com/cdhooper/kicksmash32) | Kickstart ROM replacement module for the Amiga 3000/4000 | [cdhooper](https://github.com/cdhooper) |
+| [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 
 ## Other hardware
 
@@ -189,7 +188,9 @@ Hardware that doesn't fit in the other categories.
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
 
 ## Power supplies
+
 PSU related.
+
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A500spwr](https://github.com/MastaTabs/a500spwr) | Single 12V Power supply module for Amiga 500 computers | [Tobias Seiler](https://github.com/MastaTabs) |
@@ -212,6 +213,7 @@ Real-time clock modules and battery related.
 ## Storage
 
 Storage adapters for IDE, SCSI, etc.
+
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A4091](https://github.com/A4091) | Replica of the Amiga 4091 SCSI II Host Controller | [Stefan Reinauer](https://github.com/reinauer) |
@@ -220,6 +222,7 @@ Storage adapters for IDE, SCSI, etc.
 
 
 ## Video hardware
+
 Video adaptes, flickerfixers, etc.
 
 | Project | Description | Author |
