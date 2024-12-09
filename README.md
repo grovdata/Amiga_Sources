@@ -6,9 +6,9 @@ This is a compiled list of free/open sources related to classic Commodore Amiga 
 
 ## ⚡️ [Hardware](hardware.md)
 Different hardware projects for the Amiga.
-## 💾 [Development](dev.md)
+## 🧑‍💻 [Development](dev.md)
 Development tools, libraries and frameworks.
-## 🎮 [Software](software.md)
+## 💾 [Software](software.md)
 Software with source code available.
 
 # About
