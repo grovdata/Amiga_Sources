@@ -20,7 +20,7 @@ Everything related to developing for Amiga Classic.
 [GadToolsBox](https://github.com/thom-ek/GadToolsBox) | GUI builder for C etc | Tomasz Muszynski |
 [PatchWork](https://github.com/shred/patchwork) | Verify against illegal library calls | Richard Körber
 [RKRM DOS](https://github.com/thorfdbg/rkrm-dos/) | An RKRM-style reference of AmigaDOS/dos.library | [Thomas Richter](https://github.com/thorfdbg) |
-
+[ReBuild](https://github.com/dmcoles/ReBuild) | Amiga Reaction GUI Builder (Remake of ClassMate) | phantasm4489 (dmcoles) |
 
 ## Compilers / toolchains
 
@@ -36,11 +36,15 @@ Everything related to developing for Amiga Classic.
 [AMOS Pro](https://github.com/marc365/AMOSProfessional) | AMOS Pro Basic environment + compiler | marc365 |
 [AMOS ProfessionalX](https://github.com/AmiDARK/Amos-Professional-X-Source-Code-Official) | Improved AMOS Pro with AGA support | AmiDARK |
 [EEC](https://github.com/EEC-Developers/eec) | Enhanced Amiga E Compiler | Lars Salomonsson et al |
+[E-VO](https://github.com/dmcoles/EVO) | E-VO Amiga E Compiler | phantasm4489 (dmcoles) |
+[NeoDICE](https://github.com/noname22/NeoDICE) | Cleanup of DICE C Compiler | phantasm4489 (dmcoles) |
+
 
 ## Frameworks
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[68kcounter](https://github.com/grahambates/68kcounter) | 68000 ASM source code cycle counter | Graham Bates |
 [amiga-utils](https://github.com/skeetor/amiga-utils) | Self contained Amiga utility library targeted for Assembler but also C/C++ programming without OS | [skeetor](https://github.com/skeetor) |
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
 [AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
