@@ -1,7 +1,25 @@
 # Hardware
 
+## Table of Contents
 
-
+- [Accelerators](#accelerators)
+- [Audio](#audio)
+- [CAD parts / 3D printing](#cad-parts--3d-printing)
+- [Custom chip replicas](#custom-chip-replicas)
+- [Emulator cards](#emulator-cards)
+- [Expansions](#expansions)
+- [Graphics cards](#graphics-cards)
+- [Motherboard PCBs](#motherboard-pcbs)
+- [Network interfaces](#network-interfaces)
+- [Floppy](#floppy)
+- [Keyboard adapters](#keyboard-adapters)
+- [Kickstart/ROM hardware](#kickstartrom-hardware)
+- [Mouse / Joystick adapters](#mouse--joystick-adapters)
+- [Other hardware](#other-hardware)
+- [Power supplies](#power-supplies)
+- [RTC](#rtc)
+- [Storage](#storage)
+- [Video hardware](#video-hardware)
 
 ## Accelerators
 
@@ -171,7 +189,7 @@ Hardware that doesn't fit in the other categories.
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
 
 ## Power supplies
-
+PSU related.
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A500spwr](https://github.com/MastaTabs/a500spwr) | Single 12V Power supply module for Amiga 500 computers | [Tobias Seiler](https://github.com/MastaTabs) |
@@ -192,6 +210,8 @@ Real-time clock modules and battery related.
 
 
 ## Storage
+
+Storage adapters for IDE, SCSI, etc.
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A4091](https://github.com/A4091) | Replica of the Amiga 4091 SCSI II Host Controller | [Stefan Reinauer](https://github.com/reinauer) |
@@ -200,8 +220,7 @@ Real-time clock modules and battery related.
 
 
 ## Video hardware
-
-Storage adapters for IDE, SCSI, etc.
+Video adaptes, flickerfixers, etc.
 
 | Project | Description | Author |
 |---------|-------------|--------|
