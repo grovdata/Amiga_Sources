@@ -37,14 +37,13 @@ Everything related to developing for Amiga Classic.
 [AMOS ProfessionalX](https://github.com/AmiDARK/Amos-Professional-X-Source-Code-Official) | Improved AMOS Pro with AGA support | AmiDARK |
 [EEC](https://github.com/EEC-Developers/eec) | Enhanced Amiga E Compiler | Lars Salomonsson et al |
 [E-VO](https://github.com/dmcoles/EVO) | E-VO Amiga E Compiler | phantasm4489 (dmcoles) |
-[NeoDICE](https://github.com/noname22/NeoDICE) | Cleanup of DICE C Compiler | phantasm4489 (dmcoles) |
+[NeoDICE](https://github.com/noname22/NeoDICE) | Cleanup of DICE C Compiler | Matt Dillon |
 
 
 ## Frameworks
 
 | Project | Description | Author |
 |---------|-------------|--------|
-[68kcounter](https://github.com/grahambates/68kcounter) | 68000 ASM source code cycle counter | Graham Bates |
 [amiga-utils](https://github.com/skeetor/amiga-utils) | Self contained Amiga utility library targeted for Assembler but also C/C++ programming without OS | [skeetor](https://github.com/skeetor) |
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
 [AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
@@ -61,6 +60,7 @@ Everything related to developing for Amiga Classic.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[68kcounter](https://github.com/grahambates/68kcounter) | 68000 ASM source code cycle counter | Graham Bates |
 [Adebug](https://github.com/dverite/adebug-amiga) | Assembly-level debugger | [Daniel Verité](https://github.com/dverite) |
 [amiga-playground](https://github.com/fstarred/amiga-playground) | Amiga demo written in assembly | [fstarred](https://github.com/fstarred)
 [amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
