@@ -69,6 +69,7 @@ Recreated versions of custom chips in the Amiga chipset or related periperals.
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
 | [OpenAmigaVideoHybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | Open Hardware implementation of the Commodore Amiga Video Hybrid | [SukkoPera](https://github.com/SukkoPera) |
 | [ReAgnus](https://github.com/jbilander/ReAgnus) | ReAgnus is a replacement for the Amiga Agnus chip. | [Jörgen Bilander](https://github.com/jbilander) |
+| [ReCIA](https://github.com/jbilander/ReCIA) | A drop in replacement CIA for old Amiga Computers | [Jörgen Bilander](https://github.com/jbilander) |
 | [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC) | ReSDMAC is a replacement for the Amiga SDMAC chip. | [mbtaylor1982](https://github.com/mbtaylor1982) |
 
 
