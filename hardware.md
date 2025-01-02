@@ -99,6 +99,7 @@ Memory expansions and other accelerator boards.
 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | 8MB Autoconfig FastRAM for A2000 | [LIV2](https://github.com/LIV2) |
 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Zorro III Fast RAM for Amiga 3000/4000 | [LIV2](https://github.com/LIV2) |
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
+| [RIDE](https://github.com/LIV2/RIDE) | IDE + 11.37 Megabyte Fast RAM for the A500/A1000/A2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [trapdoor5](https://github.com/jmA500/trapdoor5) | A flexible trapdoor extension for the AMIGA 500 | [jmA500](https://github.com/jmA500) |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
 
