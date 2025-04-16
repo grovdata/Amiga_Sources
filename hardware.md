@@ -142,7 +142,6 @@ Clones or improved versions of motherboards.
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200) | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
 | [Amiga-2000-ATX](https://github.com/jasonsbeer/Amiga-2000-ATX) | Amiga 2000 PCB in the EATX form factor | [Jason Neus](https://github.com/jasonsbeer) |
-| [ar3](https://github.com/na103/ar3) | Action Replay III replica | [Nicola Avanzi](https://github.com/na103) |
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500) | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
 | [SMD2000](https://github.com/gazzmaniac/SMD2000) | A mini-DTX version of the Amiga 2000 (motherboard) | gazzmaniac |
 | [SMD-500](https://github.com/gazzmaniac/Amiga-SMD-500) | Surface mount (SMD) remake of Amiga 500 motherboard | gazzmaniac |
@@ -188,6 +187,7 @@ Hardware that doesn't fit in the other categories.
 | [Amiga2MacFloppy](https://github.com/Franks3dShop/Amiga2MacFloppy) | A reversed-engineered A-Max interface | [Franks3dShop](https://github.com/Franks3dShop) |
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) |  SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [ar3](https://github.com/na103/ar3) | Action Replay III replica | [Nicola Avanzi](https://github.com/na103) |
+| [DeMoN cartridge](https://github.com/gerbilbyte/DeMoN)) | Improved AR3 cartridge | REbEL et. al |
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
 
 ## Power supplies
