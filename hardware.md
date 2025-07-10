@@ -37,6 +37,7 @@ Accelerator and turbo boards.
 | [SF2000](https://github.com/jbilander/SF2000) | Spitfire 2000, 42 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 2000 co-pro slot | [jbilander](https://github.com/jbilander) |
 | [SP500](https://github.com/jbilander/SF500) | Spitfire 500, A low-end 14 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 500. | [jbilander](https://github.com/jbilander) |
 | [TF1230](https://github.com/terriblefire/tf1230) | Terriblefire TF1230 | terriblefire |
+| [WD33C93](https://github.com/reinauer/wd33c93) | Overclocks the SCSI bus on Amiga 3000 | [Stefan Reinauer](https://github.com/reinauer) |
 | [Z3660](https://github.com/shanshe/Z3660) | Z3660 is an Amiga 4000 CPU accelerator board based on A3660 and Z-turn FPGA board | [shanse](https://github.com/shanshe)
 
 ## Audio
