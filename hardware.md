@@ -233,6 +233,7 @@ Video adaptes, flickerfixers, etc.
 | Project | Description | Author |
 |---------|-------------|--------|
 | [Amiga RGB SCART Adapter](https://codeberg.org/CBMretro/Amiga_RGB_SCART_Adapter) | Converts Amiga video connector to RGB SCART | [CBMretro](https://cbmretro.fi/) |
+| [Amiga RGB Video Splitter](https://github.com/jbilander/Amiga_RGB_video_splitter) | Extend your Amiga RGB video signal to two display units | [jbilander](https://github.com/jbilander) |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of RGB2HDMI | [Bloodmosher](https://github.com/Bloodmosher) |
