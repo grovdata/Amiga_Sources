@@ -44,6 +44,7 @@ Accelerator and turbo boards.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+| [AmigaGUS](https://github.com/necronomfive/AmiGUS-pub) | Zorro sound card | [necronomfive](https://github.com/necronomfive) |
 | [Open Amiga Sampler](https://github.com/echolevel/open-amiga-sampler) | Open source mono sampler for Amiga. | [echolevel](https://github.com/echolevel) |
 | [Prelude](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | A replica of the Prelude ZII sound card for the Amiga. | [wiretap-retro](https://github.com/wiretap-retro)
 
