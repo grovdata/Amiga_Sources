@@ -88,6 +88,7 @@ Memory expansions and other accelerator boards.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+| [A1200_8MB_FASTRAM + 1.5MB Ranger RAM](https://github.com/f1ac0/A1200FaStRamExpansion) | 8MB FastRAM + 1.5MB Ranger RAM expansion for Amiga 1200 | [f1ac0](https://github.com/f1ac0) |
 | [A1200_8MB_FASTRAM](https://github.com/OlegMishin/A1200_8MB_FASTRAM) | 8MB FastRAM expansion for Amiga 1200 | [Oleg Mishin](https://github.com/OlegMishin) |
 | [A500 2Meg Chip ram](https://github.com/LIV2/A500-2Meg-Chip-ram) | An Adapter to retrofit a 2MB agnus into a 1MB Amiga 500/2000 | [LIV2](https://github.com/LIV2) |
 | [A500_8MB_ide](https://github.com/OlegMishin/A500_8MB_ide) | Amiga 500 8MB FastRAM and IDE interface | [Oleg Mishin](https://github.com/OlegMishin) |
