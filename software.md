@@ -14,6 +14,7 @@ Different Amiga applications, demos and games that have source code available.
 |---------|-------------|--------|
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
+[BebboSSH](https://franke.ms/git/bebbo/bebbossh) | SSH2 suite (client/server, sftp) with modern ciphers | bebbo |
 [DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
 [DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel
