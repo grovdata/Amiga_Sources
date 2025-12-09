@@ -65,5 +65,6 @@ Everything related to developing for Amiga Classic.
 [amiga_examples](https://github.com/alpine9000/amiga_examples) by [alpine9000](https://github.com/alpine9000) | Various Assembler examples | [alpine9000](https://github.com/alpine9000) |
 [AProf](https://github.com/michab66/AProf) | A profiler for C, E, asm, etc | [Michael G. Binz](https://github.com/michab66) |
 [Amiga-Scoopex-C](https://github.com/spec-chum/Amiga-Scoopex-C) |  An on-going conversion of Scoopex's incredible Amiga Hardware Programming Series on YouTube into C | spec-chum |
+[CacheCop](https://github.com/reinauer/CacheCop) | AmigaOS CachePreDMA/PostDMA auditor | Stefan Reinauer |
 [trackloader](https://github.com/Slamy/trackloader) | Simple floppy bootloader that fits in the boot block | [Slamy](https://github.com/Slamy) |
 
