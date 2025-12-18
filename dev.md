@@ -46,6 +46,7 @@ Everything related to developing for Amiga Classic.
 [amiga-utils](https://github.com/skeetor/amiga-utils) | Self contained Amiga utility library targeted for Assembler but also C/C++ programming without OS | [skeetor](https://github.com/skeetor) |
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
 [AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
+[amifuse](https://github.com/reinauer/amifuse) | Native Amiga Filesystems on Mac and Linux | Stefan Reinauer |
 [Haujobb Amiga Framework](https://github.com/leifo/haujobb-amiga) | Crossdev framework for demos | Haujobb |
 [libSDL 1.2](https://github.com/AmigaPorts/libSDL12) by various | SDL 1.2 port for AmigaOS/m68k | [AmigaPorts](https://github.com/AmigaPorts) |
 [LSPlayer](https://github.com/arnaud-carre/LSPlayer) | The fastest Amiga music player ever | [Arnaud Carré](https://github.com/arnaud-carre) |
@@ -66,5 +67,6 @@ Everything related to developing for Amiga Classic.
 [AProf](https://github.com/michab66/AProf) | A profiler for C, E, asm, etc | [Michael G. Binz](https://github.com/michab66) |
 [Amiga-Scoopex-C](https://github.com/spec-chum/Amiga-Scoopex-C) |  An on-going conversion of Scoopex's incredible Amiga Hardware Programming Series on YouTube into C | spec-chum |
 [CacheCop](https://github.com/reinauer/CacheCop) | AmigaOS CachePreDMA/PostDMA auditor | Stefan Reinauer |
+[TinySetPatch](https://github.com/reinauer/TinySetPatch) | Tiny SetPatch for distributable disks. | Stefan Reinauer |
 [trackloader](https://github.com/Slamy/trackloader) | Simple floppy bootloader that fits in the boot block | [Slamy](https://github.com/Slamy) |
 
