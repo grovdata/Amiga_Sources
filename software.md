@@ -27,8 +27,9 @@ Different Amiga applications, demos and games that have source code available.
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
-[Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng
+[Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng |
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
+[xSysInfo](https://github.com/reinauer/xsysinfo) | Benchmarking | Stefan Reinauer |
 
 ## Demos
 
