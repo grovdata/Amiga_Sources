@@ -32,6 +32,7 @@ Accelerator and turbo boards.
 | [A3640](http://wordpress.hertell.nu/?page_id=514) | Reverse engineered C= A3640 accelerator | John 'Chucky' Hertell |
 | [Greta](https://github.com/endofexclusive/greta) | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller. | Martin Åberg |
 | [N2630](https://github.com/jasonsbeer/Amiga-N2630) | A re-imagining of the Amiga A2630 processor card | [Jason Neus](https://github.com/jasonsbeer) |
+| [OLM030](https://github.com/OlegMishin/OLM030) | Amiga 500 accelerator based on 68030FE33 | [Oleg Mishin](https://github.com/OlegMishin) |
 | [PiStorm](https://github.com/captain-amygdala/pistorm) | 68k Hardware Emulator | PiStorm team |
 | [PiStorm-32](https://github.com/PiStorm/pistorm32-lite-hardware) | PiStorm for Amiga 1200 | PiStorm team |
 | [SF2000](https://github.com/jbilander/SF2000) | Spitfire 2000, 42 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 2000 co-pro slot | [jbilander](https://github.com/jbilander) |
@@ -160,7 +161,10 @@ Clones or improved versions of motherboards.
 | [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter) | USB to DB9 | [jjmz](https://github.com/jjmz) |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
+| [OpenAmigaFourPlayerAdapter](https://github.com/SukkoPera/OpenAmigaFourPlayerAdapter) | Connect up to four joysticks to your Amiga! | [SukkoPera](https://github.com/SukkoPera) |
+| [OpenAmigaJoyMouseSwitcher](https://github.com/SukkoPera/OpenAmigaJoyMouseSwitcher) | Open Hardware Automatic Mouse/Joystick Switcher for Amiga Computers | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
+| [Unijoysticle™ 2](https://github.com/ricardoquesada/unijoysticle2) | Bluetooth gamepad support for the Commodore 64 / Atari / Amiga, etc. | [Ricardo Quesada](https://github.com/ricardoquesada) |
 | [Yaumataca](https://github.com/Slamy/Yaumataca) | USB mouse and joystick to Amiga, Atari ST & C64 Adapter | [Slamy](https://github.com/Slamy/) |
 
 ## Network interfaces
@@ -240,6 +244,7 @@ Video adaptes, flickerfixers, etc.
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of RGB2HDMI | [Bloodmosher](https://github.com/Bloodmosher) |
+| [BeamBender](https://github.com/jbilander/BeamBender) | An open source flicker fixer PCB for Amiga 1200 and 500 | [jbilander](https://github.com/jbilander) |
 | [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | An open source flicker fixer for Amiga 500/2000. | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [RGB2HDMI](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
 
