@@ -37,6 +37,7 @@ Accelerator and turbo boards.
 | [PiStorm-32](https://github.com/PiStorm/pistorm32-lite-hardware) | PiStorm for Amiga 1200 | PiStorm team |
 | [SF2000](https://github.com/jbilander/SF2000) | Spitfire 2000, 42 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 2000 co-pro slot | [jbilander](https://github.com/jbilander) |
 | [SP500](https://github.com/jbilander/SF500) | Spitfire 500, A low-end 14 MHz Accelerator with IDE and 4/8 MB fast RAM for the Amiga 500. | [jbilander](https://github.com/jbilander) |
+| [TF536](https://github.com/terriblefire/tf536) | The TF536 is an open-source hardware accelerator that replaces the original 68000 CPU in Amiga 500 and CDTV systems with a faster 68030 processor. | terriblefire |
 | [TF1230](https://github.com/terriblefire/tf1230) | Terriblefire TF1230 | terriblefire |
 | [WD33C93](https://github.com/reinauer/wd33c93) | Overclocks the SCSI bus on Amiga 3000 | [Stefan Reinauer](https://github.com/reinauer) |
 | [Z3660](https://github.com/shanshe/Z3660) | Z3660 is an Amiga 4000 CPU accelerator board based on A3660 and Z-turn FPGA board | [shanse](https://github.com/shanshe)
@@ -99,10 +100,12 @@ Memory expansions and other accelerator boards.
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
+| [Ginger](https://github.com/mrehkopf/Ginger) |	Ginger is an integrated Socket Shift, 2x CPU switch, and 4x Clock Port & RTC expansion. | [Maximilian Rehkopf](https://github.com/mrehkopf) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | 8MB Autoconfig FastRAM for A2000 | [LIV2](https://github.com/LIV2) |
 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Zorro III Fast RAM for Amiga 3000/4000 | [LIV2](https://github.com/LIV2) |
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
+| [RAMesses](https://github.com/LinuxJedi/RAMesses) | RAMesses is a plug and play Amiga 500/2000/CDTV board which will convert a 2MB 8375 Agnus to work in a 512KB/1MB motherboard and add 2MB of RAM. | [LinuxJedi](https://github.com/LinuxJedi) | 
 | [RIDE](https://github.com/LIV2/RIDE) | IDE + 11.37 Megabyte Fast RAM for the A500/A1000/A2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [trapdoor5](https://github.com/jmA500/trapdoor5) | A flexible trapdoor extension for the AMIGA 500 | [jmA500](https://github.com/jmA500) |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
@@ -115,6 +118,7 @@ Floppy drive emulators, switches, etc.
 |---------|-------------|--------|
 | [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [AmigaDualFloppyInterface](https://github.com/roddersuk/AmigaDualFloppyInterface) | Amiga 500 6A Dual Internal Floppy Drive Interface | [roddersuk](https://github.com/roddersuk) |
+| [Amiga-external-3x-FDD](https://github.com/Baryduke/Amiga-external-3x-FDD) | Allows you to connect an original 1.44MB 3.5" PC FDD without any modifications or PC FDD modified for AMIGA. | [Baryduke](https://github.com/Baryduke) |
 | [amiga-hddlw](https://github.com/schlae/amiga-hddlw) | Adapts a regular PC floppy drive for high density operation on an Amiga computer | [schlae](https://github.com/schlae) |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
@@ -126,6 +130,7 @@ Graphics cards - RTG.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+| [A500-GraKa](https://gitlab.com/MHeinrichs/A500-GraKa) | This is an Zorro/Expansionport -expansion card for the big Amigas: A2000/300/4000 or A500 on the expansion port. | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) |
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [MNT ZZ9000](https://source.mnt.re/amiga) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
 
@@ -158,6 +163,7 @@ Clones or improved versions of motherboards.
 |---------|-------------|--------|
 | [Amegapad](https://github.com/LIV2/Amegapad) | 6-button Megadrive pad adapter for Amiga with autofire | [LIV2](https://github.com/LIV2) |
 | [amigahid-pico](https://github.com/borb/amigahid-pico) | Use USB input devices on Amiga computers, using Raspberry Pi Pico. | [nine](https://github.com/borb) |
+| [Amiga Tanklight](https://gitlab.com/marceljaehne/amiga-tanklight) | This is an optical replacement board for the Amiga Tankmouse with real quadrature signals | [Marcel Jähne](https://gitlab.com/marceljaehne) |
 | [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter) | USB to DB9 | [jjmz](https://github.com/jjmz) |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
@@ -217,9 +223,9 @@ Real-time clock modules and battery related.
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A1k SimpleClock](https://gitlab.com/marceljaehne/a1k-simpleclock) | A neat RTC for the Amiga 500 and Amiga 1000 Computer | [Marcel Jähne](https://gitlab.com/marceljaehne) |
+| [Amiga Twinclock](https://gitlab.com/marceljaehne/amiga-twinclock-clockport-and-rtc) | This is an Expansion for all Amiga 500 and 1000 Computers. It gives you three Clockport Ports and additionally a RTC. | [Marcel Jähne ](https://gitlab.com/marceljaehne) |
 | [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
 | [OpenA1200RTC](https://github.com/screwbreaker/OpenA1200RTC) | RTC for Amiga 1200 | [screwbreaker](https://github.com/screwbreaker) |
-
 
 ## Storage
 
@@ -232,7 +238,7 @@ Storage adapters for IDE, SCSI, etc.
 | [AmigaCF](https://gitlab.com/autumnhippo/amigacf) | A CompactFlash adapter with activity clicking noises for your Amiga 600 and 1200 | [autumnhippo](https://gitlab.com/autumnhippo) |
 | [RIPPLE-IDE](https://github.com/LIV2/RIPPLE-IDE) | Zorro 2 IDE Interface for Amiga 2000/3000/4000 | [LIV2](https://github.com/LIV2) |
 | [SD-box](https://github.com/jbilander/sdbox) |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
-
+| [SD-box-v3](https://github.com/jbilander/SDBox-v3) |	A parallel to Pico 2 W and sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
 
 ## Video hardware
 
@@ -244,9 +250,11 @@ Video adaptes, flickerfixers, etc.
 | [Amiga RGB Video Splitter](https://github.com/jbilander/Amiga_RGB_video_splitter) | Extend your Amiga RGB video signal to two display units | [jbilander](https://github.com/jbilander) |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
+| [AMI-RGB2VGAPLUS](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS) | Double buffered, impedance matched, no vertical lines VGA adapter for all Amigas  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
+| [AMI-RGB2VGAULTIMATE](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE) | The Ultimate Double buffered, Impedance matched, User selectable filtered NO-VERTICAL_BARS RGB to VGA adapter for all Amigas  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of RGB2HDMI | [Bloodmosher](https://github.com/Bloodmosher) |
 | [BeamBender](https://github.com/jbilander/BeamBender) | An open source flicker fixer PCB for Amiga 1200 and 500 | [jbilander](https://github.com/jbilander) |
 | [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | An open source flicker fixer for Amiga 500/2000. | [Niklas Ekström](https://github.com/niklasekstrom) |
+| [Multifix-AGA](https://gitlab.com/MHeinrichs/multifix-aga) | This is a ECS and AGA-combo scandoubler and flicker fixer for big box Amigas. | [Matthias Heinrichs ](https://gitlab.com/MHeinrichs) |
 | [RGB2HDMI](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
-
 
