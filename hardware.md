@@ -163,6 +163,7 @@ Clones or improved versions of motherboards.
 |---------|-------------|--------|
 | [Amegapad](https://github.com/LIV2/Amegapad) | 6-button Megadrive pad adapter for Amiga with autofire | [LIV2](https://github.com/LIV2) |
 | [amigahid-pico](https://github.com/borb/amigahid-pico) | Use USB input devices on Amiga computers, using Raspberry Pi Pico. | [nine](https://github.com/borb) |
+| [Amiga Tanklight](https://gitlab.com/marceljaehne/amiga-tanklight) | This is an optical replacement board for the Amiga Tankmouse with real quadrature signals | [Marcel Jähne](https://gitlab.com/marceljaehne) |
 | [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter) | USB to DB9 | [jjmz](https://github.com/jjmz) |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
@@ -222,9 +223,9 @@ Real-time clock modules and battery related.
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A1k SimpleClock](https://gitlab.com/marceljaehne/a1k-simpleclock) | A neat RTC for the Amiga 500 and Amiga 1000 Computer | [Marcel Jähne](https://gitlab.com/marceljaehne) |
+| [Amiga Twinclock](https://gitlab.com/marceljaehne/amiga-twinclock-clockport-and-rtc) | This is an Expansion for all Amiga 500 and 1000 Computers. It gives you three Clockport Ports and additionally a RTC. | [Marcel Jähne ](https://gitlab.com/marceljaehne) |
 | [A4000battkit](https://github.com/arananet/a4000battkit) |  A4000 Coin battery holder, probably works for other models too | Arananet |
 | [OpenA1200RTC](https://github.com/screwbreaker/OpenA1200RTC) | RTC for Amiga 1200 | [screwbreaker](https://github.com/screwbreaker) |
-
 
 ## Storage
 
@@ -249,9 +250,11 @@ Video adaptes, flickerfixers, etc.
 | [Amiga RGB Video Splitter](https://github.com/jbilander/Amiga_RGB_video_splitter) | Extend your Amiga RGB video signal to two display units | [jbilander](https://github.com/jbilander) |
 | [Amiga_to_VGA](https://github.com/daleking/Amiga_to_VGA_Buffered) | Buffered VGA adapter for 15kHz screens | dalek |
 | [AMI-RGB2VGA](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA) | A quick & dirty functional clone of A4000 vga dongle  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
+| [AMI-RGB2VGAPLUS](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS) | Double buffered, impedance matched, no vertical lines VGA adapter for all Amigas  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
+| [AMI-RGB2VGAULTIMATE](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE) | The Ultimate Double buffered, Impedance matched, User selectable filtered NO-VERTICAL_BARS RGB to VGA adapter for all Amigas  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of RGB2HDMI | [Bloodmosher](https://github.com/Bloodmosher) |
 | [BeamBender](https://github.com/jbilander/BeamBender) | An open source flicker fixer PCB for Amiga 1200 and 500 | [jbilander](https://github.com/jbilander) |
 | [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | An open source flicker fixer for Amiga 500/2000. | [Niklas Ekström](https://github.com/niklasekstrom) |
+| [Multifix-AGA](https://gitlab.com/MHeinrichs/multifix-aga) | This is a ECS and AGA-combo scandoubler and flicker fixer for big box Amigas. | [Matthias Heinrichs ](https://gitlab.com/MHeinrichs) |
 | [RGB2HDMI](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
-
 
