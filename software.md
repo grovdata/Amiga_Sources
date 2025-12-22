@@ -13,7 +13,11 @@ Different Amiga applications, demos and games that have source code available.
 | Project | Description | Author |
 |---------|-------------|--------|
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
+[AmigaGPT](https://github.com/sacredbanana/AmigaGPT) |	AmigaGPT is a versatile ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana]) |
+[amigamame](https://github.com/krabobmkd/amigamame) |	Mame port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
+[Avalanche](https://github.com/chris-y/avalanche) |	ReAction GUI for xadmaster, xfdmaster and Deark. Designed for AmigaOS 3.2 and 4.1 | [Chris Young ](https://github.com/chris-y/avalanche) |
+[AWeb 3](https://github.com/amigazen/AWeb3) |	This is AWeb 3 APL open source version, an HTML 3 web browser for Amiga. | [amigazen project](https://github.com/amigazen) |
 [BebboSSH](https://franke.ms/git/bebbo/bebbossh) | SSH2 suite (client/server, sftp) with modern ciphers | bebbo |
 [DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
@@ -25,9 +29,12 @@ Different Amiga applications, demos and games that have source code available.
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
+[rVNCd](https://github.com/rolsen74/rvncd) |	Amiga VNC Server | [René W. Olsen ](https://github.com/rolsen74) |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
 [Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng |
+[TuneFinder](https://github.com/sandlbn/TuneFinder) |	TuneFinder is an AmigaOS 3.x application that allows you to browse, save playlist and play Internet radio stations. It uses the Radio Browser API to search for stations worldwide. 
+[TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	TuneFinderMUI is a MUI-based Internet Radio browser for AmigaOS 3.x. | [Marcin Spoczynski](https://github.com/sandlbn) |
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
 [xSysInfo](https://github.com/reinauer/xsysinfo) | Benchmarking | Stefan Reinauer |
 
