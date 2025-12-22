@@ -228,6 +228,7 @@ Storage adapters for IDE, SCSI, etc.
 | Project | Description | Author |
 |---------|-------------|--------|
 | [A4091](https://github.com/A4091) | Replica of the Amiga 4091 SCSI II Host Controller | [Stefan Reinauer](https://github.com/reinauer) |
+| [a500-sd-plus-controller](https://github.com/Mathesar/a500-sd-plus-controller) | SD-card plus Ethernet controller for the Amiga 500 | [Mathesar](https://github.com/Mathesar) |
 | [AmigaCF](https://gitlab.com/autumnhippo/amigacf) | A CompactFlash adapter with activity clicking noises for your Amiga 600 and 1200 | [autumnhippo](https://gitlab.com/autumnhippo) |
 | [RIPPLE-IDE](https://github.com/LIV2/RIPPLE-IDE) | Zorro 2 IDE Interface for Amiga 2000/3000/4000 | [LIV2](https://github.com/LIV2) |
 | [SD-box](https://github.com/jbilander/sdbox) |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
