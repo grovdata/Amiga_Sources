@@ -100,10 +100,12 @@ Memory expansions and other accelerator boards.
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
+| [Ginger](https://github.com/mrehkopf/Ginger) |	Ginger is an integrated Socket Shift, 2x CPU switch, and 4x Clock Port & RTC expansion. | [Maximilian Rehkopf](https://github.com/mrehkopf) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | 8MB Autoconfig FastRAM for A2000 | [LIV2](https://github.com/LIV2) |
 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Zorro III Fast RAM for Amiga 3000/4000 | [LIV2](https://github.com/LIV2) |
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
+| [RAMesses](https://github.com/LinuxJedi/RAMesses) | RAMesses is a plug and play Amiga 500/2000/CDTV board which will convert a 2MB 8375 Agnus to work in a 512KB/1MB motherboard and add 2MB of RAM. | [LinuxJedi](https://github.com/LinuxJedi) | 
 | [RIDE](https://github.com/LIV2/RIDE) | IDE + 11.37 Megabyte Fast RAM for the A500/A1000/A2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [trapdoor5](https://github.com/jmA500/trapdoor5) | A flexible trapdoor extension for the AMIGA 500 | [jmA500](https://github.com/jmA500) |
 | [Zorro-LAN-IDE](https://gitlab.com/MHeinrichs/Zorro-LAN-IDE) | A LAN/IDE solution with Clockport for the Amiga Zorro II/III Slot | [matze](https://gitlab.com/MHeinrichs) |
@@ -116,6 +118,7 @@ Floppy drive emulators, switches, etc.
 |---------|-------------|--------|
 | [Amiga Boot Selector](https://github.com/reinauer/Amiga-Boot-Selector) | DF0/DF1 switch for Amiga 500 | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [AmigaDualFloppyInterface](https://github.com/roddersuk/AmigaDualFloppyInterface) | Amiga 500 6A Dual Internal Floppy Drive Interface | [roddersuk](https://github.com/roddersuk) |
+| [Amiga-external-3x-FDD](https://github.com/Baryduke/Amiga-external-3x-FDD) | Allows you to connect an original 1.44MB 3.5" PC FDD without any modifications or PC FDD modified for AMIGA. | [Baryduke](https://github.com/Baryduke) |
 | [amiga-hddlw](https://github.com/schlae/amiga-hddlw) | Adapts a regular PC floppy drive for high density operation on an Amiga computer | [schlae](https://github.com/schlae) |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
@@ -127,6 +130,7 @@ Graphics cards - RTG.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+| [A500-GraKa](https://gitlab.com/MHeinrichs/A500-GraKa) | This is an Zorro/Expansionport -expansion card for the big Amigas: A2000/300/4000 or A500 on the expansion port. | [Matthias Heinrichs](https://gitlab.com/MHeinrichs) |
 | [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) | Zorro II/III FPGA-based graphics card | Lukas Hartmann |
 | [MNT ZZ9000](https://source.mnt.re/amiga) | MNT ZZ9000 is a graphics and ARM coprocessor card for Amiga computers equipped with Zorro slots | Lukas Hartmann |
 
@@ -233,7 +237,7 @@ Storage adapters for IDE, SCSI, etc.
 | [AmigaCF](https://gitlab.com/autumnhippo/amigacf) | A CompactFlash adapter with activity clicking noises for your Amiga 600 and 1200 | [autumnhippo](https://gitlab.com/autumnhippo) |
 | [RIPPLE-IDE](https://github.com/LIV2/RIPPLE-IDE) | Zorro 2 IDE Interface for Amiga 2000/3000/4000 | [LIV2](https://github.com/LIV2) |
 | [SD-box](https://github.com/jbilander/sdbox) |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
-
+| [SD-box-v3](https://github.com/jbilander/SDBox-v3) |	A parallel to Pico 2 W and sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
 
 ## Video hardware
 
