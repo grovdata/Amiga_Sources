@@ -13,7 +13,7 @@ Different Amiga applications, demos and games that have source code available.
 | Project | Description | Author |
 |---------|-------------|--------|
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
-[AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana]) |
+[AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
 [amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
 [Avalanche](https://github.com/chris-y/avalanche) |	ReAction GUI for xadmaster, xfdmaster, and Deark | [Chris Young ](https://github.com/chris-y/avalanche) |
