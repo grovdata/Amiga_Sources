@@ -1,0 +1,34 @@
+Hardware
+	Accelerators
+		Buffee Nano "Cheerleader Edition"	https://github.com/nonarkitten/buffee-nano	This is the repository for Buffee Nano, the very, very lowest end FPGA Amiga accelerator.
+		68EC020-TK	https://gitlab.com/MHeinrichs/68EC020-TK	
+		68030-TK2	https://gitlab.com/MHeinrichs/68030-tk2	
+		A4000-TK	https://gitlab.com/MHeinrichs/a4000-tk	68060 Turbocard for Amiga A3000(T) and A4000(T)
+	Custom chip replicas
+		Amiga Replacement Project https://github.com/nonarkitten/amiga_replacement_project	"To make replacements for all the custom chips of the AMIGA, useable in any real AMIGA."
+
+	Motherboard PCBs
+		AmigaPCI	https://github.com/AmigaPCI/AmigaPCI-MainBoard	The AmigaPCI is an OCS/ECS Amiga computer in the ATX form factor.
+		AmigaPCI-LBC040	https://github.com/AmigaPCI/AmigaPCI-LBC040	This repo contains the MC68040 local bus card project for the AmigaPCI
+	RTC
+		ReClockator 500	https://github.com/mrehkopf/ReClockator-500	ReClockator 500 is an Open Hardware adapter PCB that changes the orientation of a 68000 DIP CPU; it is intended for use with the Amiga 500 computer to facilitate arrangement of expansions inside the case.
+		Amiga Clockport FPC Adapters	https://github.com/mrehkopf/ClockPort-FPC-Adapters?tab=readme-ov-file	
+
+Software
+	Applications
+		amigamame	https://github.com/krabobmkd/amigamame	Mame port for Amiga AGA and RTG
+		rVNCd	https://github.com/rolsen74/rvncd	Amiga VNC Server
+		AmiSSL	https://github.com/jens-maus/amissl	Port of OpenSSL in a shared library for Amiga-based systems
+		AmigaGPT	https://github.com/sacredbanana/AmigaGPT	AmigaGPT is a versatile ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS
+		AWeb 3	https://github.com/amigazen/AWeb3	This is AWeb 3 APL open source version, an HTML 3 web browser for Amiga.
+		AmiTranslate	https://github.com/alb42/AmiTranslate	DeepL client for Amiga Systems with fancy text print and PDF output that you can read the chars nor easily printable by MUI
+		AmiTube	https://github.com/alb42/AmiTube	A YouTube Client for Amiga (with server component, CDXL conversation)
+		AmiFox	https://github.com/alb42/AmiFox	A new browser for classic Amiga. (WRP-based)
+		TuneFinderMUI	https://github.com/sandlbn/TuneFinderMUI	TuneFinderMUI is a MUI-based Internet Radio browser for AmigaOS 3.x. For Intuition-based version check TuneFinder.
+		Avalanche	https://github.com/chris-y/avalanche	ReAction GUI for xadmaster, xfdmaster and Deark. Designed for AmigaOS 3.2 and 4.1
+
+Development
+	Amiblitz3	https://github.com/AmiBlitz/AmiBlitz3	
+	AmigaSDK-gcc	https://github.com/sacredbanana/AmigaSDK-gcc	This pack contains the AmigaOS 3.2 NDK, AmigaOS 4.1 SDK 54.16, MorphOS 3.18 SDK, plus extra SDKs fixed to work with the GCC compiler.
+	
+
