@@ -203,7 +203,7 @@ Hardware that doesn't fit in the other categories.
 | [Amiga2MacFloppy](https://github.com/Franks3dShop/Amiga2MacFloppy) | A reversed-engineered A-Max interface | [Franks3dShop](https://github.com/Franks3dShop) |
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) |  SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [ar3](https://github.com/na103/ar3) | Action Replay III replica | [Nicola Avanzi](https://github.com/na103) |
-| [DeMoN cartridge](https://github.com/gerbilbyte/DeMoN) | Improved AR3 cartridge | REbEL et. al |
+| [DeMoN cartridge](https://github.com/gerbilbyte/DeMoN2) | Improved AR3 cartridge | REbEL et. al |
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter) | Int7 NMI generator for A500/1000/2000| [Stefan Reinauer](https://github.com/reinauer) |
 
 ## Power supplies
