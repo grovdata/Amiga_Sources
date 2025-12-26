@@ -14,7 +14,11 @@ Different Amiga applications, demos and games that have source code available.
 |---------|-------------|--------|
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
 [Amiget](https://github.com/emartisoft/amiget) | A console application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
+[AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
+[amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
+[Avalanche](https://github.com/chris-y/avalanche) | ReAction GUI for xadmaster, xfdmaster, and Deark | [Chris Young ](https://github.com/chris-y/avalanche) |
+[AWeb 3](https://github.com/amigazen/AWeb3) | HTML 3 web browser for Amiga | [amigazen project](https://github.com/amigazen) |
 [BebboSSH](https://franke.ms/git/bebbo/bebbossh) | SSH2 suite (client/server, sftp) with modern ciphers | bebbo |
 [DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
@@ -28,9 +32,12 @@ Different Amiga applications, demos and games that have source code available.
 [Mnemosyne](https://github.com/Arisamiga/Mnemosyne) | Mnemosyne is an open source disk utility application for AmigaOS 3.x, which can be used to show you what files and folders are taking up space on your disk. | [Aris ](https://github.com/Arisamiga) |
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
+[rVNCd](https://github.com/rolsen74/rvncd) | Amiga VNC Server | [René W. Olsen ](https://github.com/rolsen74) |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
 [Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng |
+[TuneFinder](https://github.com/sandlbn/TuneFinder) | Internet radio browser for AmigaOS 3.x | [Marcin Spoczynski](https://github.com/sandlbn) |
+[TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
 [xSysInfo](https://github.com/reinauer/xsysinfo) | Benchmarking | Stefan Reinauer |
 
