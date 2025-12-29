@@ -55,8 +55,8 @@ Different Amiga applications, demos and games that have source code available.
 
 | Project | Description | Author |
 |---------|-------------|--------|
-[Alien Breed 3D RTG](https://github.com/mheyer32/ab3d-rtg)) | Alien Breed 3D | Andy Clitheroe/John Girvin |
-[Alien Breed 3D II](https://github.com/mheyer32/alienbreed3d2)) | Alien Breed 3D II sources | Andy Clitheroe |
+[Alien Breed 3D RTG](https://github.com/mheyer32/ab3d-rtg) | Alien Breed 3D | Andy Clitheroe/John Girvin |
+[Alien Breed 3D II](https://github.com/mheyer32/alienbreed3d2) | Alien Breed 3D II sources | Andy Clitheroe |
 [AkikoWolf](https://github.com/earok/AkikoWolf) | Wolfenstein 3D port for the CD32 | earok |
 [AmiQuake GCC Port](https://github.com/terriblefire/amiquake) | GCC/m68k port of AmiQuake |[TerrribleFire](https://github.com/terriblefire) |
 [Beschei](https://github.com/samskivert/beschei-en) | Card game | Michael Bayne |
