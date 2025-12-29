@@ -49,6 +49,7 @@ Accelerator and turbo boards.
 | Project | Description | Author |
 |---------|-------------|--------|
 | [AmigaGUS](https://github.com/necronomfive/AmiGUS-pub) | Zorro sound card | [necronomfive](https://github.com/necronomfive) |
+| [AmigaStereoMixer](https://github.com/dschneller/AmigaStereoMixer) | A simple circut to allow merging stereo input channels. | [Daniel Schneller](https://github.com/dschneller) |
 | [Open Amiga Sampler](https://github.com/echolevel/open-amiga-sampler) | Open source mono sampler for Amiga. | [echolevel](https://github.com/echolevel) |
 | [Prelude](https://github.com/wiretap-retro/Prelude-ZII-Sound-Card) | A replica of the Prelude ZII sound card for the Amiga. | [wiretap-retro](https://github.com/wiretap-retro)
 
@@ -62,7 +63,6 @@ Accelerator and turbo boards.
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) |  A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B) | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
 | [Gotek internal A500 mount](https://github.com/jbilander/Gotek_internal_A500_mount) | An internal Gotek mounting bracket for Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
-
 
 ## Custom chip replicas
 
@@ -78,13 +78,11 @@ Recreated versions of custom chips in the Amiga chipset or related periperals.
 | [ReCIA](https://github.com/jbilander/ReCIA) | A drop in replacement CIA for old Amiga Computers | [Jörgen Bilander](https://github.com/jbilander) |
 | [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC) | ReSDMAC is a replacement for the Amiga SDMAC chip. | [mbtaylor1982](https://github.com/mbtaylor1982) |
 
-
 ## Emulator cards
 
 | Project | Description | Author |
 |---------|-------------|--------|
 | [Dueottosei](https://github.com/na103/Dueottosei) | Clone of Vortex ATonce Plus, an PC AT Emulator board | [Nicola Avanzi](https://github.com/na103) |
-
 
 ## Expansions
 
@@ -99,13 +97,14 @@ Memory expansions and other accelerator boards.
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | [matze](https://gitlab.com/MHeinrichs) |
 | [A572 clone](https://github.com/daleking/Amiga_A570_2MB) | A570 2MB RAM board clone | dalek |
 | [A600_ACCEL_RAM](https://github.com/PR77/A600_ACCEL_RAM) | Amiga 600 Accelerator And RAM Expansion | [PR77](https://github.com/PR77) |
-| [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | SukkoPera |
-| [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | SukkoPera |
+| [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | [SukkoPera](https://github.com/SukkoPera) |
+| [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | [SukkoPera](https://github.com/SukkoPera) |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
 | [Ginger](https://github.com/mrehkopf/Ginger) |	Ginger is an integrated Socket Shift, 2x CPU switch, and 4x Clock Port & RTC expansion. | [Maximilian Rehkopf](https://github.com/mrehkopf) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | 8MB Autoconfig FastRAM for A2000 | [LIV2](https://github.com/LIV2) |
 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Zorro III Fast RAM for Amiga 3000/4000 | [LIV2](https://github.com/LIV2) |
+| [OpenAmiga500FastRamExpansion](https://github.com/SukkoPera/OpenAmiga500FastRamExpansion) | OpenAmiga500FastRamExpansion is an Open Hardware 4/8 MB Fast RAM Expansion for the Commodore Amiga 500 Computer. | [SukkoPera](https://github.com/SukkoPera) |
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [RAMesses](https://github.com/LinuxJedi/RAMesses) | RAMesses Amiga 2MB Chip RAM board | [LinuxJedi](https://github.com/LinuxJedi) |
 | [RIDE](https://github.com/LIV2/RIDE) | IDE + 11.37 Megabyte Fast RAM for the A500/A1000/A2000/CDTV | [LIV2](https://github.com/LIV2) |
@@ -125,6 +124,9 @@ Floppy drive emulators, switches, etc.
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
+| [OpenAmigaDriveSwitcher](https://github.com/SukkoPera/OpenAmigaDriveSwitcher) | OpenAmigaDriveSwitcher is an Open Hardware adapter that can make the first external floppy disk drive (DF1:) on an Amiga 500/500+ appear in place of the internal drive (DF0:). | [SukkoPera](https://github.com/SukkoPera) |
+| [OpenFlops](https://github.com/SukkoPera/OpenFlops) | OpenFlops is an Open Hardware Floppy Disk Drive emulator/simulator. | [SukkoPera](https://github.com/SukkoPera) |
+| [Retro Ninja Amiga external floppy adapter](https://github.com/RetroNynjah/Amiga-External-Floppy-Adapter) | An adapter that allows external connection of Shugart floppy disk drives or Gotek floppy emulators | [retroninja](https://github.com/RetroNynjah) |
 
 ## Graphics cards
 
@@ -152,6 +154,7 @@ Clones or improved versions of motherboards.
 |---------|-------------|--------|
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200) | A1200 replacement motherboards w/ improvements | Jeroen Vandezande |
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
+| [A4000 Replica Project](https://github.com/Acill/A4000RevB) | A4000 Replica Project (Based on the Rev B) | [Acill](https://github.com/Acill) |
 | [Amiga-2000-ATX](https://github.com/jasonsbeer/Amiga-2000-ATX) | Amiga 2000 PCB in the EATX form factor | [Jason Neus](https://github.com/jasonsbeer) |
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500) | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
 | [SMD2000](https://github.com/gazzmaniac/SMD2000) | A mini-DTX version of the Amiga 2000 (motherboard) | gazzmaniac |
@@ -171,6 +174,7 @@ Clones or improved versions of motherboards.
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
 | [OpenAmigaFourPlayerAdapter](https://github.com/SukkoPera/OpenAmigaFourPlayerAdapter) | Connect up to four joysticks to your Amiga! | [SukkoPera](https://github.com/SukkoPera) |
 | [OpenAmigaJoyMouseSwitcher](https://github.com/SukkoPera/OpenAmigaJoyMouseSwitcher) | Open Hardware Automatic Mouse/Joystick Switcher for Amiga Computers | [SukkoPera](https://github.com/SukkoPera) |
+| [OpenPSX2AmigaPadAdapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter) | OpenPSX2AmigaPadAdapter is an Open Hardware adapter that allows using a Sony PlayStation Amiga and CD32. | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [Unijoysticle™ 2](https://github.com/ricardoquesada/unijoysticle2) | Bluetooth gamepad support for the Commodore 64 / Atari / Amiga, etc. | [Ricardo Quesada](https://github.com/ricardoquesada) |
 | [Yaumataca](https://github.com/Slamy/Yaumataca) | USB mouse and joystick to Amiga, Atari ST & C64 Adapter | [Slamy](https://github.com/Slamy/) |
@@ -182,14 +186,15 @@ Clones or improved versions of motherboards.
 | [picowyfy](https://github.com/niklasekstrom/picowyfy) | Raspberry Pi Pico-based Wifi NIC for clockport | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [plipbox](https://github.com/cnvogelg/plipbox) | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang |
 
-
 ## Kickstart/ROM hardware
 
 | Project | Description | Author |
 |---------|-------------|--------|
-| [Amiga ROMY](https://github.com/reinauer/amiga-romy) | 1/2/4MB Kickstart adapter (A3000/A4000) | [Stefan Reinauer](https://github.com/reinauer) et al |
+| [Amiga ROMY](https://github.com/reinauer/amiga-romy) | 1/2/4MB Kickstart adapter (A3000/A4000) | [Stefan Reinauer](https://github.com/reinauer) |
+| [DiagROM](https://github.com/ChuckyGang/DiagROM) | The Amiga Diagnostic Rom | [John Hertell ](https://github.com/ChuckyGang) |
 | [FlashROM](https://www.onyxsoft.se/flashrom.html) | FlashROM drop-in replacement for Amiga Kickstart ROM. | Stefan Blixth |
 | [KickSmash32](https://github.com/cdhooper/kicksmash32) | Kickstart ROM replacement module for the Amiga 3000/4000 | [cdhooper](https://github.com/cdhooper) |
+| [OpenKickstartSwitcher](https://github.com/SukkoPera/OpenKickstartSwitcher) | OpenKickstartSwitcher is an Open Hardware Kickstart Switcher for Amiga Computers. | [SukkoPera](https://github.com/SukkoPera) |
 | [RPROM](https://github.com/niklasekstrom/RPROM) | A ROM emulator for 16 bit Amiga computers (A500, A600, A2000) | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [YAKS2-TITOU](https://github.com/EmberHeavyIndustries/YAKS2-TITUO) | Fancy Kickstart Switcher for A500-A600-A1200-A4000 | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 
@@ -199,6 +204,7 @@ Hardware that doesn't fit in the other categories.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+| [a500hddled](https://github.com/stas2k/a500hddled) | A500 keyboard HDD LED mod | [Stas](https://github.com/stas2k) |
 | [A500 Zorro II adapter](http://www.a1k.org/forum/showthread.php?t=50215) | Zorro II adapter for A500 with passthrough | [matze](https://gitlab.com/MHeinrichs) |
 | [Amiga2MacFloppy](https://github.com/Franks3dShop/Amiga2MacFloppy) | A reversed-engineered A-Max interface | [Franks3dShop](https://github.com/Franks3dShop) |
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) |  SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
@@ -237,7 +243,10 @@ Storage adapters for IDE, SCSI, etc.
 |---------|-------------|--------|
 | [A4091](https://github.com/A4091) | Replica of the Amiga 4091 SCSI II Host Controller | [Stefan Reinauer](https://github.com/reinauer) |
 | [a500-sd-plus-controller](https://github.com/Mathesar/a500-sd-plus-controller) | SD-card plus Ethernet controller for the Amiga 500 | [Mathesar](https://github.com/Mathesar) |
+| [Amiga 500 ATA hard disk interface](https://github.com/AmigaPorts/a500hdd) |	Floppy-bootable HDD interface for Amiga 500. | [AmigaPorts](https://github.com/AmigaPorts) |
 | [AmigaCF](https://gitlab.com/autumnhippo/amigacf) | A CompactFlash adapter with activity clicking noises for your Amiga 600 and 1200 | [autumnhippo](https://gitlab.com/autumnhippo) |
+| [Buffered IDE2CF Adapter](https://github.com/RetroNynjah/Buffered-IDE2CF-adapter) |	Buffered IDE2CF Adapter for 1200 or TF1260 | [retroninja](https://github.com/RetroNynjah) |
+| [Retroninja Amiga Parallel SD](https://github.com/RetroNynjah/Amiga-Parallel-SD) |	Amiga Parallel Port to SD Adapter | [retroninja](https://github.com/RetroNynjah) |
 | [RIPPLE-IDE](https://github.com/LIV2/RIPPLE-IDE) | Zorro 2 IDE Interface for Amiga 2000/3000/4000 | [LIV2](https://github.com/LIV2) |
 | [SD-box](https://github.com/jbilander/sdbox) |  A parallel to sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
 | [SD-box-v3](https://github.com/jbilander/SDBox-v3) |	A parallel to Pico 2 W and sd-card project for the Amiga | [jbilander](https://github.com/jbilander) |
@@ -259,4 +268,3 @@ Video adaptes, flickerfixers, etc.
 | [Flickerfixer](https://github.com/niklasekstrom/flickerfixer) | An open source flicker fixer for Amiga 500/2000. | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [Multifix-AGA](https://gitlab.com/MHeinrichs/multifix-aga) | This is a ECS and AGA-combo scandoubler and flicker fixer for big box Amigas. | [Matthias Heinrichs ](https://gitlab.com/MHeinrichs) |
 | [RGB2HDMI](https://github.com/c0pperdragon/Amiga-Digital-Video) | Amiga HDMI Scandoubler based on Raspberry Pi Zero | [c0pperdragon](https://github.com/c0pperdragon) |
-
