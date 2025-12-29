@@ -22,6 +22,7 @@ Different Amiga applications, demos and games that have source code available.
 [DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
 [DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel
+[FlexCat](https://github.com/adtools/flexcat) | Create Locale catalogues | Jochen Wiedmann, Marcin Orlowski |
 [FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al
 [gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
