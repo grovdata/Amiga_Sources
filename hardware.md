@@ -104,7 +104,7 @@ Memory expansions and other accelerator boards.
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
 | [GottaGoFastRAM2000](https://github.com/LIV2/GottaGoFastRAM2000) | 8MB Autoconfig FastRAM for A2000 | [LIV2](https://github.com/LIV2) |
 | [GottaGoFaZt3r](https://github.com/LIV2/GottaGoFaZt3r) | Zorro III Fast RAM for Amiga 3000/4000 | [LIV2](https://github.com/LIV2) |
-| [OpenAmiga500FastRamExpansion](https://github.com/SukkoPera/OpenAmiga500FastRamExpansion) | OpenAmiga500FastRamExpansion is an Open Hardware 4/8 MB Fast RAM Expansion for the Commodore Amiga 500 Computer. | [SukkoPera](https://github.com/SukkoPera) |
+| [OpenAmiga500FastRamExpansion](https://github.com/SukkoPera/OpenAmiga500FastRamExpansion) | 4/8 MB Fast RAM Expansion for A500 | [SukkoPera](https://github.com/SukkoPera) |
 | [RA5-512K](https://github.com/jbilander/RA5-512K) | A remake of the RA5-512K expansion memory for the Amiga 500 | [Jörgen Bilander](https://github.com/jbilander) |
 | [RAMesses](https://github.com/LinuxJedi/RAMesses) | RAMesses Amiga 2MB Chip RAM board | [LinuxJedi](https://github.com/LinuxJedi) |
 | [RIDE](https://github.com/LIV2/RIDE) | IDE + 11.37 Megabyte Fast RAM for the A500/A1000/A2000/CDTV | [LIV2](https://github.com/LIV2) |
@@ -124,7 +124,7 @@ Floppy drive emulators, switches, etc.
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
-| [OpenAmigaDriveSwitcher](https://github.com/SukkoPera/OpenAmigaDriveSwitcher) | OpenAmigaDriveSwitcher is an Open Hardware adapter that can make the first external floppy disk drive (DF1:) on an Amiga 500/500+ appear in place of the internal drive (DF0:). | [SukkoPera](https://github.com/SukkoPera) |
+| [OpenAmigaDriveSwitcher](https://github.com/SukkoPera/OpenAmigaDriveSwitcher) | Use external FDD (DF1:) on an Amiga 500/500+ appear in place of the internal drive (DF0:). | [SukkoPera](https://github.com/SukkoPera) |
 | [OpenFlops](https://github.com/SukkoPera/OpenFlops) | OpenFlops is an Open Hardware Floppy Disk Drive emulator/simulator. | [SukkoPera](https://github.com/SukkoPera) |
 | [Retro Ninja Amiga external floppy adapter](https://github.com/RetroNynjah/Amiga-External-Floppy-Adapter) | An adapter that allows external connection of Shugart floppy disk drives or Gotek floppy emulators | [retroninja](https://github.com/RetroNynjah) |
 
@@ -173,8 +173,8 @@ Clones or improved versions of motherboards.
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI) | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [JoyDivision](https://github.com/develin4000/joydivision) | USB interface to use DB9/Atari-style joysticks on modern computers. | Stefan Blixth |
 | [OpenAmigaFourPlayerAdapter](https://github.com/SukkoPera/OpenAmigaFourPlayerAdapter) | Connect up to four joysticks to your Amiga! | [SukkoPera](https://github.com/SukkoPera) |
-| [OpenAmigaJoyMouseSwitcher](https://github.com/SukkoPera/OpenAmigaJoyMouseSwitcher) | Open Hardware Automatic Mouse/Joystick Switcher for Amiga Computers | [SukkoPera](https://github.com/SukkoPera) |
-| [OpenPSX2AmigaPadAdapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter) | OpenPSX2AmigaPadAdapter is an Open Hardware adapter that allows using a Sony PlayStation Amiga and CD32. | [SukkoPera](https://github.com/SukkoPera) |
+| [OpenAmigaJoyMouseSwitcher](https://github.com/SukkoPera/OpenAmigaJoyMouseSwitcher) | Automatic Mouse/Joystick Switcher for Amiga Computers | [SukkoPera](https://github.com/SukkoPera) |
+| [OpenPSX2AmigaPadAdapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter) | Adapter that allows using a PlayStation gamepad on Amiga and CD32 | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [Unijoysticle™ 2](https://github.com/ricardoquesada/unijoysticle2) | Bluetooth gamepad support for the Commodore 64 / Atari / Amiga, etc. | [Ricardo Quesada](https://github.com/ricardoquesada) |
 | [Yaumataca](https://github.com/Slamy/Yaumataca) | USB mouse and joystick to Amiga, Atari ST & C64 Adapter | [Slamy](https://github.com/Slamy/) |
