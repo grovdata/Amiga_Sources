@@ -13,7 +13,7 @@ Different Amiga applications, demos and games that have source code available.
 | Project | Description | Author |
 |---------|-------------|--------|
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
-[Amiget](https://github.com/emartisoft/amiget) | A console application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
+[Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
 [AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
 [amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
@@ -27,10 +27,10 @@ Different Amiga applications, demos and games that have source code available.
 [FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al
 [gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
-[iGame](https://github.com/midwan/iGame) | iGame is a frontend to launching WHDLoad games for the Amiga. It is implemented as a MUI application. | [Dimitris Panokostas](https://github.com/midwan/iGame) |
+[iGame](https://github.com/midwan/iGame) | iGame is a MUI frontend to launching WHDLoad games | [Dimitris Panokostas](https://github.com/midwan/iGame) |
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
-[Mnemosyne](https://github.com/Arisamiga/Mnemosyne) | Mnemosyne is an open source disk utility application for AmigaOS 3.x, which can be used to show you what files and folders are taking up space on your disk. | [Aris ](https://github.com/Arisamiga) |
+[Mnemosyne](https://github.com/Arisamiga/Mnemosyne) | Disk usage utility application for AmigaOS 3.x | [Aris](https://github.com/Arisamiga) |
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
 [rVNCd](https://github.com/rolsen74/rvncd) | Amiga VNC Server | [René W. Olsen ](https://github.com/rolsen74) |
