@@ -52,9 +52,12 @@ Different Amiga applications, demos and games that have source code available.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[Alien Breed 3D RTG](https://github.com/mheyer32/ab3d-rtg)) | Alien Breed 3D | Andy Clitheroe/John Girvin |
+[Alien Breed 3D II](https://github.com/mheyer32/alienbreed3d2)) | Alien Breed 3D II sources | Andy Clitheroe |
 [AkikoWolf](https://github.com/earok/AkikoWolf) | Wolfenstein 3D port for the CD32 | earok |
 [Beschei](https://github.com/samskivert/beschei-en) | Card game | Michael Bayne |
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
+[Breathless](https://github.com/mheyer32/Breathless) | Breathless | Fields of Vision |
 [Faery Tale Adventure](https://github.com/viridia/faery-tale-amiga) | Faery Tale Adventure | Talin |
 [goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
