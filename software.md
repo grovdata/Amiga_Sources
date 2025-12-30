@@ -66,3 +66,31 @@ Different Amiga applications, demos and games that have source code available.
 [goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 [Knightmare](https://github.com/djh0ffman/KnightmareAmiga) | Port of the Konami classic for MSX | [H0ffman](https://github.com/djh0ffman) |
+
+[digdug2](https://github.com/jotd666/digdug2) | Amiga port of Dig Dug 2 Arcade | [jotd666](https://github.com/jotd666) |
+[burger_time](https://github.com/jotd666/burger_time) | Amiga port of Burger Time Arcade | [jotd666](https://github.com/jotd666) |
+[Galaga (68K)](https://github.com/jotd666/galaga) | Amiga port of Galaga Arcade | [jotd666](https://github.com/jotd666) |
+[ghosts_and_goblins](https://github.com/jotd666/ghosts_and_goblins) | Amiga port of Ghosts n Goblins Arcade | [jotd666](https://github.com/jotd666) |
+[hyper_sports](https://github.com/jotd666/hyper_sports) | Remake of Hyper Sports / Hyper Olympic'84 for amiga AGA & ECS | [jotd666](https://github.com/jotd666) |
+[track_and_field](https://github.com/jotd666/track_and_field) | Remake of Track and Field / Hyper Olympic for amiga AGA & ECS | [jotd666](https://github.com/jotd666) |
+[Gyruss](https://github.com/jotd666/gyruss) | Port of Gyruss for Amiga | [jotd666](https://github.com/jotd666) |
+[us_champ_vball](https://github.com/jotd666/us_champ_vball) | Remake of US Championship V'ball for Amiga (AGA & ECS) | [jotd666](https://github.com/jotd666) |
+[phoenix500](https://github.com/jotd666/phoenix) | remake of Phoenix for ECS/AGA Amiga | [jotd666](https://github.com/jotd666) |
+[Pengo (68K)](https://github.com/jotd666/pengo500) | transcode from the original arcade game Z80 to 68K assembly. | [jotd666](https://github.com/jotd666) |
+[moon patrol](https://github.com/jotd666/mpatrol) | transcode of Moon Patrol arcade version for 68000 machines | [jotd666](https://github.com/jotd666) |
+[rally-x](https://github.com/jotd666/rally-x) | Remaker of Rally-X for Amiga | [jotd666](https://github.com/jotd666) |
+[MsPacman 500](https://github.com/jotd666/mspacman500) |  1:1 port of MsPacman arcade game on Amiga 500  | [jotd666](https://github.com/jotd666) |
+[elevator_action](https://github.com/jotd666/elevator_action) | remake of Elevator Action for Amiga | [jotd666](https://github.com/jotd666) |
+[Gravitar](https://github.com/jotd666/gravitar) | transcode of Gravitar arcade version for amiga machines | [jotd666](https://github.com/jotd666) |
+[karatechamp500](https://github.com/jotd666/karatechamp500) | 1:1  remake of Karate Champ VS on the Amiga 500 | [jotd666](https://github.com/jotd666) |
+[donkey kong](https://github.com/jotd666/donkey_kong) | transcode of Donkey Kong arcade version for Amiga | [jotd666](https://github.com/jotd666) |
+[tetris](https://github.com/jotd666/tetris) | transcode of Atari Tetris arcade version for 68020/AGA amiga | [jotd666](https://github.com/jotd666) |
+[Lock'n'Chase](https://github.com/jotd666/lock_and_chase) | transcode of Lock'n'Chase arcade version for 68000/020 amiga machines | [jotd666](https://github.com/jotd666) |
+[Xevious (68K)](https://github.com/jotd666/xevious) | This is a transcode from the original arcade game (multiple Z80s) to 68K assembly. | [jotd666](https://github.com/jotd666) |
+[pooyan](https://github.com/jotd666/pooyan) | remake of Pooyan for Amiga | [jotd666](https://github.com/jotd666) |
+[pacman500](https://github.com/jotd666/pacman500) |  1:1 port of Pacman arcade on Amiga 500 | [jotd666](https://github.com/jotd666) |
+[Galaxian (68K)](https://github.com/jotd666/galaxian500) | This is a transcode from Galaxian arcade for Amiga. | [jotd666](https://github.com/jotd666) |
+[baddudes](https://github.com/jotd666/baddudes) | "port of ""Bad Dudes vs Dragonninja"" (c) 1988 Data East on amiga AGA" | [jotd666](https://github.com/jotd666) |
+[Scramble 500](https://github.com/jotd666/scramble500) | Scramble 5001:1 port of Scramble arcade on Amiga 500 | [jotd666](https://github.com/jotd666) |
+[Super Bagman (68K)](https://github.com/jotd666/sbagman) | Super Bagman remake for Amiga | [jotd666](https://github.com/jotd666) |
+[Bagman (68K)](https://github.com/jotd666/bagman) | Bagman remake for Amiga | [jotd666](https://github.com/jotd666) |
