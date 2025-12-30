@@ -7,6 +7,7 @@ Everything related to developing for Amiga Classic.
 - [AmigaOS](#amigaos)
 - [Compilers / toolchains](#compilers--toolchains)
 - [Frameworks](#frameworks)
+- [Hardware Drivers](#hardware-drivers)
 - [Low-level programming](#low-level-programming)
 
 
@@ -18,7 +19,8 @@ Everything related to developing for Amiga Classic.
 [Sample library](https://github.com/alexalkis/library)|Template for a shared .library in assembly and C| alexalkis |
 [SmartReadArgs](https://github.com/roskakori/SmartReadArgs)|Workbench/CLI interface to ReadArgs with NewIcons support| Thomas Aglassinger |
 [GadToolsBox](https://github.com/thom-ek/GadToolsBox) | GUI builder for C etc | Tomasz Muszynski |
-[PatchWork](https://github.com/shred/patchwork) | Verify against illegal library calls | Richard Körber
+[Identify](https://codeberg.org/shred/identify) | Identify hardware and expansions | [Richard Körber](https://codeberg.org/shred) |
+[PatchWork](https://codeberg.org/shred/patchwork) | Verify against illegal library calls | [Richard Körber](https://codeberg.org/shred) |
 [RKRM DOS](https://github.com/thorfdbg/rkrm-dos/) | An RKRM-style reference of AmigaDOS/dos.library | [Thomas Richter](https://github.com/thorfdbg) |
 [ReBuild](https://github.com/dmcoles/ReBuild) | Amiga Reaction GUI Builder (Remake of ClassMate) | phantasm4489 (dmcoles) |
 
@@ -55,6 +57,13 @@ Everything related to developing for Amiga Classic.
 [Scorpion](https://github.com/earok/scorpion-editor-demos) | Game engine | earok |
 [Tornado](https://github.com/flynn-nrg/tornado-amiga) | Crossdev framework for demos | Capsule |
 [xdms](https://gitlab.com/heikkiorsila/xdms) | Portable DMS parser library | Heikki Orsila |
+
+## Hardware Drivers
+
+| Project | Description | Author |
+|---------|-------------|--------|
+[Maestix](https://codeberg.org/shred/maestix) | MacroSystem MaestroPro driver | [Richard Körber](https://codeberg.org/shred) |
+[PdaLink](https://codeberg.org/shred/pdalink) | Palm PDA connector | [Richard Körber](https://codeberg.org/shred) |
 
 ## Low-level programming
 
