@@ -52,6 +52,9 @@ Everything related to developing for Amiga Classic.
 [Haujobb Amiga Framework](https://github.com/leifo/haujobb-amiga) | Crossdev framework for demos | Haujobb |
 [libSDL 1.2](https://github.com/AmigaPorts/libSDL12) by various | SDL 1.2 port for AmigaOS/m68k | [AmigaPorts](https://github.com/AmigaPorts) |
 [LSPlayer](https://github.com/arnaud-carre/LSPlayer) | The fastest Amiga music player ever | [Arnaud Carré](https://github.com/arnaud-carre) |
+[LDOS](https://github.com/arnaud-carre/ldos) | Micro operating system made for demos | [Arnaud Carré](https://github.com/arnaud-carre) |
+[AmigAtari Bitmap Converter](https://github.com/arnaud-carre/abc) | Versatile command line tool to convert bitmaps into ready to use assets in demos. Include powerful HAM converter | [Arnaud Carré](https://github.com/arnaud-carre) |
+[L-Packer](https://github.com/arnaud-carre/L-Packer) | Amiga and Atari executable compressor. | [Arnaud Carré](https://github.com/arnaud-carre) |
 [Parrot](https://github.com/betajaen/Parrot) | Point and Click Adventure Game Player for the Commodore Amiga | [betajaen](https://github.com/betajaen) |
 [R-PAGE](https://github.com/ResistanceVault/rpage) | Resistance's Portable-Adventure-Game-Engine | Resistance |
 [Scorpion](https://github.com/earok/scorpion-editor-demos) | Game engine | earok |
