@@ -177,6 +177,7 @@ Clones or improved versions of motherboards.
 | [OpenPSX2AmigaPadAdapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter) | Adapter that allows using a PlayStation gamepad on Amiga and CD32 | [SukkoPera](https://github.com/SukkoPera) |
 | [SmallyMouse](https://github.com/simoninns/SmallyMouse2) | USB mouse adaptor for retro computers (Amiga and others) | Simon Inns |
 | [Unijoysticle™ 2](https://github.com/ricardoquesada/unijoysticle2) | Bluetooth gamepad support for the Commodore 64 / Atari / Amiga, etc. | [Ricardo Quesada](https://github.com/ricardoquesada) |
+| [Yami](https://codeberg.org/shred/yami) | Serial mouse to Amiga & Atari ST Adapter | [Richard Körber](https://codeberg.org/shred) |
 | [Yaumataca](https://github.com/Slamy/Yaumataca) | USB mouse and joystick to Amiga, Atari ST & C64 Adapter | [Slamy](https://github.com/Slamy/) |
 
 ## Network interfaces
