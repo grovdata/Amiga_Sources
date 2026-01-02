@@ -12,6 +12,7 @@ Different Amiga applications, demos and games that have source code available.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[ADiffView](https://github.com/rosneru/ADiffView) | ADiffView is a diff tool for AmigaOS 3.0+ | [Uwe Rosner](https://github.com/rosneru) |
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | phantasm4489 |
 [Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
 [AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
@@ -31,6 +32,7 @@ Different Amiga applications, demos and games that have source code available.
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
 [Mnemosyne](https://github.com/Arisamiga/Mnemosyne) | Disk usage utility application for AmigaOS 3.x | [Aris](https://github.com/Arisamiga) |
+[MultiRename](https://github.com/rosneru/MultiRename) |	MultiRename tool for AmigaOS 3.2.3+ | [Uwe Rosner](https://github.com/rosneru) |
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
 [rVNCd](https://github.com/rolsen74/rvncd) | Amiga VNC Server | [René W. Olsen ](https://github.com/rolsen74) |
@@ -78,6 +80,7 @@ Different Amiga applications, demos and games that have source code available.
 [Karate Champ](https://github.com/jotd666/karatechamp500) | 1:1  remake of Karate Champ VS on the Amiga 500 | [jotd666](https://github.com/jotd666) |
 [Knightmare](https://github.com/djh0ffman/KnightmareAmiga) | Port of the Konami classic for MSX | [H0ffman](https://github.com/djh0ffman) |
 [Lock'n'Chase](https://github.com/jotd666/lock_and_chase) | Port of Lock'n'Chase (data east) for Amiga | [jotd666](https://github.com/jotd666) |
+[Menace](https://github.com/davepoo/Menace-Amiga-Format) | The 1988 Amiga game 'Menace' | [Menace](https://github.com/davepoo) |
 [Moon Patrol](https://github.com/jotd666/mpatrol) | Amiga port of Moon Patrol arcade version | [jotd666](https://github.com/jotd666) |
 [MsPacman 500](https://github.com/jotd666/mspacman500) |  1:1 port of MsPacman arcade version on Amiga 500  | [jotd666](https://github.com/jotd666) |
 [Pacman](https://github.com/jotd666/pacman500) |  1:1 port of Pacman arcade version on Amiga 500 | [jotd666](https://github.com/jotd666) |

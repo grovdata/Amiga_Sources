@@ -30,6 +30,8 @@ Everything related to developing for Amiga Classic.
 |---------|-------------|--------|
 [amigeconv](https://github.com/tditlu/amigeconv) | A graphics converter for different Amiga bitplanes, chunky & palette formats | Todi / Tulou |
 [amigaos-cross-toolchain](https://github.com/sba1/adtools) | Cross-compiler based on GCC | Krystian Bacławski |
+[Amiga Python](https://github.com/amigazen/AmigaPython) | A port of Python 2 to Amiga | [amigazen project](https://github.com/amigazen) |
+[AmigaSDK-gcc](https://github.com/sacredbanana/AmigaSDK-gcc) | AmigaOS 3.2 NDK plus extra SDKs fixed to work with the GCC compiler. | [Cameron Armstrong](https://github.com/sacredbanana) | 
 [aqb](https://github.com/gooofy/aqb) | Amiga QuickBasic Compiler | [Guenter Bartsch](https://github.com/gooofy) |
 [CodeCraft](http://boemann.dk/codecraft/) | Codecraft is the powerful IDE for developing software natively on the Amiga | Camilla Boemann |
 [Blitz 2](https://github.com/nitrologic/blitz2) | Blitz Basic 2 source code (incomplete) | [Simon Armstrong](https://github.com/nitrologic/) |
@@ -49,12 +51,16 @@ Everything related to developing for Amiga Classic.
 [ACE](https://github.com/tehKaiN/ACE) | Amiga C Engine (for games) | [tehKaiN](https://github.com/tehKaiN)
 [AgaOS](https://github.com/amigadev/agaos) | Base library for demos on AGA Amigas | Jesper Svennevid |
 [amifuse](https://github.com/reinauer/amifuse) | Native Amiga Filesystems on Mac and Linux | Stefan Reinauer |
+[AmiDB](https://github.com/aykutsevim/amidb) | A SQLite-like Embedded Database for AmigaOS 3.1 | [aykutsevim](https://github.com/aykutsevim) |
+[AmiSSL](https://github.com/jens-maus/amissl) |	Port of OpenSSL in a shared library for Amiga-based systems | [Jens Maus](https://github.com/jens-maus) |
+[Audio Mixer](https://github.com/DutchRetroGuy/AmigaAudioMixer) |	Play back multiple samples on a single hardware channel  | [Jeroen Knoester](https://github.com/DutchRetroGuy) |
 [Haujobb Amiga Framework](https://github.com/leifo/haujobb-amiga) | Crossdev framework for demos | Haujobb |
 [libSDL 1.2](https://github.com/AmigaPorts/libSDL12) by various | SDL 1.2 port for AmigaOS/m68k | [AmigaPorts](https://github.com/AmigaPorts) |
 [LSPlayer](https://github.com/arnaud-carre/LSPlayer) | The fastest Amiga music player ever | [Arnaud Carré](https://github.com/arnaud-carre) |
 [LDOS](https://github.com/arnaud-carre/ldos) | Micro operating system made for demos | [Arnaud Carré](https://github.com/arnaud-carre) |
 [AmigAtari Bitmap Converter](https://github.com/arnaud-carre/abc) | Versatile command line tool to convert bitmaps into ready to use assets in demos. Include powerful HAM converter | [Arnaud Carré](https://github.com/arnaud-carre) |
 [L-Packer](https://github.com/arnaud-carre/L-Packer) | Amiga and Atari executable compressor. | [Arnaud Carré](https://github.com/arnaud-carre) |
+[MUI](https://github.com/amiga-mui/muidev) | Magic User Interface (MUI) is a GUI Toolkit for AmigaOS 3.x | [Magic User Interface](https://github.com/amiga-mui) |
 [Parrot](https://github.com/betajaen/Parrot) | Point and Click Adventure Game Player for the Commodore Amiga | [betajaen](https://github.com/betajaen) |
 [R-PAGE](https://github.com/ResistanceVault/rpage) | Resistance's Portable-Adventure-Game-Engine | Resistance |
 [Scorpion](https://github.com/earok/scorpion-editor-demos) | Game engine | earok |
