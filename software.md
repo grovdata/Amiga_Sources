@@ -21,6 +21,7 @@ Different Amiga applications, demos and games that have source code available.
 [Avalanche](https://github.com/chris-y/avalanche) | ReAction GUI for xadmaster, xfdmaster, and Deark | [Chris Young ](https://github.com/chris-y/avalanche) |
 [AWeb 3](https://github.com/amigazen/AWeb3) | HTML 3 web browser for Amiga | [amigazen project](https://github.com/amigazen) |
 [BebboSSH](https://franke.ms/git/bebbo/bebbossh) | SSH2 suite (client/server, sftp) with modern ciphers | bebbo |
+[DCTelnet](https://github.com/bruno-frederic/dctelnet) | DCTelnet - A classic Amiga Telnet/BBS client with Zmodem | [Bruno FREDERIC](https://github.com/bruno-frederic)
 [DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
 [DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel
