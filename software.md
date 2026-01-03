@@ -68,11 +68,13 @@ Different Amiga applications, demos and games that have source code available.
 [Blocky Skies](https://github.com/alpine9000/blockyskies) | Cool innovative puzzle game | [alpine9000](https://github.com/alpine9000) |
 [Breathless](https://github.com/mheyer32/Breathless) | Breathless | Fields of Vision |
 [BurgerTime](https://github.com/jotd666/burger_time) | Amiga port of Burger Time arcade version | [jotd666](https://github.com/jotd666) |
+[digdug2](https://github.com/jotd666/digdug2) | Amiga port of Dig Dug 2 Arcade | [jotd666](https://github.com/jotd666) |
 [Donkey Kong](https://github.com/jotd666/donkey_kong) | Amiga port of Donkey Kong arcade version | [jotd666](https://github.com/jotd666) |
 [Elevator Action](https://github.com/jotd666/elevator_action) | Remake of Elevator Action for Amiga | [jotd666](https://github.com/jotd666) |
 [Faery Tale Adventure](https://github.com/viridia/faery-tale-amiga) | Faery Tale Adventure | Talin |
 [Galaga](https://github.com/jotd666/galaga) | Amiga port of Galaga arcade version | [jotd666](https://github.com/jotd666) |
 [Galaxian](https://github.com/jotd666/galaxian500) | Amiga port of Galaxian arcade version | [jotd666](https://github.com/jotd666) |
+[ghosts_and_goblins](https://github.com/jotd666/ghosts_and_goblins) | Amiga port of Ghosts n Goblins Arcade | [jotd666](https://github.com/jotd666) |
 [goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 [Gravitar](https://github.com/jotd666/gravitar) | Amiga port of Gravitar arcade version | [jotd666](https://github.com/jotd666) |
