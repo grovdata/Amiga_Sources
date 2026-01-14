@@ -26,7 +26,8 @@ Different Amiga applications, demos and games that have source code available.
 [Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
 [DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel
 [FlexCat](https://github.com/adtools/flexcat) | Create Locale catalogues | Jochen Wiedmann, Marcin Orlowski |
-[FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al
+[FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al |
+[gadf](https://github.com/sphair/gadf) | Create bootable Amiga ADF disk images from executables | [sphair](https://github.com/sphair) |
 [gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [iGame](https://github.com/midwan/iGame) | iGame is a MUI frontend to launching WHDLoad games | [Dimitris Panokostas](https://github.com/midwan/iGame) |
