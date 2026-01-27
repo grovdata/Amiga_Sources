@@ -17,6 +17,7 @@ Different Amiga applications, demos and games that have source code available.
 [Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
 [AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
 [amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
+[AmiModRadio](https://codeberg.org/tygre/amimodradio) | Play modules from Internet sources | [Tygre](https://codeberg.org/tygre) |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
 [Avalanche](https://github.com/chris-y/avalanche) | ReAction GUI for xadmaster, xfdmaster, and Deark | [Chris Young ](https://github.com/chris-y/avalanche) |
 [AWeb 3](https://github.com/amigazen/AWeb3) | HTML 3 web browser for Amiga | [amigazen project](https://github.com/amigazen) |
@@ -31,6 +32,7 @@ Different Amiga applications, demos and games that have source code available.
 [gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [iGame](https://github.com/midwan/iGame) | iGame is a MUI frontend to launching WHDLoad games | [Dimitris Panokostas](https://github.com/midwan/iGame) |
+[iTidy](https://github.com/Kwezza/iTidy) | An automated Workbench icon layout and window tidy tool for AmigaOS 3.x | [Kerry Thompson](https://github.com/Kwezza) |
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
 [Mnemosyne](https://github.com/Arisamiga/Mnemosyne) | Disk usage utility application for AmigaOS 3.x | [Aris](https://github.com/Arisamiga) |
@@ -43,6 +45,7 @@ Different Amiga applications, demos and games that have source code available.
 [Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng |
 [TuneFinder](https://github.com/sandlbn/TuneFinder) | Internet radio browser for AmigaOS 3.x | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
+[Vie III](https://codeberg.org/tygre/vieiii) | GUI for the Game of Life | [Tygre](https://codeberg.org/tygre)
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
 [xSysInfo](https://github.com/reinauer/xsysinfo) | Benchmarking | Stefan Reinauer |
 
