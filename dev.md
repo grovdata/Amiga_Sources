@@ -41,6 +41,7 @@ Everything related to developing for Amiga Classic.
 [docker4AmigaVBCC](https://github.com/walkero-gr/docker4AmigaVBCC) |Docker images with VBCC compiler for AmigaOS 3 & 4 cross compiling  | [George Sokianos](https://github.com/walkero-gr) |
 [E-VO](https://github.com/dmcoles/EVO) | E-VO Amiga E Compiler | phantasm4489 (dmcoles) |
 [EEC](https://github.com/EEC-Developers/eec) | Enhanced Amiga E Compiler | Lars Salomonsson et al |
+[MicroPython for AmigaOS](https://github.com/OoZe1911/micropython-amiga-port) | A port of MicroPython targeting Motorola 68020+ processors. | [OoZe1911](https://github.com/OoZe1911) |
 [NeoDICE](https://github.com/noname22/NeoDICE) | Cleanup of DICE C Compiler | Matt Dillon |
 [vscode-amiga-assembly](https://github.com/prb28/vscode-amiga-assembly) | Amiga Assembly extension for VS Code | [Paul Raingeard](https://github.com/prb28) |
 [vscode-amiga-debug](https://github.com/BartmanAbyss/vscode-amiga-debug) | Amiga C/C++ batteries included extension for VS Code | [BartmanAbyss](https://github.com/BartmanAbyss) |

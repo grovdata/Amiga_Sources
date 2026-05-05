@@ -99,6 +99,7 @@ Memory expansions and other accelerator boards.
 | [A600_ACCEL_RAM](https://github.com/PR77/A600_ACCEL_RAM) | Amiga 600 Accelerator And RAM Expansion | [PR77](https://github.com/PR77) |
 | [A600 chip RAM expansion](https://github.com/SukkoPera/OpenAmiga600RamExpansion) | A600 trapdoor RAM | [SukkoPera](https://github.com/SukkoPera) |
 | [A600 fast RAM expansion](https://github.com/SukkoPera/OpenAmiga600FastRamExpansion) | A600 4/8 MB fast RAM | [SukkoPera](https://github.com/SukkoPera) |
+| [Amiga 3000 2 slot Zorro Daughterboard](https://github.com/olonguet/Amiga3000-2-slot-zorro-daughterboard) | Smaller version of the Zorro daughter board for the Amiga 3000 / 4000 | [BG Ollie](https://github.com/olonguet) |
 | [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus) | Adapter to fit the older 1MB Agnus to the A500+ | [LIV2](https://github.com/LIV2) |
 | [Ginger](https://github.com/mrehkopf/Ginger) |	Ginger is an integrated Socket Shift, 2x CPU switch, and 4x Clock Port & RTC expansion. | [Maximilian Rehkopf](https://github.com/mrehkopf) |
 | [GottaGoFastRAM](https://github.com/LIV2/GottaGoFastRAM) | 8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV | [LIV2](https://github.com/LIV2) |
@@ -124,6 +125,7 @@ Floppy drive emulators, switches, etc.
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor) | Converts PC floppy drive interface to Amiga/Shugart bus interface. | Ian Steadman |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD) | OSD Menu for FlashFloppy | Keir Fraser |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy) | Floppy drive emulator for the ubiquitous Gotek hardware. | Keir Fraser |
+| [Gotek Touchscreen Interface](https://github.com/mesarim/Gotek-Touchscreen-interface) | A touchscreen-driven disk image browser for retro computing. | [mesarim](https://github.com/mesarim) |
 | [OpenAmigaDriveSwitcher](https://github.com/SukkoPera/OpenAmigaDriveSwitcher) | Use external FDD (DF1:) on an Amiga 500/500+ appear in place of the internal drive (DF0:). | [SukkoPera](https://github.com/SukkoPera) |
 | [OpenFlops](https://github.com/SukkoPera/OpenFlops) | OpenFlops is an Open Hardware Floppy Disk Drive emulator/simulator. | [SukkoPera](https://github.com/SukkoPera) |
 | [Retro Ninja Amiga external floppy adapter](https://github.com/RetroNynjah/Amiga-External-Floppy-Adapter) | An adapter that allows external connection of Shugart floppy disk drives or Gotek floppy emulators | [retroninja](https://github.com/RetroNynjah) |
@@ -144,6 +146,7 @@ Graphics cards - RTG.
 |---------|-------------|--------|
 | [A500KB](https://github.com/HenrykRichter/A500KB) | Custom A500 Commodore Amiga Mechanical Keyboard | [Henryk Richter](https://github.com/HenrykRichter) |
 | [a2000Serotina](https://github.com/grahamshaw1972/a2000Serotina) | DIY mechanical keyboard for A2000/A3000 | [grahamshaw1972](https://github.com/grahamshaw1972)
+| [Mitsumi PCB A-500 redone](https://github.com/Mathesar/a500-mitsumi-keyboard-controller-redone) | Remake of the Amiga 500 Mitsumi keyboard controller. | [Mathesar](https://github.com/Mathesar) |
 | [stalkb](https://github.com/gianlucarenzi/stalkb)  | STM32 USB Based firmware microcontroller for any Amiga internal keyboard adapter |  [gianlucarenzi](https://github.com/gianlucarenzi) |
 
 ## Motherboard PCBs
@@ -156,6 +159,7 @@ Clones or improved versions of motherboards.
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard | Floppie209 |
 | [A4000 Replica Project](https://github.com/Acill/A4000RevB) | A4000 Replica Project (Based on the Rev B) | [Acill](https://github.com/Acill) |
 | [Amiga-2000-ATX](https://github.com/jasonsbeer/Amiga-2000-ATX) | Amiga 2000 PCB in the EATX form factor | [Jason Neus](https://github.com/jasonsbeer) |
+| [AmigaPCI](https://github.com/AmigaPCI/AmigaPCI-MainBoard) | OCS/ECS Amiga computer in the ATX form factor | [AmigaPCI](https://github.com/AmigaPCI) |
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500) | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera) |
 | [SMD2000](https://github.com/gazzmaniac/SMD2000) | A mini-DTX version of the Amiga 2000 (motherboard) | gazzmaniac |
 | [SMD-500](https://github.com/gazzmaniac/Amiga-SMD-500) | Surface mount (SMD) remake of Amiga 500 motherboard | gazzmaniac |

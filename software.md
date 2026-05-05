@@ -15,18 +15,22 @@ Different Amiga applications, demos and games that have source code available.
 [ADiffView](https://github.com/rosneru/ADiffView) | ADiffView is a diff tool for AmigaOS 3.0+ | [Uwe Rosner](https://github.com/rosneru) |
 [AmiAuthenticator](https://github.com/dmcoles/AmiAuthenticator) | AmiAuthenticator is a 2FA code generator for the Amiga  | [phantasm4489](https://github.com/dmcoles) |
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | [phantasm4489](https://github.com/dmcoles) |
-[Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
+[AmiFTP 2](https://github.com/amigazen/AmiFTP) | GUI FTP client for Amiga with ReAction, ARexx support, and Aminet mode. | [amigazen project](https://github.com/amigazen) |
+[AmigaAI](https://github.com/murinsel/AmigaAI) | Native AI assistant powered by Anthropic's Claude API. | [murinsel ](https://github.com/murinsel) |
 [AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
 [amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
+[Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
 [AmiModRadio](https://codeberg.org/tygre/amimodradio) | Play modules from Internet sources | [Tygre](https://codeberg.org/tygre) |
+[AmiRSS](https://github.com/cyberman/AmiRSS) | AmiRSS is an RSS client | [cyberman](https://github.com/cyberman) |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
 [Avalanche](https://github.com/chris-y/avalanche) | ReAction GUI for xadmaster, xfdmaster, and Deark | [Chris Young ](https://github.com/chris-y/avalanche) |
 [AWeb 3](https://github.com/amigazen/AWeb3) | HTML 3 web browser for Amiga | [amigazen project](https://github.com/amigazen) |
 [BebboSSH](https://franke.ms/git/bebbo/bebbossh) | SSH2 suite (client/server, sftp) with modern ciphers | bebbo |
-[DCTelnet](https://github.com/bruno-frederic/dctelnet) | DCTelnet - A classic Amiga Telnet/BBS client with Zmodem | [Bruno FREDERIC](https://github.com/bruno-frederic)
-[DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et al
-[Directory Opus 5](https://github.com/mheyer32/dopus5allamigas) | DirectoryOpus file manager | various
-[DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel
+[DCTelnet](https://github.com/bruno-frederic/dctelnet) | DCTelnet - A classic Amiga Telnet/BBS client with Zmodem | [Bruno FREDERIC](https://github.com/bruno-frederic) |
+[DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et al |
+[Directory Opus 5](https://github.com/BlitterStudio/dopus5) | DirectoryOpus file manager 5 | [BlitterStudio](https://github.com/BlitterStudio) ]
+[DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel |
+[DiskPart](https://github.com/ChuckyGang/DiskPart) | Native AmigaOS 3.x hard disk partition editor with full RDB (Rigid Disk Block) support. | [John Hertell](https://github.com/ChuckyGang) |
 [FlexCat](https://github.com/adtools/flexcat) | Create Locale catalogues | Jochen Wiedmann, Marcin Orlowski |
 [FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al |
 [FxBox](https://github.com/marc365/FxBox) | FxBox realtime multi loop processor editor | [marc365](https://github.com/marc365) |
@@ -41,16 +45,22 @@ Different Amiga applications, demos and games that have source code available.
 [MagicMenu](https://github.com/jens-maus/magicmenu) | Menu enhancer with popup menus | MagicMenu team
 [Mnemosyne](https://github.com/Arisamiga/Mnemosyne) | Disk usage utility application for AmigaOS 3.x | [Aris](https://github.com/Arisamiga) |
 [MultiRename](https://github.com/rosneru/MultiRename) |	MultiRename tool for AmigaOS 3.2.3+ | [Uwe Rosner](https://github.com/rosneru) |
+[NetIfManager](https://github.com/TuKo1982/NetIfManager) | A MUI-based network interface manager for AmigaOS 3.x. | [TuKo1982](https://github.com/TuKo1982) |
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
+[Open LHA Archiver](https://codeberg.org/MastaTabs/olha) |  GPL-2.0-or-later implementation of the LHA archive format  | [MastaTabs](https://codeberg.org/MastaTabs) |
 [Q-Device](https://github.com/oddsocks1024/qDevice) | Q-Device! is a graphical tool for querying and controlling IDE and SCSI devices  | [oddsocks1024](https://github.com/oddsocks1024) |
-[rVNCd](https://github.com/rolsen74/rvncd) | Amiga VNC Server | [René W. Olsen ](https://github.com/rolsen74) |
+[RO](https://github.com/rummeyer/amiga-RO) | A MUI-Based FileManager for m68k-amigaos | [Oliver Rummeyer ](https://github.com/rummeyer) |
+[rVNCd](https://github.com/rolsen74/rvncd) | Amiga VNC Server | [René W. Olsen](https://github.com/rolsen74) |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
 [Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng |
 [TuneFinder](https://github.com/sandlbn/TuneFinder) | Internet radio browser for AmigaOS 3.x | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
+[TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
+[TwinVNC](https://github.com/JohnG4489/amiga-twinvnc) |	Client VNC pour AmigaOS / MorphOS | [JohnG4489 ](https://github.com/JohnG4489) |
 [Vie III](https://codeberg.org/tygre/vieiii) | GUI for the Game of Life | [Tygre](https://codeberg.org/tygre)
+[whdfetch ](https://github.com/Kwezza/WHDFetch) | Retroplay WHDLoad Downloader for AmigaOS | [Kwezza](https://github.com/Kwezza)
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
 [xSysInfo](https://github.com/reinauer/xsysinfo) | Benchmarking | Stefan Reinauer |
 
