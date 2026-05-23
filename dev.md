@@ -75,6 +75,7 @@ Everything related to developing for Amiga Classic.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[CFD]([https://codeberg.org/shred/pdalink](https://github.com/pulchart/cfd/tree/master)) | compactflash.device driver for CompactFlash cards in PCMCIA | [Jaroslav Pulchart](https://github.com/pulchart) |
 [Maestix](https://codeberg.org/shred/maestix) | MacroSystem MaestroPro driver | [Richard Körber](https://codeberg.org/shred) |
 [PdaLink](https://codeberg.org/shred/pdalink) | Palm PDA connector | [Richard Körber](https://codeberg.org/shred) |
 
