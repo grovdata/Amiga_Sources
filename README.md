@@ -22,6 +22,8 @@ Consult respective source for license details.
 Great! Please submit a pull request to this repository, or create a Github issue.
 Please also report dead links.
 
+I recommend [this](https://github.com/takumisoft68/vscode-markdown-table) plugin for VS Code for markdown table formatting.
+
 ## Other links
 
 [Amiga Source Preservation](https://amigasourcepres.gitlab.io/) is another great resource. They have both [books](https://amigasourcepres.gitlab.io/page/books/books/) and [source code](https://amigasourcepres.gitlab.io/page/sourcecode/) for lots of applications.

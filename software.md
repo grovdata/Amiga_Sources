@@ -30,7 +30,7 @@ Different Amiga applications, demos and games that have source code available.
 [DeluxePaint](https://github.com/historicalsource/DeluxePaint) | The classic bitmap paint program | Dan Silva et al |
 [Directory Opus 5](https://github.com/BlitterStudio/dopus5) | DirectoryOpus file manager 5 | [BlitterStudio](https://github.com/BlitterStudio) ]
 [DiskMaster 2](https://github.com/RudolphRiedel/DiskMaster2) | DiskMaster file manager | Rudolph Riedel |
-[DiskPart](https://github.com/ChuckyGang/DiskPart) | Native AmigaOS 3.x hard disk partition editor with full RDB (Rigid Disk Block) support. | [John Hertell](https://github.com/ChuckyGang) |
+[DiskPart](https://github.com/ChuckyGang/DiskPart) | Native AmigaOS 3.x hard disk partition tool | [John Hertell](https://github.com/ChuckyGang) |
 [FlexCat](https://github.com/adtools/flexcat) | Create Locale catalogues | Jochen Wiedmann, Marcin Orlowski |
 [FrexxEd](https://github.com/vidarh/FrexxEd) | Scriptable, syntax-sensitive text editor | Daniel Stenberg et al |
 [FxBox](https://github.com/marc365/FxBox) | FxBox realtime multi loop processor editor | [marc365](https://github.com/marc365) |
@@ -58,7 +58,7 @@ Different Amiga applications, demos and games that have source code available.
 [TuneFinder](https://github.com/sandlbn/TuneFinder) | Internet radio browser for AmigaOS 3.x | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
-[TwinVNC](https://github.com/JohnG4489/amiga-twinvnc) |	Client VNC pour AmigaOS / MorphOS | [JohnG4489 ](https://github.com/JohnG4489) |
+[TwinVNC](https://github.com/JohnG4489/amiga-twinvnc) |	Client VNC pour AmigaOS / MorphOS | [JohnG4489](https://github.com/JohnG4489) |
 [Vie III](https://codeberg.org/tygre/vieiii) | GUI for the Game of Life | [Tygre](https://codeberg.org/tygre)
 [whdfetch ](https://github.com/Kwezza/WHDFetch) | Retroplay WHDLoad Downloader for AmigaOS | [Kwezza](https://github.com/Kwezza)
 [yam](https://github.com/jens-maus/yam) | E-mail client | Jens Maus |
