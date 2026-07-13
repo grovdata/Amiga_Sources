@@ -99,6 +99,8 @@ Different Amiga applications, demos and games that have source code available.
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 [Gravitar](https://github.com/jotd666/gravitar) | Amiga port of Gravitar arcade version | [jotd666](https://github.com/jotd666) |
 [Gyruss](https://github.com/jotd666/gyruss) | Port of Gyruss for Amiga | [jotd666](https://github.com/jotd666) |
+[High Octane](https://github.com/titmouse001/Amiga-Archive-For-My-Old-Stuff) | High-Octane driving game | [titmouse001](https://github.com/titmouse001) |
+[High Octane II](https://github.com/titmouse001/Amiga-HighOctane2) | High-Octane II  driving game | [titmouse001](https://github.com/titmouse001) |
 [HyperSports](https://github.com/jotd666/hyper_sports) | Remake of Hyper Sports / Hyper Olympic'84 for amiga AGA & ECS | [jotd666](https://github.com/jotd666) |
 [Ikari Warriors RTG](https://github.com/CrownParkComputing/mpatrol) | Ikari Warriors Arcade port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Karate Champ](https://github.com/jotd666/karatechamp500) | 1:1  remake of Karate Champ VS on the Amiga 500 | [jotd666](https://github.com/jotd666) |
@@ -120,6 +122,7 @@ Different Amiga applications, demos and games that have source code available.
 [Road Rash](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Road Rash Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Road Rash 2](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Road Rash 2 Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Road Rash 3](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Road Rash 3 Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
+[Rygar AGA](https://gitlab.com/menelkir/amiga/-/tree/main/rygar_aga_170?ref_type=heads) | Rygar port for Amiga AGA | [menelkir](https://gitlab.com/menelkir) |
 [Scramble 500](https://github.com/jotd666/scramble500) | 1:1 port of Scramble arcade on Amiga 500 | [jotd666](https://github.com/jotd666) |
 [Sonic the Hedgehog](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Sonic the Hedgehog Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Sonic the Hedgehog 2](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Sonic the Hedgehog 2 Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
