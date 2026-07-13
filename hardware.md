@@ -175,7 +175,10 @@ Clones or improved versions of motherboards.
 | [Amegapad](https://github.com/LIV2/Amegapad)                                            | 6-button Megadrive pad adapter for Amiga with autofire                                    | [LIV2](https://github.com/LIV2)                                 |
 | [amigahid-pico](https://github.com/borb/amigahid-pico)                                  | Use USB input devices on Amiga computers, using Raspberry Pi Pico.                        | [nine](https://github.com/borb)                                 |
 | [Amiga Tanklight](https://gitlab.com/marceljaehne/amiga-tanklight)                      | This is an optical replacement board for the Amiga Tankmouse with real quadrature signals | [Marcel Jähne](https://gitlab.com/marceljaehne)                 |
+| [AmiBLEHID](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter)                 | USB to DB9                                                                                | [bluescrn](https://github.com/bluescrn)                         |
+| [Atari-Quadrature-USB-Mouse-Adapter](https://github.com/bluescrn/AmiBLEHID)             | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
 | [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter) | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
+| [Atari ST/STe (also Amiga) USB Mouse Adapter](https://github.com/tomekszafranski/AtariST-Amiga-USBmouse) | USB to DB9                                                               | [tomekszafranski](https://github.com/tomekszafranski)           |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI)                              | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter                  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [JoyDivision](https://github.com/develin4000/joydivision)                               | USB interface to use DB9/Atari-style joysticks on modern computers.                       | Stefan Blixth                                                   |
 | [OpenAmigaFourPlayerAdapter](https://github.com/SukkoPera/OpenAmigaFourPlayerAdapter)   | Connect up to four joysticks to your Amiga!                                               | [SukkoPera](https://github.com/SukkoPera)                       |
@@ -190,7 +193,7 @@ Clones or improved versions of motherboards.
 
 | Project                                               | Description                                             | Author                                             |
 | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
-| [PaulaNet](https://github.com/RobSmithDev/PaulaNET) | Amiga WiFi via the Floppy Port          | [RobSmithDev ](https://github.com/RobSmithDev) |
+| [PaulaNet](https://github.com/RobSmithDev/PaulaNET)   | Amiga WiFi via the Floppy Port                          | [RobSmithDev ](https://github.com/RobSmithDev)     |
 | [picowyfy](https://github.com/niklasekstrom/picowyfy) | Raspberry Pi Pico-based Wifi NIC for clockport          | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [plipbox](https://github.com/cnvogelg/plipbox)        | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang                               |
 
@@ -230,6 +233,7 @@ PSU related.
 | [A500spwr](https://github.com/MastaTabs/a500spwr)                                         | Single 12V Power supply module for Amiga 500 computers  | [Tobias Seiler](https://github.com/MastaTabs)     |
 | [A500-Tower-Power](https://github.com/wiretap-retro/A500-Tower-Power)                     | ATX adapter for A500 tower builds                       | [wiretap-retro](https://github.com/wiretap-retro) |
 | [Amiga_DB23_to_USBC](https://github.com/jbilander/Amiga_DB23_to_USB_C_power_only_adapter) | +5V from external D-sub DB23 floppy drive port to USB-C | [jbilander](https://github.com/jbilander)         |
+| [amigaPSU](https://github.com/RetroIsTheNewBlack/amigaPSU)                                | amigaPSU                                                | [RetroIsTheNewBlack](https://github.com/RetroIsTheNewBlack) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors)                                  | ATX power supply adaptors for Amigas                    | Ian Steadman                                      |
 | [ATnoX](https://github.com/hkzlab/ATnoX)                                                  | ATX to AT/XT/Amiga power supply adapter                 | [hkzlab](https://github.com/hkzlab)               |
 
