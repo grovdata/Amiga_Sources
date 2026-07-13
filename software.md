@@ -15,8 +15,9 @@ Different Amiga applications, demos and games that have source code available.
 [ADiffView](https://github.com/rosneru/ADiffView) | ADiffView is a diff tool for AmigaOS 3.0+ | [Uwe Rosner](https://github.com/rosneru) |
 [AmiAuthenticator](https://github.com/dmcoles/AmiAuthenticator) | AmiAuthenticator is a 2FA code generator for the Amiga  | [phantasm4489](https://github.com/dmcoles) |
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | [phantasm4489](https://github.com/dmcoles) |
-[AmiFTP 2](https://github.com/amigazen/AmiFTP) | GUI FTP client for Amiga with ReAction, ARexx support, and Aminet mode. | [amigazen project](https://github.com/amigazen) |
+[AmiFTP 2](https://github.com/amigazen/AmiFTP) | A remote access toolkit for AmigaOS | [amigazen project](https://github.com/amigazen) |
 [AmigaAI](https://github.com/murinsel/AmigaAI) | Native AI assistant powered by Anthropic's Claude API. | [murinsel ](https://github.com/murinsel) |
+[amigactl](https://github.com/tbdye/amigactl) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [tbdye](https://github.com/tbdye) |
 [AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
 [amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
 [Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
@@ -37,6 +38,7 @@ Different Amiga applications, demos and games that have source code available.
 [gadf](https://github.com/sphair/gadf) | Create bootable Amiga ADF disk images from executables | [sphair](https://github.com/sphair) |
 [gcp.device](https://github.com/chris-y/gcp.device) | Google Cloud Print device for AmigaOS | Chris Young
 [GoSnap](https://github.com/bitplanpl/GoSnap) | GoSnap is a program that brings to AmigaOS a window snapping feature  | [bitplanpl](https://github.com/bitplanpl) |
+[HDPart](https://github.com/stefanskotte/hdpart) | A modern AmigaOS RDB hard-disk partition tool for Kickstart 2.04+ | [stefanskotte](https://github.com/stefanskotte) |
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
 [iGame](https://github.com/midwan/iGame) | iGame is a MUI frontend to launching WHDLoad games | [Dimitris Panokostas](https://github.com/midwan/iGame) |
 [iTidy](https://github.com/Kwezza/iTidy) | An automated Workbench icon layout and window tidy tool for AmigaOS 3.x | [Kerry Thompson](https://github.com/Kwezza) |
@@ -50,11 +52,13 @@ Different Amiga applications, demos and games that have source code available.
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
 [Open LHA Archiver](https://codeberg.org/MastaTabs/olha) |  GPL-2.0-or-later implementation of the LHA archive format  | [MastaTabs](https://codeberg.org/MastaTabs) |
 [Q-Device](https://github.com/oddsocks1024/qDevice) | Q-Device! is a graphical tool for querying and controlling IDE and SCSI devices  | [oddsocks1024](https://github.com/oddsocks1024) |
-[RO](https://github.com/rummeyer/amiga-RO) | A MUI-Based FileManager for m68k-amigaos | [Oliver Rummeyer ](https://github.com/rummeyer) |
+[RC-FTPd](https://github.com/alfishe/rc-ftpd) | FTP server for AmigaOS with MUI graphical interface | [alfishe ](https://github.com/alfishe) |
 [rVNCd](https://github.com/rolsen74/rvncd) | Amiga VNC Server | [René W. Olsen](https://github.com/rolsen74) |
+[RO](https://github.com/rummeyer/amiga-RO) | A MUI-Based FileManager for m68k-amigaos | [Oliver Rummeyer ](https://github.com/rummeyer) |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
 [Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng |
+[telegram-amiga](https://github.com/kaffeine1/telegram-amiga) | Telegram client for Amiga-family systems | [kaffeine1 ](https://github.com/kaffeine1) |
 [TuneFinder](https://github.com/sandlbn/TuneFinder) | Internet radio browser for AmigaOS 3.x | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
