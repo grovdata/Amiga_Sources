@@ -20,6 +20,7 @@ Different Amiga applications, demos and games that have source code available.
 [AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
 [amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
 [Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
+[AmiMAIL](https://github.com/Andiweli/AmiMAIL) | Mail client for AmigaOS 3.2+ using ReAction and AmiSSL | [Andreas Stürmer](https://andiweli.github.io/) |
 [AmiModRadio](https://codeberg.org/tygre/amimodradio) | Play modules from Internet sources | [Tygre](https://codeberg.org/tygre) |
 [AmiRSS](https://github.com/cyberman/AmiRSS) | AmiRSS is an RSS client | [cyberman](https://github.com/cyberman) |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
@@ -96,6 +97,7 @@ Different Amiga applications, demos and games that have source code available.
 [ghosts_and_goblins](https://github.com/jotd666/ghosts_and_goblins) | Amiga port of Ghosts n Goblins Arcade | [jotd666](https://github.com/jotd666) |
 [goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
+[Gloom Reforged](https://github.com/Andiweli/Gloom-Reforged) | GLOOM 'Reforged' for AmigaOS AGA/ECS/P96 | [Andreas Stürmer](https://andiweli.github.io/) |
 [Gravitar](https://github.com/jotd666/gravitar) | Amiga port of Gravitar arcade version | [jotd666](https://github.com/jotd666) |
 [Gyruss](https://github.com/jotd666/gyruss) | Port of Gyruss for Amiga | [jotd666](https://github.com/jotd666) |
 [HyperSports](https://github.com/jotd666/hyper_sports) | Remake of Hyper Sports / Hyper Olympic'84 for amiga AGA & ECS | [jotd666](https://github.com/jotd666) |
