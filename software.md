@@ -15,9 +15,9 @@ Different Amiga applications, demos and games that have source code available.
 [ADiffView](https://github.com/rosneru/ADiffView) | ADiffView is a diff tool for AmigaOS 3.0+ | [Uwe Rosner](https://github.com/rosneru) |
 [AmiAuthenticator](https://github.com/dmcoles/AmiAuthenticator) | AmiAuthenticator is a 2FA code generator for the Amiga  | [phantasm4489](https://github.com/dmcoles) |
 [AmiExpress](https://github.com/dmcoles/AmiExpress) | Rewrite of the AmiExpress BBS system | [phantasm4489](https://github.com/dmcoles) |
-[AmiFTP 2](https://github.com/amigazen/AmiFTP) | A remote access toolkit for AmigaOS | [amigazen project](https://github.com/amigazen) |
+[AmiFTP 2](https://github.com/amigazen/AmiFTP) | FTP client for AmigaOS | [amigazen project](https://github.com/amigazen) |
 [AmigaAI](https://github.com/murinsel/AmigaAI) | Native AI assistant powered by Anthropic's Claude API. | [murinsel ](https://github.com/murinsel) |
-[amigactl](https://github.com/tbdye/amigactl) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [tbdye](https://github.com/tbdye) |
+[amigactl](https://github.com/tbdye/amigactl) | Server for LLM remote control | [tbdye](https://github.com/tbdye) |
 [AmigaGPT](https://github.com/sacredbanana/AmigaGPT) | ChatGPT client for AmigaOS 3.x, 4.1 and MorphOS | [Cameron Armstrong](https://github.com/sacredbanana) |
 [amigamame](https://github.com/krabobmkd/amigamame) | MAME port for Amiga AGA and RTG | [krabobmkd](https://github.com/krabobmkd) |
 [Amiget](https://github.com/emartisoft/amiget) | CLI application to search for and download packages from aminet on AmigaOS 3.X | [Murat Özdemir](https://github.com/emartisoft) |
@@ -58,7 +58,7 @@ Different Amiga applications, demos and games that have source code available.
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
 [Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng |
-[telegram-amiga](https://github.com/kaffeine1/telegram-amiga) | Telegram client for Amiga-family systems | [kaffeine1 ](https://github.com/kaffeine1) |
+[telegram-amiga](https://github.com/kaffeine1/telegram-amiga) | Telegram client for Amiga-family systems | [kaffeine1](https://github.com/kaffeine1) |
 [TuneFinder](https://github.com/sandlbn/TuneFinder) | Internet radio browser for AmigaOS 3.x | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
 [TuneFinderMUI](https://github.com/sandlbn/TuneFinderMUI) |	MUI interface for TuneFinder | [Marcin Spoczynski](https://github.com/sandlbn) |
@@ -106,34 +106,20 @@ Different Amiga applications, demos and games that have source code available.
 [High Octane](https://github.com/titmouse001/Amiga-Archive-For-My-Old-Stuff) | High-Octane driving game | [titmouse001](https://github.com/titmouse001) |
 [High Octane II](https://github.com/titmouse001/Amiga-HighOctane2) | High-Octane II  driving game | [titmouse001](https://github.com/titmouse001) |
 [HyperSports](https://github.com/jotd666/hyper_sports) | Remake of Hyper Sports / Hyper Olympic'84 for amiga AGA & ECS | [jotd666](https://github.com/jotd666) |
-[Ikari Warriors RTG](https://github.com/CrownParkComputing/mpatrol) | Ikari Warriors Arcade port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Karate Champ](https://github.com/jotd666/karatechamp500) | 1:1  remake of Karate Champ VS on the Amiga 500 | [jotd666](https://github.com/jotd666) |
 [Knightmare](https://github.com/djh0ffman/KnightmareAmiga) | Port of the Konami classic for MSX | [H0ffman](https://github.com/djh0ffman) |
 [Lock'n'Chase](https://github.com/jotd666/lock_and_chase) | Port of Lock'n'Chase (data east) for Amiga | [jotd666](https://github.com/jotd666) |
 [Menace](https://github.com/davepoo/Menace-Amiga-Format) | The 1988 Amiga game 'Menace' | [Menace](https://github.com/davepoo) |
-[Moon Cresta RTG](https://github.com/CrownParkComputing/MoonCresta-Amiga) | Moon Cresta Arcade port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Moon Patrol](https://github.com/jotd666/mpatrol) | Amiga port of Moon Patrol arcade version | [jotd666](https://github.com/jotd666) |
 [MsPacman 500](https://github.com/jotd666/mspacman500) |  1:1 port of MsPacman arcade version on Amiga 500  | [jotd666](https://github.com/jotd666) |
-[OutRun](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | OutRun Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
-[OutRun 2019](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | OutRun 2019 Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
-[OutRunners](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | OutRunners Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
-[OutRun Trilogy](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | OutRun Trilogy Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Pacman](https://github.com/jotd666/pacman500) |  1:1 port of Pacman arcade version on Amiga 500 | [jotd666](https://github.com/jotd666) |
 [Pengo](https://github.com/jotd666/pengo500) | Amiga port of Pengo arcade version | [jotd666](https://github.com/jotd666) |
 [Phoenix](https://github.com/jotd666/phoenix) | Remake of Phoenix for ECS/AGA Amiga | [jotd666](https://github.com/jotd666) |
 [Pooyan](https://github.com/jotd666/pooyan) | Remake of Pooyan for Amiga | [jotd666](https://github.com/jotd666) |
-[Revenge of Shinobi](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Revenge of Shinobi Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
-[Road Rash](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Road Rash Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
-[Road Rash 2](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Road Rash 2 Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
-[Road Rash 3](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Road Rash 3 Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Rygar AGA](https://gitlab.com/menelkir/amiga/-/tree/main/rygar_aga_170?ref_type=heads) | Rygar port for Amiga AGA | [menelkir](https://gitlab.com/menelkir) |
 [Scramble 500](https://github.com/jotd666/scramble500) | 1:1 port of Scramble arcade on Amiga 500 | [jotd666](https://github.com/jotd666) |
-[Sonic the Hedgehog](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Sonic the Hedgehog Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
-[Sonic the Hedgehog 2](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Sonic the Hedgehog 2 Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
-[Sonic 3 & Knuckles](https://github.com/CrownParkComputing/Sega-MegaDrive-Amiga-Ports) | Sonic 3 & Knuckles Megadrive port for Amiga RTG | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Stunt Car Racer (Framerate Unleashed)](https://github.com/Vesuri/stuntcarracer) | Enhanced version of Stunt Car Racer with 50/60fps | [Vesuri](https://github.com/Vesuri) |
 [Super Bagman](https://github.com/jotd666/sbagman) | Super Bagman remake for Amiga | [jotd666](https://github.com/jotd666) |
-[Terra Cresta](https://github.com/CrownParkComputing/SNKIkari-Amiga) | Terra Cresta Arcade port for Amiga | [CrownParkComputing ](https://github.com/CrownParkComputing) |
 [Tetris](https://github.com/jotd666/tetris) | Port of Atari Arcade Tetris for Amiga 1200 | [jotd666](https://github.com/jotd666) |
 [Track'N'Field](https://github.com/jotd666/track_and_field) | Amiga port of 1983 Konami game | [jotd666](https://github.com/jotd666) |
 [US Championship V'ball](https://github.com/jotd666/us_champ_vball) | Remake of US Championship V'ball for Amiga (AGA & ECS) | [jotd666](https://github.com/jotd666) |

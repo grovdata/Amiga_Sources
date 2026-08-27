@@ -233,7 +233,6 @@ PSU related.
 | [A500spwr](https://github.com/MastaTabs/a500spwr)                                         | Single 12V Power supply module for Amiga 500 computers  | [Tobias Seiler](https://github.com/MastaTabs)     |
 | [A500-Tower-Power](https://github.com/wiretap-retro/A500-Tower-Power)                     | ATX adapter for A500 tower builds                       | [wiretap-retro](https://github.com/wiretap-retro) |
 | [Amiga_DB23_to_USBC](https://github.com/jbilander/Amiga_DB23_to_USB_C_power_only_adapter) | +5V from external D-sub DB23 floppy drive port to USB-C | [jbilander](https://github.com/jbilander)         |
-| [amigaPSU](https://github.com/RetroIsTheNewBlack/amigaPSU)                                | amigaPSU                                                | [RetroIsTheNewBlack](https://github.com/RetroIsTheNewBlack) |
 | [ATX adaptors](https://github.com/istedman/ATX_adaptors)                                  | ATX power supply adaptors for Amigas                    | Ian Steadman                                      |
 | [ATnoX](https://github.com/hkzlab/ATnoX)                                                  | ATX to AT/XT/Amiga power supply adapter                 | [hkzlab](https://github.com/hkzlab)               |
 
