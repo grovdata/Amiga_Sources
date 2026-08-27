@@ -32,6 +32,7 @@ Accelerator and turbo boards.
 | [68040-to-68060](https://github.com/reinauer/68040-to-68060)     | 68040 to 68060 adapter                                                                        | [Stefan Reinauer](https://github.com/reinauer) et al |
 | [A314](https://github.com/niklasekstrom/a314)                    | A500 expansion board with SBC bus                                                             | [Niklas Ekström](https://github.com/niklasekstrom)   |
 | [A3640](http://wordpress.hertell.nu/?page_id=514)                | Reverse engineered C= A3640 accelerator                                                       | John 'Chucky' Hertell                                |
+| [amigasoftfpu](https://github.com/fitzee/amigasoftfpu)           | Amiga floating point co-processor built with ESP32-S3                                         | [fitzee](https://github.com/fitzee)                                        |
 | [Greta](https://github.com/endofexclusive/greta)                 | Amiga 500 expansion board with Fast RAM, microSD mass storage and Ethernet controller.        | Martin Åberg                                         |
 | [N2630](https://github.com/jasonsbeer/Amiga-N2630)               | A re-imagining of the Amiga A2630 processor card                                              | [Jason Neus](https://github.com/jasonsbeer)          |
 | [OLM030](https://github.com/OlegMishin/OLM030)                   | Amiga 500 accelerator based on 68030FE33                                                      | [Oleg Mishin](https://github.com/OlegMishin)         |
@@ -59,6 +60,7 @@ Accelerator and turbo boards.
 
 | Project                                                                                                 | Description                                                              | Author                                          |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------- |
+| [aca_1240_1260](https://github.com/not-kryten/amiga-hardware-projects/tree/main/aca_1240_1260)          | 3D printed trapdoor for ACA1240/1260                                     | [not-kryten](https://github.com/not-kryten)     |
 | [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library)                          | EagleCAD-library for Commodore Amiga custom chips                        | [matze](https://gitlab.com/MHeinrichs)          |
 | [Amiga PSU Enclosure ECM60UT31](https://github.com/jbilander/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31) | A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 model      | [Jörgen Bilander](https://github.com/jbilander) |
 | [Amiga PSU Enclosure RT-50B](https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B)      | A 3d-printable Amiga PSU Enclosure for the Mean Well RT-50B Power Supply | [Jörgen Bilander](https://github.com/jbilander) |
@@ -173,7 +175,10 @@ Clones or improved versions of motherboards.
 | [Amegapad](https://github.com/LIV2/Amegapad)                                            | 6-button Megadrive pad adapter for Amiga with autofire                                    | [LIV2](https://github.com/LIV2)                                 |
 | [amigahid-pico](https://github.com/borb/amigahid-pico)                                  | Use USB input devices on Amiga computers, using Raspberry Pi Pico.                        | [nine](https://github.com/borb)                                 |
 | [Amiga Tanklight](https://gitlab.com/marceljaehne/amiga-tanklight)                      | This is an optical replacement board for the Amiga Tankmouse with real quadrature signals | [Marcel Jähne](https://gitlab.com/marceljaehne)                 |
+| [AmiBLEHID](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter)                 | USB to DB9                                                                                | [bluescrn](https://github.com/bluescrn)                         |
+| [Atari-Quadrature-USB-Mouse-Adapter](https://github.com/bluescrn/AmiBLEHID)             | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
 | [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter) | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
+| [Atari ST/STe (also Amiga) USB Mouse Adapter](https://github.com/tomekszafranski/AtariST-Amiga-USBmouse) | USB to DB9                                                               | [tomekszafranski](https://github.com/tomekszafranski)           |
 | [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI)                              | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter                  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
 | [JoyDivision](https://github.com/develin4000/joydivision)                               | USB interface to use DB9/Atari-style joysticks on modern computers.                       | Stefan Blixth                                                   |
 | [OpenAmigaFourPlayerAdapter](https://github.com/SukkoPera/OpenAmigaFourPlayerAdapter)   | Connect up to four joysticks to your Amiga!                                               | [SukkoPera](https://github.com/SukkoPera)                       |
@@ -188,6 +193,7 @@ Clones or improved versions of motherboards.
 
 | Project                                               | Description                                             | Author                                             |
 | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
+| [PaulaNet](https://github.com/RobSmithDev/PaulaNET)   | Amiga WiFi via the Floppy Port                          | [RobSmithDev ](https://github.com/RobSmithDev)     |
 | [picowyfy](https://github.com/niklasekstrom/picowyfy) | Raspberry Pi Pico-based Wifi NIC for clockport          | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [plipbox](https://github.com/cnvogelg/plipbox)        | Parallell port Ethernet interface for all Amiga models. | Christian Vogelgsang                               |
 
