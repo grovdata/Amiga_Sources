@@ -104,7 +104,6 @@ Different Amiga applications, demos and games that have source code available.
 [goodsoup](https://github.com/betajaen/goodsoup) | Port of Curse of Monkey Island | [Robin Southern](https://github.com/betajaen)
 [Gloom](https://github.com/earok/GloomAmiga) | Classic Amiga FPS | Black Magic |
 [Gloom Reforged](https://github.com/Andiweli/Gloom-Reforged) | GLOOM 'Reforged' for AmigaOS AGA/ECS/P96 | [Andreas Stürmer](https://andiweli.github.io/) |
-[Gravitar](https://github.com/jotd666/gravitar) | Amiga port of Gravitar arcade version | [jotd666](https://github.com/jotd666) |
 [Gyruss](https://github.com/jotd666/gyruss) | Port of Gyruss for Amiga | [jotd666](https://github.com/jotd666) |
 [High Octane](https://github.com/titmouse001/Amiga-Archive-For-My-Old-Stuff) | High-Octane driving game | [titmouse001](https://github.com/titmouse001) |
 [High Octane II](https://github.com/titmouse001/Amiga-HighOctane2) | High-Octane II  driving game | [titmouse001](https://github.com/titmouse001) |
