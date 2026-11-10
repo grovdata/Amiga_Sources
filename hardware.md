@@ -70,15 +70,16 @@ Accelerator and turbo boards.
 
 Recreated versions of custom chips in the Amiga chipset or related periperals.
 
-| Project                                                                   | Description                                                          | Author                                              |
-| ------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------- |
-| [Bluster](https://github.com/LIV2/Bluster)                                | A2000 Buster replacement                                             | [LIV2](https://github.com/LIV2)                     |
-| [Deniser](https://github.com/endofexclusive/deniser)                      | Deniser is a drop-in replacement for the Amiga computer Denise chip. | [endofexclusive](https://github.com/endofexclusive) |
-| [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus)                | Adapter to fit the older 1MB Agnus to the A500+                      | [LIV2](https://github.com/LIV2)                     |
-| [OpenAmigaVideoHybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid) | Open Hardware implementation of the Commodore Amiga Video Hybrid     | [SukkoPera](https://github.com/SukkoPera)           |
-| [ReAgnus](https://github.com/jbilander/ReAgnus)                           | ReAgnus is a replacement for the Amiga Agnus chip.                   | [Jörgen Bilander](https://github.com/jbilander)     |
-| [ReCIA](https://github.com/jbilander/ReCIA)                               | A drop in replacement CIA for old Amiga Computers                    | [Jörgen Bilander](https://github.com/jbilander)     |
-| [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC)                        | ReSDMAC is a replacement for the Amiga SDMAC chip.                   | [mbtaylor1982](https://github.com/mbtaylor1982)     |
+| Project                                                                               | Description                                                          | Author                                              |
+| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------- |
+| [Amiga Replacement Project](https://github.com/nonarkitten/amiga_replacement_project) | Clean Verilog sources for each Amiga custom chip                     | [nonarkitten](https://github.com/nonarkitten)       |
+| [Bluster](https://github.com/LIV2/Bluster)                                            | A2000 Buster replacement                                             | [LIV2](https://github.com/LIV2)                     |
+| [Deniser](https://github.com/endofexclusive/deniser)                                  | Deniser is a drop-in replacement for the Amiga computer Denise chip. | [endofexclusive](https://github.com/endofexclusive) |
+| [Diet Agnus](https://github.com/LIV2/Diet-Agnus-A500-plus)                            | Adapter to fit the older 1MB Agnus to the A500+                      | [LIV2](https://github.com/LIV2)                     |
+| [OpenAmigaVideoHybrid](https://github.com/SukkoPera/OpenAmigaVideoHybrid)             | Open Hardware implementation of the Commodore Amiga Video Hybrid     | [SukkoPera](https://github.com/SukkoPera)           |
+| [ReAgnus](https://github.com/jbilander/ReAgnus)                                       | ReAgnus is a replacement for the Amiga Agnus chip.                   | [Jörgen Bilander](https://github.com/jbilander)     |
+| [ReCIA](https://github.com/jbilander/ReCIA)                                           | A drop in replacement CIA for old Amiga Computers                    | [Jörgen Bilander](https://github.com/jbilander)     |
+| [ReSDMAC](https://github.com/mbtaylor1982/ReSDMAC)                                    | ReSDMAC is a replacement for the Amiga SDMAC chip.                   | [mbtaylor1982](https://github.com/mbtaylor1982)     |
 
 ## Emulator cards
 
@@ -124,6 +125,7 @@ Floppy drive emulators, switches, etc.
 | [AmigaDualFloppyInterface](https://github.com/roddersuk/AmigaDualFloppyInterface)                         | Amiga 500 6A Dual Internal Floppy Drive Interface                                                  | [roddersuk](https://github.com/roddersuk)            |
 | [Amiga-external-3x-FDD](https://github.com/Baryduke/Amiga-external-3x-FDD)                                | Allows you to connect an original 1.44MB 3.5" PC FDD                                               | [Baryduke](https://github.com/Baryduke)              |
 | [amiga-hddlw](https://github.com/schlae/amiga-hddlw)                                                      | Adapts a regular PC floppy drive for high density operation on an Amiga computer                   | [schlae](https://github.com/schlae)                  |
+| [DrawBridge](https://github.com/RobSmithDev/ArduinoFloppyDiskReader) | Arduino based Amiga floppy disk reader/writer | [Rob Smith](https://github.com/RobSmithDev) |
 | [Floppy adaptor](https://github.com/istedman/Floppy_adaptor)                                              | Converts PC floppy drive interface to Amiga/Shugart bus interface.                                 | Ian Steadman                                         |
 | [FlashFloppy OSD](https://github.com/keirf/FF_OSD)                                                        | OSD Menu for FlashFloppy                                                                           | Keir Fraser                                          |
 | [FlashFloppy](https://github.com/keirf/FlashFloppy)                                                       | Floppy drive emulator for the ubiquitous Gotek hardware.                                           | Keir Fraser                                          |
@@ -160,6 +162,7 @@ Clones or improved versions of motherboards.
 | [A1200+](https://bitbucket.org/jvandezande/amiga-1200)         | A1200 replacement motherboards w/ improvements                                            | Jeroen Vandezande                           |
 | [A2000-remake](https://github.com/Floppie209/Amiga2000-remake) | Reverse engineered Amiga 2000 motherboard                                                 | Floppie209                                  |
 | [A4000 Replica Project](https://github.com/Acill/A4000RevB)    | A4000 Replica Project (Based on the Rev B)                                                | [Acill](https://github.com/Acill)           |
+| [Amiga 2000 EATX](https://github.com/jasonsbeer/Amiga-2000-EATX) | Amiga 2000 motherboard in the EATX form factor | [jasonsbeer](https://github.com/jasonsbeer) |
 | [Amiga-2000-ATX](https://github.com/jasonsbeer/Amiga-2000-ATX) | Amiga 2000 PCB in the EATX form factor                                                    | [Jason Neus](https://github.com/jasonsbeer) |
 | [AmigaPCI](https://github.com/AmigaPCI/AmigaPCI-MainBoard)     | OCS/ECS Amiga computer in the ATX form factor                                             | [AmigaPCI](https://github.com/AmigaPCI)     |
 | [Rämixx500](https://github.com/SukkoPera/Raemixx500)           | Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1 | [SukkoPera](https://github.com/SukkoPera)   |
@@ -170,24 +173,24 @@ Clones or improved versions of motherboards.
 
 ## Mouse / Joystick adapters
 
-| Project                                                                                 | Description                                                                               | Author                                                          |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [Amegapad](https://github.com/LIV2/Amegapad)                                            | 6-button Megadrive pad adapter for Amiga with autofire                                    | [LIV2](https://github.com/LIV2)                                 |
-| [amigahid-pico](https://github.com/borb/amigahid-pico)                                  | Use USB input devices on Amiga computers, using Raspberry Pi Pico.                        | [nine](https://github.com/borb)                                 |
-| [Amiga Tanklight](https://gitlab.com/marceljaehne/amiga-tanklight)                      | This is an optical replacement board for the Amiga Tankmouse with real quadrature signals | [Marcel Jähne](https://gitlab.com/marceljaehne)                 |
-| [AmiBLEHID](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter)                 | USB to DB9                                                                                | [bluescrn](https://github.com/bluescrn)                         |
-| [Atari-Quadrature-USB-Mouse-Adapter](https://github.com/bluescrn/AmiBLEHID)             | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
-| [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter) | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
-| [Atari ST/STe (also Amiga) USB Mouse Adapter](https://github.com/tomekszafranski/AtariST-Amiga-USBmouse) | USB to DB9                                                               | [tomekszafranski](https://github.com/tomekszafranski)           |
-| [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI)                              | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter                  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
-| [JoyDivision](https://github.com/develin4000/joydivision)                               | USB interface to use DB9/Atari-style joysticks on modern computers.                       | Stefan Blixth                                                   |
-| [OpenAmigaFourPlayerAdapter](https://github.com/SukkoPera/OpenAmigaFourPlayerAdapter)   | Connect up to four joysticks to your Amiga!                                               | [SukkoPera](https://github.com/SukkoPera)                       |
-| [OpenAmigaJoyMouseSwitcher](https://github.com/SukkoPera/OpenAmigaJoyMouseSwitcher)     | Automatic Mouse/Joystick Switcher for Amiga Computers                                     | [SukkoPera](https://github.com/SukkoPera)                       |
-| [OpenPSX2AmigaPadAdapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter)         | Adapter that allows using a PlayStation gamepad on Amiga and CD32                         | [SukkoPera](https://github.com/SukkoPera)                       |
-| [SmallyMouse](https://github.com/simoninns/SmallyMouse2)                                | USB mouse adaptor for retro computers (Amiga and others)                                  | Simon Inns                                                      |
-| [Unijoysticle™ 2](https://github.com/ricardoquesada/unijoysticle2)                      | Bluetooth gamepad support for the Commodore 64 / Atari / Amiga, etc.                      | [Ricardo Quesada](https://github.com/ricardoquesada)            |
-| [Yami](https://codeberg.org/shred/yami)                                                 | Serial mouse to Amiga & Atari ST Adapter                                                  | [Richard Körber](https://codeberg.org/shred)                    |
-| [Yaumataca](https://github.com/Slamy/Yaumataca)                                         | USB mouse and joystick to Amiga, Atari ST & C64 Adapter                                   | [Slamy](https://github.com/Slamy/)                              |
+| Project                                                                                                  | Description                                                                               | Author                                                          |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Amegapad](https://github.com/LIV2/Amegapad)                                                             | 6-button Megadrive pad adapter for Amiga with autofire                                    | [LIV2](https://github.com/LIV2)                                 |
+| [amigahid-pico](https://github.com/borb/amigahid-pico)                                                   | Use USB input devices on Amiga computers, using Raspberry Pi Pico.                        | [nine](https://github.com/borb)                                 |
+| [Amiga Tanklight](https://gitlab.com/marceljaehne/amiga-tanklight)                                       | This is an optical replacement board for the Amiga Tankmouse with real quadrature signals | [Marcel Jähne](https://gitlab.com/marceljaehne)                 |
+| [AmiBLEHID](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter)                                  | USB to DB9                                                                                | [bluescrn](https://github.com/bluescrn)                         |
+| [Atari-Quadrature-USB-Mouse-Adapter](https://github.com/bluescrn/AmiBLEHID)                              | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
+| [Atari/Amiga mouse adapter](https://github.com/jjmz/Atari-Quadrature-USB-Mouse-Adapter)                  | USB to DB9                                                                                | [jjmz](https://github.com/jjmz)                                 |
+| [Atari ST/STe (also Amiga) USB Mouse Adapter](https://github.com/tomekszafranski/AtariST-Amiga-USBmouse) | USB to DB9                                                                                | [tomekszafranski](https://github.com/tomekszafranski)           |
+| [HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI)                                               | First Class HID controller to AMIGA (Atari, etc..) adaptor and converter                  | [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) |
+| [JoyDivision](https://github.com/develin4000/joydivision)                                                | USB interface to use DB9/Atari-style joysticks on modern computers.                       | Stefan Blixth                                                   |
+| [OpenAmigaFourPlayerAdapter](https://github.com/SukkoPera/OpenAmigaFourPlayerAdapter)                    | Connect up to four joysticks to your Amiga!                                               | [SukkoPera](https://github.com/SukkoPera)                       |
+| [OpenAmigaJoyMouseSwitcher](https://github.com/SukkoPera/OpenAmigaJoyMouseSwitcher)                      | Automatic Mouse/Joystick Switcher for Amiga Computers                                     | [SukkoPera](https://github.com/SukkoPera)                       |
+| [OpenPSX2AmigaPadAdapter](https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter)                          | Adapter that allows using a PlayStation gamepad on Amiga and CD32                         | [SukkoPera](https://github.com/SukkoPera)                       |
+| [SmallyMouse](https://github.com/simoninns/SmallyMouse2)                                                 | USB mouse adaptor for retro computers (Amiga and others)                                  | Simon Inns                                                      |
+| [Unijoysticle™ 2](https://github.com/ricardoquesada/unijoysticle2)                                       | Bluetooth gamepad support for the Commodore 64 / Atari / Amiga, etc.                      | [Ricardo Quesada](https://github.com/ricardoquesada)            |
+| [Yami](https://codeberg.org/shred/yami)                                                                  | Serial mouse to Amiga & Atari ST Adapter                                                  | [Richard Körber](https://codeberg.org/shred)                    |
+| [Yaumataca](https://github.com/Slamy/Yaumataca)                                                          | USB mouse and joystick to Amiga, Atari ST & C64 Adapter                                   | [Slamy](https://github.com/Slamy/)                              |
 
 ## Network interfaces
 
@@ -222,6 +225,7 @@ Hardware that doesn't fit in the other categories.
 | [Amiga Par-to-SPI](https://github.com/niklasekstrom/amiga-par-to-spi-adapter) | SPI adapter that connects to the parallel port of an Amiga | [Niklas Ekström](https://github.com/niklasekstrom) |
 | [ar3](https://github.com/na103/ar3)                                           | Action Replay III replica                                  | [Nicola Avanzi](https://github.com/na103)          |
 | [DeMoN cartridge](https://github.com/gerbilbyte/DeMoN2)                       | Improved AR3 cartridge                                     | REbEL et. al                                       |
+| [NanoMig](https://github.com/MiSTle-Dev/NanoMig) | Minimig Amiga ported to the Tang Nano 20k FPGA | [MiSTle-Dev](https://github.com/MiSTle-Dev) |
 | [Paula Interrupt Adapter](https://github.com/reinauer/Paula-Int-Adapter)      | Int7 NMI generator for A500/1000/2000                      | [Stefan Reinauer](https://github.com/reinauer)     |
 
 ## Power supplies
@@ -278,5 +282,6 @@ Video adaptes, flickerfixers, etc.
 | [Amiga-Videoslot-RGB2HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI) | Bigbox video slot version of RGB2HDMI                                                 | [Bloodmosher](https://github.com/Bloodmosher)                   |
 | [BeamBender](https://github.com/jbilander/BeamBender)                                | An open source flicker fixer PCB for Amiga 1200 and 500                               | [jbilander](https://github.com/jbilander)                       |
 | [Flickerfixer](https://github.com/niklasekstrom/flickerfixer)                        | An open source flicker fixer for Amiga 500/2000.                                      | [Niklas Ekström](https://github.com/niklasekstrom)              |
+| [Framethrower Denise](https://github.com/PiStorm/Framethrower_Denise)                | Digital video output for Amigas with Denise chip                                      | [PiStorm](https://github.com/PiStorm)                           |
 | [Multifix-AGA](https://gitlab.com/MHeinrichs/multifix-aga)                           | This is a ECS and AGA-combo scandoubler and flicker fixer for big box Amigas.         | [Matthias Heinrichs ](https://gitlab.com/MHeinrichs)            |
 | [RGB2HDMI](https://github.com/c0pperdragon/Amiga-Digital-Video)                      | Amiga HDMI Scandoubler based on Raspberry Pi Zero                                     | [c0pperdragon](https://github.com/c0pperdragon)                 |

@@ -24,6 +24,7 @@ Different Amiga applications, demos and games that have source code available.
 [AmiMAIL](https://github.com/Andiweli/AmiMAIL) | Mail client for AmigaOS 3.2+ using ReAction and AmiSSL | [Andreas Stürmer](https://andiweli.github.io/) |
 [AmiModRadio](https://codeberg.org/tygre/amimodradio) | Play modules from Internet sources | [Tygre](https://codeberg.org/tygre) |
 [AmiRSS](https://github.com/cyberman/AmiRSS) | AmiRSS is an RSS client | [cyberman](https://github.com/cyberman) |
+[AmiTCP NG](https://github.com/MW0MWZ/AmiTCP_NG) | Modernised GPL fork of the AmiTCP/IP 3.0b2 TCP/IP stack | [MW0MWZ](https://github.com/MW0MWZ) |
 [ArcadeGameSelector](https://github.com/MagerValp/ArcadeGameSelector) | Frontend for (WHDload) games | Per Olofsson |
 [Avalanche](https://github.com/chris-y/avalanche) | ReAction GUI for xadmaster, xfdmaster, and Deark | [Chris Young ](https://github.com/chris-y/avalanche) |
 [AWeb 3](https://github.com/amigazen/AWeb3) | HTML 3 web browser for Amiga | [amigazen project](https://github.com/amigazen) |
@@ -41,6 +42,7 @@ Different Amiga applications, demos and games that have source code available.
 [GoSnap](https://github.com/bitplanpl/GoSnap) | GoSnap is a program that brings to AmigaOS a window snapping feature  | [bitplanpl](https://github.com/bitplanpl) |
 [HDPart](https://github.com/stefanskotte/hdpart) | A modern AmigaOS RDB hard-disk partition tool for Kickstart 2.04+ | [stefanskotte](https://github.com/stefanskotte) |
 [HippoPlayer](https://github.com/koobo/HippoPlayer) | Great module player for Workbench. | Kari-Pekka Koljonen |
+[HyperCache](https://github.com/PlummersSoftwareLLC/HyperCacheAmiga) | Disk cache, source of the commercial 1992 version | [Dave Plummer](https://github.com/PlummersSoftwareLLC) |
 [iGame](https://github.com/midwan/iGame) | iGame is a MUI frontend to launching WHDLoad games | [Dimitris Panokostas](https://github.com/midwan/iGame) |
 [iTidy](https://github.com/Kwezza/iTidy) | An automated Workbench icon layout and window tidy tool for AmigaOS 3.x | [Kerry Thompson](https://github.com/Kwezza) |
 [LibXAD](https://github.com/ashang/libxad) | Plugin-based dearchiver for most formats | Dirk Stöcker
@@ -53,10 +55,13 @@ Different Amiga applications, demos and games that have source code available.
 [NFS](https://github.com/jens-maus/anfs) | NFS (Network File System) client and server | Jens Maus
 [NiKom](https://github.com/punktniklas/NiKom) | Legendary Swedish BBS software. | Niklas Lindholm |
 [Open LHA Archiver](https://codeberg.org/MastaTabs/olha) |  GPL-2.0-or-later implementation of the LHA archive format  | [MastaTabs](https://codeberg.org/MastaTabs) |
+[ProTracker 2.3F](https://github.com/8bitbubsy/pt23f) | ProTracker 2.3F for Amiga | [8bitbubsy](https://github.com/8bitbubsy) |
+[PT-1210](https://github.com/djh0ffman/PT1210) | DJ software for the Amiga | [h0ffman](https://github.com/djh0ffman) |
 [Q-Device](https://github.com/oddsocks1024/qDevice) | Q-Device! is a graphical tool for querying and controlling IDE and SCSI devices  | [oddsocks1024](https://github.com/oddsocks1024) |
 [RC-FTPd](https://github.com/alfishe/rc-ftpd) | FTP server for AmigaOS with MUI graphical interface | [alfishe ](https://github.com/alfishe) |
 [rVNCd](https://github.com/rolsen74/rvncd) | Amiga VNC Server | [René W. Olsen](https://github.com/rolsen74) |
 [RO](https://github.com/rummeyer/amiga-RO) | A MUI-Based FileManager for m68k-amigaos | [Oliver Rummeyer ](https://github.com/rummeyer) |
+[Serena](https://github.com/dplanitzer/Serena) | A modern operating system for Amiga computers | [Dietmar Planitzer](https://github.com/dplanitzer) |
 [SHA256](https://github.com/leffmann/SHA256) | SHA-256 utility | leffmann |
 [SimpleMail](https://github.com/sba1/simplemail) | E-mail client | Sebastian Bauer |
 [Symphonie](https://github.com/MastaTabs/Symphonie) | 256 channel tracker | Patrick Meng |
@@ -74,6 +79,7 @@ Different Amiga applications, demos and games that have source code available.
 
 | Project | Description | Author |
 |---------|-------------|--------|
+[cahirwpz demoscene](https://github.com/cahirwpz/demoscene) | Amiga OCS demoscene sources | [cahirwpz](https://github.com/cahirwpz) |
 [Demos in 68000 asm](https://github.com/smart-fun/Amiga) | Oldschool intros written in Assembler | Arnaud Guyon |
 [Planet Rocklobster](https://github.com/AxisOxy/Planet-Rocklobster) | OCS demo written in Assembler | Oxy |
 [projet-secret](https://github.com/voitureblanche/projet-secret) | Demo by Fra/Mandarine written in mostly system-friendly C. | Fra |
