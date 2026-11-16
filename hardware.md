@@ -204,6 +204,7 @@ Clones or improved versions of motherboards.
 
 | Project                                                                     | Description                                                                       | Author                                                          |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [amiga-latency-test](https://github.com/nicodex/amiga-latency-test)         | Just another custom ROM for testing display latency on classic PAL Amigas         | [Nico Bendlin](https://github.com/nicodex)                      |
 | [Amiga ROMY](https://github.com/reinauer/amiga-romy)                        | 1/2/4MB Kickstart adapter (A3000/A4000)                                           | [Stefan Reinauer](https://github.com/reinauer)                  |
 | [DiagROM](https://github.com/ChuckyGang/DiagROM)                            | The Amiga Diagnostic Rom                                                          | [John Hertell ](https://github.com/ChuckyGang)                  |
 | [DiagROMV2](https://github.com/ChuckyGang/DiagROMV2)                        | The Amiga Diagnostic Rom V2                                                       | [John Hertell ](https://github.com/ChuckyGang)                  |
